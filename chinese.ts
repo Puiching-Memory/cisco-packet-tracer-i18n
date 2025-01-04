@@ -12879,7 +12879,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1939"/>
         <source>Show Viewport</source>
-        <translation type="unfinished">显示窗口</translation>
+        <translation type="unfinished">显示鸟瞰图</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1075"/>
@@ -12901,7 +12901,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="937"/>
         <location filename="../gui/AppWindow.cpp" line="1995"/>
         <source>Custom Devices Dialog</source>
-        <translation type="unfinished">自定义设备对话框</translation>
+        <translation type="unfinished">自定义设备</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="737"/>
@@ -13050,12 +13050,12 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="873"/>
         <source>Preferences ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">偏好设置...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="875"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">偏好设置</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="880"/>
@@ -13206,7 +13206,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1965"/>
         <source>View Command Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看命令日志</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="884"/>
@@ -13244,7 +13244,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1951"/>
         <source>Show Workspace List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示工作区列表</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="928"/>
@@ -13342,26 +13342,26 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="1049"/>
         <location filename="../gui/AppWindow.cpp" line="1050"/>
         <source>Getting Started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始使用</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1054"/>
         <location filename="../gui/AppWindow.cpp" line="1057"/>
         <location filename="../gui/AppWindow.cpp" line="1058"/>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">内容</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1061"/>
         <location filename="../gui/AppWindow.cpp" line="1062"/>
         <source>Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">教程</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1066"/>
         <location filename="../gui/AppWindow.cpp" line="1067"/>
         <source>Report an Issue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">报告问题</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1070"/>
@@ -13398,7 +13398,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1701"/>
         <source>Simulation Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">模拟面板</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1724"/>
@@ -13413,7 +13413,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1748"/>
         <source>command log dock window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">命令日志停靠窗口</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1761"/>
@@ -13428,7 +13428,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1787"/>
         <source>Physical Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">物理位置</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1800"/>
@@ -13443,7 +13443,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1941"/>
         <source>View the entire workspace.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看整个工作区.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1953"/>
@@ -13713,7 +13713,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4970"/>
         <source>Saving Offline Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存离线副本</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4970"/>
@@ -13830,12 +13830,12 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2703"/>
         <source> and ExApp Supported File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 和ExApp支持的文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2729"/>
         <source> File (*.pkt *.pkac *.pkc)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 文件 (*.pkt *.pkac *.pkc)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2875"/>
@@ -13846,7 +13846,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="2876"/>
         <location filename="../gui/AppWindow.cpp" line="2992"/>
         <source>Invalid File -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法识别的文件 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2877"/>
@@ -13901,7 +13901,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3849"/>
         <source>. Please report this issue to http://ptbugs.ptnetacad.net and attach the save file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">.请将此问题报告到http://ptbugs.ptnetacad.net并附上保存文件.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3852"/>
