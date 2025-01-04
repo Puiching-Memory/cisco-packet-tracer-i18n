@@ -12868,28 +12868,28 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="878"/>
         <source>Algorithm Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">算法设置</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="913"/>
         <location filename="../gui/AppWindow.cpp" line="917"/>
         <source>Secondary Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">二级工具栏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1939"/>
         <source>Show Viewport</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示窗口</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1075"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+H</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1806"/>
         <source>PDU List Window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">PDU列表窗口</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1906"/>
@@ -12901,7 +12901,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="937"/>
         <location filename="../gui/AppWindow.cpp" line="1995"/>
         <source>Custom Devices Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义设备对话框</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="737"/>
@@ -13013,39 +13013,39 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="830"/>
         <source>Exit and Logout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">退出并登出</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="831"/>
         <source>Quit Packet Tracer and log out of your account. You will need to enter your login credentials again in your next session.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">退出Packet Tracer并登出您的帐户.您将需要在下次会话中再次输入登录凭据.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="835"/>
         <location filename="../gui/AppWindow.cpp" line="836"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">退出</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="843"/>
         <location filename="../gui/AppWindow.cpp" line="845"/>
         <location filename="../gui/AppWindow.cpp" line="847"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="850"/>
         <location filename="../gui/AppWindow.cpp" line="852"/>
         <location filename="../gui/AppWindow.cpp" line="854"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">粘贴</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="858"/>
         <location filename="../gui/AppWindow.cpp" line="860"/>
         <location filename="../gui/AppWindow.cpp" line="862"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">撤销</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="873"/>
@@ -13196,12 +13196,12 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1916"/>
         <source>User Profile ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户配置文件...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1920"/>
         <source>User Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户配置文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1965"/>
@@ -13285,23 +13285,23 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="967"/>
         <source>Listening Ports ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">监听端口...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="973"/>
         <source>Listen ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">监听...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="978"/>
         <source>Port Visibility ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">端口可见性...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="984"/>
         <location filename="../gui/AppWindow.cpp" line="1008"/>
         <source>Options ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选项...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="989"/>
@@ -13403,12 +13403,12 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1724"/>
         <source>PDU Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">PDU信息</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1736"/>
         <source>create Custom PDU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建自定义PDU</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1748"/>
@@ -13418,7 +13418,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1761"/>
         <source>Info Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">消息框</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1774"/>
@@ -13458,7 +13458,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1999"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2001"/>
@@ -13480,7 +13480,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2019"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2022"/>
@@ -13491,7 +13491,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2029"/>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">调整大小</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2031"/>
@@ -13502,7 +13502,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2040"/>
         <source>Place Note</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">放置笔记</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2043"/>
@@ -13513,7 +13513,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2050"/>
         <source>Draw Line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">绘制直线</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2052"/>
@@ -13535,7 +13535,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2068"/>
         <source>Draw Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">绘制椭圆</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2070"/>
@@ -13546,7 +13546,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2077"/>
         <source>Draw Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">绘制自由形状</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2079"/>
@@ -13609,7 +13609,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="2662"/>
         <location filename="../gui/AppWindow.cpp" line="6796"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2708"/>
@@ -13620,17 +13620,17 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="2725"/>
         <location filename="../gui/AppWindow.cpp" line="2728"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3003"/>
         <source>The file was not saved correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件未正确保存.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3005"/>
         <source>This file requires more addressable RAM than a 32bit process is allowed to use. Please use the 64bit version of Cisco Packet Tracer to open this file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这个文件需要的可寻址内存比32位进程允许使用的更多.请使用64位版本的Cisco Packet Tracer打开此文件.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3009"/>
@@ -13718,7 +13718,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4970"/>
         <source>Is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">是不允许的.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6313"/>
@@ -13784,12 +13784,12 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="8671"/>
         <source>Exit Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">退出全屏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="8683"/>
         <source>Enter Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">进入全屏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3118"/>
@@ -13825,7 +13825,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2699"/>
         <source> File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2703"/>
@@ -13840,7 +13840,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2875"/>
         <source>Failed to open file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件打开失败</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2876"/>
@@ -13858,24 +13858,24 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="2969"/>
         <location filename="../gui/AppWindow.cpp" line="3935"/>
         <source>File Open finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件打开完成</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2981"/>
         <location filename="../gui/AppWindow.cpp" line="2989"/>
         <location filename="../gui/AppWindow.cpp" line="3936"/>
         <source>File failed to open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件打开失败</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3022"/>
         <source>Unable to open file. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法打开文件. </translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3191"/>
         <source>Loading Network.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网络加载中.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3517"/>
@@ -13886,17 +13886,17 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="3586"/>
         <location filename="../gui/AppWindow.cpp" line="3640"/>
         <source>Please wait. Opening file...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请等待. 正在打开文件...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3674"/>
         <source>Opening file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在打开文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3849"/>
         <source>We encountered a problem while saving </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">我们在保存的时候遇到了问题 </translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3849"/>
@@ -13932,7 +13932,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="4382"/>
         <location filename="../gui/AppWindow.cpp" line="4421"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4262"/>
@@ -14007,7 +14007,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="5383"/>
         <location filename="../gui/AppWindow.cpp" line="6501"/>
         <source>Network Description:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网络描述:</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6079"/>
@@ -14017,7 +14017,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6084"/>
         <source>Bluetooth Pairing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">蓝牙配对</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6512"/>
@@ -14027,7 +14027,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6535"/>
         <source>There are some outdated IoT devices. Do you want to update them?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">有一些过时的物联网设备。您想要更新它们吗？</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6536"/>
