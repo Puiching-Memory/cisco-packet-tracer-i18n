@@ -8,7 +8,7 @@
         <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="40"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1163"/>
         <source>http://www.cisco.com</source>
-        <translation type="unfinished">http://www.cisco.com</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="13"/>
@@ -4247,7 +4247,7 @@ Enter a value in the Index Variable text field to use a variable to determine th
         <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="521"/>
         <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="524"/>
         <source>version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">版本</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="540"/>
@@ -4831,7 +4831,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/BaseInputDialog.ui" line="22"/>
         <location filename="../gui/DesignerFiles/Workstation/BaseInputDialog.ui" line="24"/>
         <source>Enter a name for the new profile.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">为新的工程文件输入一个名称。</translation>
     </message>
 </context>
 <context>
@@ -11662,7 +11662,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9120"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14922"/>
         <source>Subnet mask</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">子网掩码</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8868"/>
@@ -11684,7 +11684,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14672"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14964"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8910"/>
@@ -11881,7 +11881,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13206"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13220"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">控制台</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9866"/>
@@ -12313,19 +12313,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14419"/>
         <source>User Permission</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户权限</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14433"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14630"/>
         <source>User Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户密码</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14447"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14644"/>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14477"/>
@@ -12337,12 +12337,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14511"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14525"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14505"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">桌面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14519"/>
@@ -12398,24 +12398,24 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14700"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">邮件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14716"/>
         <source>DNS Server IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DNS服务器IPv6</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14730"/>
         <source>DNS Server IP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DNS服务器IP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14744"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14763"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14777"/>
         <source>DNS Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DNS服务器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14757"/>
@@ -12451,7 +12451,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15225"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15239"/>
         <source>Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">蓝牙</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15149"/>
@@ -12863,7 +12863,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="867"/>
         <location filename="../gui/AppWindow.cpp" line="869"/>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">恢复</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="878"/>
@@ -12894,7 +12894,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1906"/>
         <source>Network Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网络信息</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="935"/>
@@ -12908,18 +12908,18 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="739"/>
         <location filename="../gui/AppWindow.cpp" line="741"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="744"/>
         <source>Open ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="746"/>
         <location filename="../gui/AppWindow.cpp" line="748"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="751"/>
@@ -12937,32 +12937,32 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="760"/>
         <location filename="../gui/AppWindow.cpp" line="762"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="765"/>
         <source>Save As ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">另存为...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="767"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">另存为</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="771"/>
         <source>Save As PKZ ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">另存为PKZ...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="775"/>
         <source>Save As PKC ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">另存为PKC...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="777"/>
         <source>Save As PKC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">另存为PKC</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="781"/>
@@ -12972,13 +12972,13 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="798"/>
         <source>Print ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打印...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="800"/>
         <location filename="../gui/AppWindow.cpp" line="802"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打印</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="807"/>
@@ -13213,33 +13213,33 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="886"/>
         <location filename="../gui/AppWindow.cpp" line="888"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">放大</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="891"/>
         <location filename="../gui/AppWindow.cpp" line="893"/>
         <location filename="../gui/AppWindow.cpp" line="895"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">缩小</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="898"/>
         <location filename="../gui/AppWindow.cpp" line="900"/>
         <location filename="../gui/AppWindow.cpp" line="902"/>
         <source>Zoom Reset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重置缩放</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="906"/>
         <location filename="../gui/AppWindow.cpp" line="910"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">主工具栏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="920"/>
         <location filename="../gui/AppWindow.cpp" line="924"/>
         <source>Bottom Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">底部工具栏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1951"/>
@@ -13321,7 +13321,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1013"/>
         <source>Log ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">日志...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1029"/>
@@ -13367,27 +13367,27 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="1070"/>
         <location filename="../gui/AppWindow.cpp" line="1071"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关于</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1090"/>
         <source>Simulation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">模拟模式</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1095"/>
         <source>Realtime Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">实时模式</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1100"/>
         <source>Logical View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">逻辑视图</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1105"/>
         <source>Physical View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">物理视图</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1111"/>
@@ -13972,7 +13972,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="4513"/>
         <location filename="../gui/AppWindow.cpp" line="8210"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4513"/>
@@ -13980,12 +13980,12 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="6564"/>
         <location filename="../gui/AppWindow.cpp" line="8210"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4568"/>
         <source>Please enter the password: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请输入密码: </translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4682"/>
@@ -26628,12 +26628,12 @@ Publisher Certificate Information:
         <location filename="../gui/NetworkComponentBox/DeviceButton.cpp" line="469"/>
         <location filename="../gui/NetworkComponentBox/DeviceButton.cpp" line="536"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceButton.cpp" line="398"/>
         <source>Auto Connect is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动链接已禁用。</translation>
     </message>
 </context>
 <context>
@@ -59469,7 +59469,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="181"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">工具栏</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="206"/>
@@ -59724,12 +59724,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="554"/>
         <source>Insert HTML...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插入 HTML...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="557"/>
         <source>Insert HTML</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插入 HTML</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="562"/>
@@ -59794,12 +59794,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="626"/>
         <source>Font Decrease</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">字体缩小</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="629"/>
         <source>Font Size Decrease</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">字体缩小</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="632"/>
@@ -62427,7 +62427,7 @@ Please contact your test coordinator.</source>
         <location filename="../gui/main.cpp" line="1589"/>
         <location filename="../gui/main.cpp" line="1734"/>
         <source>    Description: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">    描述: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1615"/>
@@ -62532,17 +62532,17 @@ Please contact your test coordinator.</source>
     <message>
         <location filename="../gui/main.cpp" line="1907"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">登录</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1919"/>
         <source>Login Failed. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">登录失败. </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1919"/>
         <source> is shutting down.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 正在关闭.</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1960"/>
@@ -62570,13 +62570,13 @@ Please contact your test coordinator.</source>
         <location filename="../gui/main.cpp" line="1667"/>
         <location filename="../gui/main.cpp" line="1813"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1668"/>
         <location filename="../gui/main.cpp" line="1814"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1959"/>
