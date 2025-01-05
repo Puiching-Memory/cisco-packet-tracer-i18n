@@ -4884,19 +4884,19 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="235"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="238"/>
         <source>1000 Mbps</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1000 Mbps</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="257"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="260"/>
         <source>100 Mbps</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">100 Mbps</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="279"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="282"/>
         <source>10 Mbps</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10 Mbps</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="301"/>
@@ -4907,38 +4907,38 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="304"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="528"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="362"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="365"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="368"/>
         <source>56 Kbps</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">56 Kbps</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="440"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="443"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="446"/>
         <source>Duplex</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">双工</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="481"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="484"/>
         <source>Half Duplex</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">半双工</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="503"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="506"/>
         <source>Full Duplex</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全双工</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="525"/>
         <source>Auto Duplex</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动双工</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="551"/>
@@ -4957,7 +4957,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="611"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="614"/>
         <source>DSL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DSL</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="631"/>
@@ -4992,12 +4992,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="762"/>
         <source>ANSI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ANSI</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="767"/>
         <source>Cisco</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cisco</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="772"/>
@@ -5010,107 +5010,107 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="795"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="839"/>
         <source>Clock Rate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">时钟频率</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="843"/>
         <source>1200</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1200</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="848"/>
         <source>2400</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2400</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="853"/>
         <source>4800</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4800</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="858"/>
         <source>9600</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9600</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="863"/>
         <source>19200</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">19200</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="868"/>
         <source>38400</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">38400</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="873"/>
         <source>56000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">56000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="878"/>
         <source>64000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">64000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="883"/>
         <source>72000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">72000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="888"/>
         <source>125000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">125000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="893"/>
         <source>128000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">128000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="898"/>
         <source>148000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">148000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="903"/>
         <source>250000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">250000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="908"/>
         <source>500000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">500000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="913"/>
         <source>800000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">800000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="918"/>
         <source>1000000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1000000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="923"/>
         <source>1300000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1300000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="928"/>
         <source>2000000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2000000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="933"/>
         <source>4000000</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4000000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="938"/>
         <source>Not Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1085"/>
@@ -5167,12 +5167,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1678"/>
         <source>802.1X</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">802.1X</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1689"/>
         <source>MD5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MD5</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1716"/>
@@ -5203,12 +5203,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2044"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2231"/>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">IPv4地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2367"/>
@@ -5228,7 +5228,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2678"/>
         <source>Vlan </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlan </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2715"/>
@@ -5296,7 +5296,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1903"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1906"/>
         <source>DHCP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1925"/>
@@ -5419,12 +5419,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1169"/>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设备</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1196"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1216"/>
@@ -5457,13 +5457,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1313"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1320"/>
         <source>UUID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">UUID</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1327"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1350"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1334"/>
@@ -5542,7 +5542,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2361"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2364"/>
         <source>Auto Config</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动配置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2404"/>
@@ -5550,14 +5550,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2410"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2560"/>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">IPv6地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2532"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2535"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2538"/>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">/</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2430"/>
@@ -5584,7 +5584,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2465"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2497"/>
         <source>IPv6 DNS Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">IPv6 DNS服务器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2572"/>
@@ -5613,7 +5613,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2768"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2771"/>
         <source>VLAN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">VLAN</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2818"/>
@@ -5628,14 +5628,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2878"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2881"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2901"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2904"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2907"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2936"/>
@@ -5651,7 +5651,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2987"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2990"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="3005"/>
@@ -12356,7 +12356,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14581"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14595"/>
         <source>Email Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">邮件服务器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14561"/>
@@ -12372,7 +12372,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14604"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14623"/>
         <source>Email Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">邮件客户端</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14617"/>
@@ -12499,7 +12499,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15317"/>
         <source>User Setup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15331"/>
@@ -13060,12 +13060,12 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="880"/>
         <source>Change algorithm behavior to allow the simulation to achieve certain algorithm behavior easier.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">改变算法行为,使模拟更容易实现某些算法行为.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="932"/>
         <source>Annotate your workspace with shapes and colors.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用形状和颜色标注您的工作区.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="939"/>
@@ -13196,7 +13196,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1916"/>
         <source>User Profile ...</source>
-        <translation type="unfinished">用户配置文件...</translation>
+        <translation type="unfinished">用户设置...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1920"/>
@@ -13349,7 +13349,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="1057"/>
         <location filename="../gui/AppWindow.cpp" line="1058"/>
         <source>Contents</source>
-        <translation type="unfinished">内容</translation>
+        <translation type="unfinished">目录</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1061"/>
@@ -13423,7 +13423,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1774"/>
         <source>Scenario Info Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">场景信息</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1787"/>
@@ -31282,7 +31282,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="361"/>
         <source>Topology</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">拓扑结构</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="362"/>
@@ -32119,7 +32119,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="745"/>
         <source>Lock Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">锁定蓝牙</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="773"/>
@@ -32174,7 +32174,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="1143"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="1210"/>
@@ -32184,7 +32184,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="356"/>
         <source>Fast Forward Time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快进一段时间</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="391"/>
@@ -54589,7 +54589,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2357"/>
         <source></source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -59434,7 +59434,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="14"/>
         <source>HTML Editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">HTML编辑器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="56"/>
@@ -59724,12 +59724,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="554"/>
         <source>Insert HTML...</source>
-        <translation type="unfinished">插入 HTML...</translation>
+        <translation type="unfinished">插入HTML...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="557"/>
         <source>Insert HTML</source>
-        <translation type="unfinished">插入 HTML</translation>
+        <translation type="unfinished">插入HTML</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="562"/>
