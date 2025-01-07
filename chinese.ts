@@ -13075,7 +13075,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="945"/>
         <source>Manage script modules running on individual devices.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理运行在各个设备上的脚本模块.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="952"/>
@@ -13135,12 +13135,12 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1022"/>
         <source>Manage application wide scripts running within Packet Tracer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理Packet Tracer中的全局脚本.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1026"/>
         <source>Create your own application wide script module.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建你自己的全局脚本模块.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1030"/>
@@ -13922,7 +13922,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3858"/>
         <source>We noticed an unrecoverable error in this file while loading </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在加载时,我们注意到这个文件中有一个不可恢复的错误 </translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4144"/>
@@ -13937,12 +13937,12 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4262"/>
         <source>Save File As Common Cartridge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存文件为Common Cartridge</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4263"/>
         <source>Common Cartridge (*.imscc)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Common Cartridge (*.imscc)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4278"/>
@@ -13959,7 +13959,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4318"/>
         <source>External CC exporter is not responding.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">外部CC导出器没有响应.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4322"/>
@@ -14345,7 +14345,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2699"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2705"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2721"/>
@@ -62336,7 +62336,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/main.cpp" line="1586"/>
         <location filename="../gui/main.cpp" line="1731"/>
         <source>    Name: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">    名称: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="893"/>
@@ -62415,13 +62415,13 @@ Please contact your test coordinator.</source>
         <location filename="../gui/main.cpp" line="1587"/>
         <location filename="../gui/main.cpp" line="1732"/>
         <source>    ID: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">    ID: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1588"/>
         <location filename="../gui/main.cpp" line="1733"/>
         <source>    Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">    作者: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1589"/>
@@ -62522,7 +62522,7 @@ Please contact your test coordinator.</source>
     <message>
         <location filename="../gui/main.cpp" line="1892"/>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">.</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1893"/>
