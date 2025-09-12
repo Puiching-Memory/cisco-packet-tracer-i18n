@@ -13,18 +13,24 @@
 
 ## 效果预览
 
-## 提供帮助
-
-工作流：LLM，人工校对，软件测试，社区反馈，覆盖率报告
+## 环境
 
 ```
-conda create -n i18n_cisco python=3.11
-conda activate i18n_cisco
-pip install xmltodict==0.14.2
+conda create -n cisco python=3.13
+conda activate cisco
+pip install -r requirements.txt
 ```
 
-运行覆盖率统计：
+## 如何翻译
+各个版本的思科模拟器bin目录内都会附带翻译工具
+linguist.exe
 
-```
-python coverage_report.py
-```
+但是可能会缺少一些运行库，需要手动下载QT开发工具包：
+版本：6.8.3
+1. QT Design Studio 
+
+然后将{QT安装目录}\Tools\QtDesignStudio\bin写入环境变量PATH
+
+思科模拟器自带一个翻译模板，位于{思科模拟器安装目录}/languages/template.ts
+linguist.exe可以读取该模板，源语言English，目标语言Chinese(简体中文)
+此时可以开始人工翻译，最后使用“发布”导出为qm文件
