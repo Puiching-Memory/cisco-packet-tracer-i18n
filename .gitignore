@@ -1,2 +1,4 @@
 *.qm
 *.ptl
+*.checkpoint
+__pycache__/

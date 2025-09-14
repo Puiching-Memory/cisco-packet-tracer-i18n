@@ -1,2 +1,4 @@
 lxml
 transformers
+hf_xet
+accelerate
