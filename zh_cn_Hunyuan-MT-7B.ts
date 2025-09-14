@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1">
 <context>
@@ -8,7 +8,7 @@
         <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="40"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1163"/>
         <source>http://www.cisco.com</source>
-        <translation>http://www.cisco.com</translation>
+        <translation type="unfinished">https://github.com/Puiching-Memory/cisco-packet-tracer-i18n</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="13"/>
@@ -20,7 +20,7 @@
         <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="27"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1162"/>
         <source>Cisco</source>
-        <translation>思科（Cisco）是一家全球知名的科技公司，主要提供网络设备、软件和服务。</translation>
+        <translation type="unfinished">梦归云帆</translation>
     </message>
 </context>
 <context>
@@ -77,8 +77,8 @@
 The Activity Wizard is an assessment tool that allows you to create detailed networking scenarios for other users. The typical sequence in making an activity is as follows:
 
 1) Create the answer network and set the assessment items.
-2) Create the initial network, which will be the user's starting point. A blank initial network may also be used. For accurate scoring, device display names in the initial network must match the ones in the answer network.
-3) Put constraints on the user's ability to use certain features during the activity.
+2) Create the initial network, which will be the user&apos;s starting point. A blank initial network may also be used. For accurate scoring, device display names in the initial network must match the ones in the answer network.
+3) Put constraints on the user&apos;s ability to use certain features during the activity.
 4) Write a clear set of instructions for the activity.
 5) Password-protect the activity to prevent unauthorized changes to activity parameters.
 6) Save the activity.
@@ -124,7 +124,7 @@ Please refer to the Activity Wizard help files for more detailed information.</s
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1920"/>
         <source>Number</source>
-        <translation>数字；号码</translation>
+        <translation type="unfinished">数字</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12010"/>
@@ -196,7 +196,7 @@ Please refer to the Activity Wizard help files for more detailed information.</s
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6403"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8679"/>
         <source>Value</source>
-        <translation>价值；重要性；意义</translation>
+        <translation type="unfinished">值</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8774"/>
@@ -271,7 +271,7 @@ Please refer to the Activity Wizard help files for more detailed information.</s
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8830"/>
         <source>Rich Editor</source>
-        <translation>Rich Editor（富编辑器）</translation>
+        <translation type="unfinished">富文本编辑器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9453"/>
@@ -317,7 +317,7 @@ Please refer to the Activity Wizard help files for more detailed information.</s
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9859"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9862"/>
         <source>Import File to Answer Network</source>
-        <translation>将文件导入 Answer Network</translation>
+        <translation type="unfinished">将文件导入答案网络</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9878"/>
@@ -380,7 +380,7 @@ Please refer to the Activity Wizard help files for more detailed information.</s
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11378"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11381"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11384"/>
-        <source>The connectivity tests are based on the first scenario of the answer network's User Created PDUs list. On the first column, select the test condition.</source>
+        <source>The connectivity tests are based on the first scenario of the answer network&apos;s User Created PDUs list. On the first column, select the test condition.</source>
         <translation>连接性测试基于答案网络中用户创建的PDUs列表的第一个场景。在第一列中，选择测试条件。</translation>
     </message>
     <message>
@@ -407,7 +407,7 @@ Please refer to the Activity Wizard help files for more detailed information.</s
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11953"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12283"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11958"/>
@@ -512,7 +512,7 @@ Please refer to the Activity Wizard help files for more detailed information.</s
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="607"/>
-        <source>Welcome to the Activity Wizard!The Activity Wizard is an assessment tool that allows you to create detailed networking scenarios for other users. The typical sequence in making an activity is as follows:1) Create the answer network and set the assessment items.2) Create the initial network, which will be the user's starting point. A blank initial network may also be used. For accurate scoring, device display names in the initial network must match the ones in the answer network.3) Put constraints on the user's ability to use certain features during the activity.4) Write a clear set of instructions for the activity.5) Password-protect the activity to prevent unauthorized changes to activity parameters.6) Save the activity.Please refer to the Activity Wizard help files for more detailed information.</source>
+        <source>Welcome to the Activity Wizard!The Activity Wizard is an assessment tool that allows you to create detailed networking scenarios for other users. The typical sequence in making an activity is as follows:1) Create the answer network and set the assessment items.2) Create the initial network, which will be the user&apos;s starting point. A blank initial network may also be used. For accurate scoring, device display names in the initial network must match the ones in the answer network.3) Put constraints on the user&apos;s ability to use certain features during the activity.4) Write a clear set of instructions for the activity.5) Password-protect the activity to prevent unauthorized changes to activity parameters.6) Save the activity.Please refer to the Activity Wizard help files for more detailed information.</source>
         <translation>欢迎使用活动向导。  
 活动向导是一种评估工具，可帮助您为其他用户创建详细的网络场景。创建活动的典型步骤如下：  
 1) 创建答案网络并设置评估题目。  
@@ -3429,12 +3429,12 @@ Comments: </source>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12015"/>
         <source>Device</source>
-        <translation>设备；器械</translation>
+        <translation type="unfinished">设备</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12020"/>
         <source>Application</source>
-        <translation>申请；应用程序；应用</translation>
+        <translation type="unfinished">应用程序</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12025"/>
@@ -3453,7 +3453,7 @@ Comments: </source>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12333"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13110"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12047"/>
@@ -3474,7 +3474,7 @@ Comments: </source>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12429"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12432"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12435"/>
-        <source>There are two feedback pages. The "Completed Feedback" message is shown when the activity is 100% complete. Otherwise, the "Incomplete Feedback" message is shown.</source>
+        <source>There are two feedback pages. The &quot;Completed Feedback&quot; message is shown when the activity is 100% complete. Otherwise, the &quot;Incomplete Feedback&quot; message is shown.</source>
         <translation>共有两个反馈页面。当活动完成率达到100%时，会显示“已完成反馈”信息；否则，会显示“未完成反馈”信息。</translation>
     </message>
     <message>
@@ -3491,7 +3491,7 @@ Comments: </source>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12524"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12527"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12530"/>
-        <source>Different timing settings can be applied to this activity. The "Time Elapsed" setting will keep a running time of the activity duration. The "Countdown" setting will pop-up the Check Answers Page once the timer expires.</source>
+        <source>Different timing settings can be applied to this activity. The &quot;Time Elapsed&quot; setting will keep a running time of the activity duration. The &quot;Countdown&quot; setting will pop-up the Check Answers Page once the timer expires.</source>
         <translation>此活动可以应用不同的计时设置。“时间流逝”设置会记录活动的总时长；“倒计时”设置则会在计时器到期时弹出“检查答案”页面。</translation>
     </message>
     <message>
@@ -3578,7 +3578,7 @@ Comments: </source>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13193"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13196"/>
         <source>export</source>
-        <translation>出口；输出</translation>
+        <translation type="unfinished">导出</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13222"/>
@@ -3797,7 +3797,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13361"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13364"/>
         <source>Copy from Answer Network</source>
-        <translation>复制自Answer Network</translation>
+        <translation type="unfinished">复制自答案网络</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="856"/>
@@ -4076,7 +4076,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14506"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14509"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14512"/>
-        <source>Setting a password prevents unauthorized changes to this activity's parameters. When a user is running this activity, the Activity Wizard cannot be accessed unless the correct password is entered.</source>
+        <source>Setting a password prevents unauthorized changes to this activity&apos;s parameters. When a user is running this activity, the Activity Wizard cannot be accessed unless the correct password is entered.</source>
         <translation>设置密码可以防止未经授权的人更改此活动的参数。当用户运行此活动时，除非输入正确的密码，否则无法访问活动向导。</translation>
     </message>
     <message>
@@ -4114,7 +4114,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14707"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14710"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14713"/>
-        <source>test activity (shouldn't be here)</source>
+        <source>test activity (shouldn&apos;t be here)</source>
         <translation>测试活动（不应出现在此处）</translation>
     </message>
     <message>
@@ -4129,7 +4129,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14760"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14763"/>
         <source>exit</source>
-        <translation>出口；离开；退出</translation>
+        <translation type="unfinished">退出</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="169"/>
@@ -4164,7 +4164,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="265"/>
         <source>&amp;Answer Network</source>
-        <translation>&amp;Answer Network（答案网络）</translation>
+        <translation type="unfinished">&amp;答案网络</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="268"/>
@@ -4550,7 +4550,7 @@ ID：net.netacad.cisco.autoIP
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="519"/>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="522"/>
         <source>Simulation</source>
-        <translation>仿真；模拟</translation>
+        <translation type="unfinished">模拟</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="535"/>
@@ -4634,7 +4634,7 @@ ID：net.netacad.cisco.autoIP
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="214"/>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="217"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="263"/>
@@ -4822,20 +4822,20 @@ ID：net.netacad.cisco.autoIP
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/BaseDebugDialog.ui" line="100"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;Debug Messages&lt;/p&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Debug Messages&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;调试信息&lt;/p&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;调试信息&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/BaseDebugDialog.ui" line="85"/>
@@ -4905,8 +4905,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager.ui" line="217"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;File Manager&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;文件管理器&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;File Manager&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;文件管理器&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager.ui" line="211"/>
@@ -5015,7 +5015,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1134"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1302"/>
         <source>On</source>
-        <translation>关于；关于……的</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="194"/>
@@ -5057,7 +5057,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="304"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="528"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="362"/>
@@ -5071,7 +5071,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="443"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="446"/>
         <source>Duplex</source>
-        <translation>复式住宅；双工；双重</translation>
+        <translation type="unfinished">双工</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="481"/>
@@ -5281,7 +5281,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1236"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1239"/>
         <source>Tether</source>
-        <translation>泰达币（Tether）</translation>
+        <translation type="unfinished">Tether</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1246"/>
@@ -5446,7 +5446,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1903"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1906"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1925"/>
@@ -5456,7 +5456,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2389"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2392"/>
         <source>Static</source>
-        <translation>静态的；不变的</translation>
+        <translation type="unfinished">静态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1947"/>
@@ -5564,7 +5564,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1111"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1131"/>
         <source>Discoverable</source>
-        <translation>可发现的；可查明的</translation>
+        <translation type="unfinished">可发现的</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1169"/>
@@ -5918,7 +5918,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="374"/>
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="376"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="381"/>
@@ -5936,7 +5936,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="395"/>
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="397"/>
         <source>Export</source>
-        <translation>出口；输出</translation>
+        <translation type="unfinished">导出</translation>
     </message>
 </context>
 <context>
@@ -5951,7 +5951,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="25"/>
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="27"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="33"/>
@@ -5988,29 +5988,29 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="76"/>
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="100"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="126"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt;"&gt;Context Sensitive Help&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Context Sensitive Help&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt;"&gt;上下文敏感帮助&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;上下文敏感帮助&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="90"/>
@@ -6127,7 +6127,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IoE/BaseSubComponent.ui" line="60"/>
         <location filename="../gui/DesignerFiles/IoE/BaseSubComponent.ui" line="62"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/BaseSubComponent.ui" line="73"/>
@@ -6305,29 +6305,29 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="88"/>
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="125"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="151"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt;"&gt;Context Sensitive Help&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Context Sensitive Help&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt;"&gt;上下文敏感帮助&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;上下文敏感帮助&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="157"/>
@@ -6549,7 +6549,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="153"/>
-        <source>Please start with either "permit" or "deny"</source>
+        <source>Please start with either &quot;permit&quot; or &quot;deny&quot;</source>
         <translation>请从“允许”或“拒绝”中选择一个开始。</translation>
     </message>
     <message>
@@ -7043,7 +7043,7 @@ Replace the Initial Network?</source>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="54"/>
         <source>Number</source>
-        <translation>数字；号码</translation>
+        <translation type="unfinished">数字</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="55"/>
@@ -7306,8 +7306,8 @@ Replace the Initial Network?</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="308"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Management&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;管理&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Management&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;管理&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="320"/>
@@ -7323,7 +7323,7 @@ Replace the Initial Network?</source>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1018"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1021"/>
         <source>HTTPS</source>
-        <translation>HTTPS（安全超文本传输协议）是一种用于在互联网上安全传输数据的加密协议。它通过在数据传输过程中使用加密技术来保护数据的隐私和完整性，确保数据在传输过程中不会被窃取或篡改。HTTPS已成为许多网站和在线服务的首选协议，以提供更安全的用户体验。</translation>
+        <translation type="unfinished">HTTPS</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="807"/>
@@ -7470,16 +7470,16 @@ Access:</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2342"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2324"/>
@@ -7603,7 +7603,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="621"/>
         <source>Miscellaneous</source>
-        <translation>杂项；各种各样的</translation>
+        <translation type="unfinished">杂项</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="708"/>
@@ -7743,12 +7743,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="617"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="618"/>
         <source>Administrative</source>
-        <translation>行政的；管理的</translation>
+        <translation type="unfinished">管理</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="620"/>
@@ -7770,7 +7770,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3289"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3292"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="350"/>
@@ -7880,7 +7880,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="624"/>
         <source>Administrative</source>
-        <translation>行政的；管理的</translation>
+        <translation type="unfinished">管理</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="633"/>
@@ -8007,7 +8007,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2546"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2549"/>
         <source>Apply</source>
-        <translation>申请；运用；涂抹</translation>
+        <translation type="unfinished">应用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2571"/>
@@ -8298,7 +8298,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="525"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="528"/>
         <source>Cisco</source>
-        <translation>思科（Cisco）是一家全球知名的科技公司，主要提供网络设备、软件和服务。</translation>
+        <translation type="unfinished">梦归云帆</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="538"/>
@@ -8312,7 +8312,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="557"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="560"/>
         <source>http://www.cisco.com</source>
-        <translation>http://www.cisco.com</translation>
+        <translation>https://github.com/Puiching-Memory/cisco-packet-tracer-i18n</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="88"/>
@@ -8461,7 +8461,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="991"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="994"/>
         <source>Write</source>
-        <translation>写；书写</translation>
+        <translation type="unfinished">写入</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1112"/>
@@ -8779,14 +8779,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3087"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3090"/>
         <source>Miscellaneous</source>
-        <translation>杂项；各种各样的</translation>
+        <translation type="unfinished">杂项</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3096"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3099"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3102"/>
         <source>General</source>
-        <translation>将军；一般的；普通的</translation>
+        <translation type="unfinished">普通</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3115"/>
@@ -9081,7 +9081,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="940"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="943"/>
         <source>Register</source>
-        <translation>注册；登记</translation>
+        <translation type="unfinished">注册</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="963"/>
@@ -9284,14 +9284,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3611"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3614"/>
         <source>Answer Tree</source>
-        <translation>答案树（Answer Tree）是一种用于自然语言处理（NLP）中的信息检索和问题解答技术。它通过构建一棵树状结构来表示问题和答案之间的关系，使得用户可以按照层次结构逐步查找相关信息。在问题解答系统中，用户输入一个问题后，系统会从答案树中找到最相关的答案并呈现给用户。这种技术常用于智能问答系统、知识库系统和信息检索系统中。</translation>
+        <translation type="unfinished">答案树</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3638"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3641"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3644"/>
         <source>Answer Tree Filter</source>
-        <translation>Answer Tree Filter（答案树过滤器）</translation>
+        <translation type="unfinished">答案树过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3661"/>
@@ -9308,7 +9308,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3680"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5230"/>
         <source>Default</source>
-        <translation>违约；缺省值；默认设置</translation>
+        <translation type="unfinished">默认</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3693"/>
@@ -9536,7 +9536,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15380"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15394"/>
         <source>Device</source>
-        <translation>设备；器械</translation>
+        <translation type="unfinished">设备</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3783"/>
@@ -9970,7 +9970,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15280"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15294"/>
         <source>TCP</source>
-        <translation>TCP（传输控制协议）是一种用于在网络中建立可靠数据传输连接的协议。它确保数据包按顺序、完整且无错误地从发送方传输到接收方。TCP提供了流量控制、错误检测和重传等功能，以保障数据传输的稳定性和可靠性。</translation>
+        <translation type="unfinished">TCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4461"/>
@@ -10230,7 +10230,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4992"/>
         <source>tacacs</source>
-        <translation>TACACS（Terminal Access Control Authentication Command Protocol，终端访问控制认证协议）是一种用于网络设备身份验证和授权的协议。它允许网络管理员集中管理远程访问设备的权限，确保只有经过授权的用户才能访问网络资源。TACACS协议通常与RADIUS（Remote Authentication Dial-in Service，远程认证拨入服务）协议一起使用，以实现更强大的网络安全控制。</translation>
+        <translation type="unfinished">TACACS</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5006"/>
@@ -10329,7 +10329,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5272"/>
         <source>Global</source>
-        <translation>全球的；世界范围的</translation>
+        <translation type="unfinished">全局的</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5287"/>
@@ -10799,7 +10799,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11772"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14057"/>
         <source>Duplex</source>
-        <translation>复式住宅；双工；双重</translation>
+        <translation type="unfinished">双工</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6547"/>
@@ -11237,7 +11237,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12249"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12268"/>
         <source>LLDP</source>
-        <translation>LLDP（Link Layer Discovery Protocol，链路层发现协议）</translation>
+        <translation type="unfinished">LLDP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7570"/>
@@ -11582,7 +11582,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8396"/>
         <source>EIGRP</source>
-        <translation>EIGRP（Enhanced Interior Gateway Routing Protocol，增强型内部网关路由协议）</translation>
+        <translation type="unfinished">EIGRP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8410"/>
@@ -12068,7 +12068,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9893"/>
         <source>Commands</source>
-        <translation>命令；指令</translation>
+        <translation type="unfinished">命令</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9908"/>
@@ -12213,12 +12213,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="10467"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="10486"/>
         <source>CBAC</source>
-        <translation>中国民用航空局（Civil Aviation Administration of China）</translation>
+        <translation type="unfinished">CBAC</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="10480"/>
         <source>Half-Open Session Multiplier</source>
-        <translation>半开放会议乘数</translation>
+        <translation type="unfinished">半开放会话乘数</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="10496"/>
@@ -12637,7 +12637,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15177"/>
         <source>Discoverable</source>
-        <translation>可发现的；可查明的</translation>
+        <translation type="unfinished">可发现的</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15191"/>
@@ -12774,24 +12774,24 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="69"/>
         <source>CBAC</source>
-        <translation>中国民用航空局（Civil Aviation Administration of China）</translation>
+        <translation type="unfinished">CBAC</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="77"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="80"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="83"/>
         <source>Half-Open Session Multiplier:</source>
-        <translation>半开放会议乘数：</translation>
+        <translation type="unfinished">半开放会话乘数：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="103"/>
         <source>Half Open Session Multiplier</source>
-        <translation>半开放会议乘数</translation>
+        <translation type="unfinished">半开放会话乘数</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="121"/>
         <source>TCP</source>
-        <translation>TCP（传输控制协议）是一种用于在网络中建立可靠数据传输连接的协议。它确保数据包按顺序、完整且无错误地从发送方传输到接收方。TCP提供了流量控制、错误检测和重传等功能，以保障数据传输的稳定性和可靠性。</translation>
+        <translation type="unfinished">TCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="129"/>
@@ -12882,17 +12882,17 @@ p, li { white-space: pre-wrap; }
     <name>CAnalogPhoneGUI</name>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="81"/>
-        <source>Send 'Do'</source>
+        <source>Send &apos;Do&apos;</source>
         <translation>发送“Do”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="82"/>
-        <source>Send 'Re'</source>
+        <source>Send &apos;Re&apos;</source>
         <translation>发送“Re”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="83"/>
-        <source>Send 'Mi'</source>
+        <source>Send &apos;Mi&apos;</source>
         <translation>发送“Mi”</translation>
     </message>
     <message>
@@ -12978,17 +12978,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="438"/>
-        <source>Playing 'Do'...</source>
+        <source>Playing &apos;Do&apos;...</source>
         <translation>正在玩“Do”游戏……</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="445"/>
-        <source>Playing 'Re'...</source>
+        <source>Playing &apos;Re&apos;...</source>
         <translation>正在玩“Re”……</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="452"/>
-        <source>Playing 'Mi'...</source>
+        <source>Playing &apos;Mi&apos;...</source>
         <translation>正在玩《Mi》……</translation>
     </message>
     <message>
@@ -13034,7 +13034,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="867"/>
         <location filename="../gui/AppWindow.cpp" line="869"/>
         <source>Redo</source>
-        <translation>重做；重新制作</translation>
+        <translation type="unfinished">重做</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="878"/>
@@ -13079,7 +13079,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="739"/>
         <location filename="../gui/AppWindow.cpp" line="741"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="744"/>
@@ -13216,7 +13216,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="860"/>
         <location filename="../gui/AppWindow.cpp" line="862"/>
         <source>Undo</source>
-        <translation>撤销；取消</translation>
+        <translation type="unfinished">撤销</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="873"/>
@@ -13384,21 +13384,21 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="886"/>
         <location filename="../gui/AppWindow.cpp" line="888"/>
         <source>Zoom In</source>
-        <translation>放大；详细查看</translation>
+        <translation type="unfinished">放大</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="891"/>
         <location filename="../gui/AppWindow.cpp" line="893"/>
         <location filename="../gui/AppWindow.cpp" line="895"/>
         <source>Zoom Out</source>
-        <translation>（在地图、图像等上）放大视角</translation>
+        <translation type="unfinished">缩小</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="898"/>
         <location filename="../gui/AppWindow.cpp" line="900"/>
         <location filename="../gui/AppWindow.cpp" line="902"/>
         <source>Zoom Reset</source>
-        <translation>Zoom重置</translation>
+        <translation type="unfinished">重置缩放</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="906"/>
@@ -13461,7 +13461,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="973"/>
         <source>Listen ...</source>
-        <translation>听着……</translation>
+        <translation type="unfinished">监听……</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="978"/>
@@ -13893,7 +13893,7 @@ Port</source>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6313"/>
-        <source>%1 is locked by author's design for this activity.</source>
+        <source>%1 is locked by author&apos;s design for this activity.</source>
         <translation>%1 由于作者的设计安排，在此活动中被锁定无法使用。</translation>
     </message>
     <message>
@@ -14242,7 +14242,7 @@ Port</source>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="5086"/>
-        <source>Please use the Scripting page of Activity Wizard to edit an activity file's script module. Select Advanced profile in the Welcome page of Activity Wizard to enable the Scripting page.</source>
+        <source>Please use the Scripting page of Activity Wizard to edit an activity file&apos;s script module. Select Advanced profile in the Welcome page of Activity Wizard to enable the Scripting page.</source>
         <translation>请使用活动向导（Activity Wizard）的“脚本编写”（Scripting）页面来编辑活动文件的脚本模块。在活动向导的欢迎页面（Welcome page）中选择“高级配置文件”（Advanced profile），以启用“脚本编写”页面。</translation>
     </message>
     <message>
@@ -14266,7 +14266,7 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="720"/>
         <source>E&amp;xtensions</source>
-        <translation>扩展；附加组件</translation>
+        <translation type="unfinished">&amp;扩展</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="724"/>
@@ -14276,17 +14276,17 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="729"/>
         <source>IPC</source>
-        <translation>IPC（Inter-Process Communication，进程间通信）</translation>
+        <translation type="unfinished">IPC</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="734"/>
         <source>Scripting</source>
-        <translation>脚本编写；脚本化</translation>
+        <translation type="unfinished">脚本编写</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="696"/>
         <source>&amp;Zoom</source>
-        <translation>&amp;Zoom</translation>
+        <translation type="unfinished">&amp;缩放</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="662"/>
@@ -14307,7 +14307,7 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="163"/>
         <source>Logical</source>
-        <translation>逻辑的；合理的</translation>
+        <translation>逻辑的</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="182"/>
@@ -14323,7 +14323,7 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="194"/>
         <source>Physical</source>
-        <translation>物理的；身体的；实际的</translation>
+        <translation>物理的</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="450"/>
@@ -14355,7 +14355,7 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="493"/>
         <source>Simulation</source>
-        <translation>仿真；模拟</translation>
+        <translation type="unfinished">模拟</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="607"/>
@@ -14395,7 +14395,7 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="752"/>
         <source>&amp;Window</source>
-        <translation>&amp;Window</translation>
+        <translation type="unfinished">&amp;窗口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="775"/>
@@ -14433,7 +14433,7 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="46"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="56"/>
@@ -14459,7 +14459,7 @@ Port</source>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="88"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="91"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="94"/>
-        <source>Enter an extended ACL statement below. Start with "permit" or "deny". The next available commands will show up in the Context Help text field.</source>
+        <source>Enter an extended ACL statement below. Start with &quot;permit&quot; or &quot;deny&quot;. The next available commands will show up in the Context Help text field.</source>
         <translation>在下方输入一个扩展的 ACL 语句。以 “permit” 或 “deny” 开头。后续可用的命令会显示在上下文帮助文本字段中。</translation>
     </message>
     <message>
@@ -14484,16 +14484,16 @@ Port</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="143"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="160"/>
@@ -14602,28 +14602,28 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="821"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="824"/>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1028"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1031"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1034"/>
         <source>Days:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1046"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1049"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1052"/>
         <source>EveryDay</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1065"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1068"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1167"/>
         <source>Sun</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1071"/>
@@ -14804,38 +14804,38 @@ policy.</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="332"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Internet Setup&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;互联网设置&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet Setup&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;互联网设置&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="369"/>
-        <source>&lt;p align="right"&gt;Applied PCs&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;应用型个人电脑&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Applied PCs&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;应用型个人电脑&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="406"/>
-        <source>&lt;p align="right"&gt;Access Restriction&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;访问限制&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Access Restriction&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;访问限制&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="443"/>
-        <source>&lt;p align="right"&gt;Schedule&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;日程安排&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Schedule&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;日程安排&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="480"/>
-        <source>&lt;p align="right"&gt;Website Blocking by URL Address&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;按网址地址阻止网站访问&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Website Blocking by URL Address&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;按网址地址阻止网站访问&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="517"/>
-        <source>&lt;p align="right"&gt;Website Blocking by Keyword&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;按关键词屏蔽网站&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Website Blocking by Keyword&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;按关键词屏蔽网站&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="554"/>
-        <source>&lt;p align="right"&gt;Blocked Applications&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;被阻止的应用程序&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Blocked Applications&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;被阻止的应用程序&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="911"/>
@@ -15314,16 +15314,16 @@ policy.</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2929"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="781"/>
@@ -15377,8 +15377,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminDiagnostics.ui" line="105"/>
-        <source>&lt;p align="center"&gt;&lt;p align="right"&gt;Ping Test&lt;/p&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="center"&gt;&lt;p align="right"&gt;ping测试&lt;/p&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;center&quot;&gt;&lt;p align=&quot;right&quot;&gt;Ping Test&lt;/p&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;center&quot;&gt;&lt;p align=&quot;right&quot;&gt;ping测试&lt;/p&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminDiagnostics.ui" line="99"/>
@@ -15388,8 +15388,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminDiagnostics.ui" line="130"/>
-        <source>&lt;p align="right"&gt;Traceroute Test&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;追踪路由测试&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Traceroute Test&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;追踪路由测试&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminDiagnostics.ui" line="124"/>
@@ -15399,8 +15399,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminDiagnostics.ui" line="159"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Diagnostics&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;诊断&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Diagnostics&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;诊断&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminDiagnostics.ui" line="274"/>
@@ -15455,16 +15455,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminDiagnostics.ui" line="518"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -15480,7 +15480,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="733"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="781"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="634"/>
@@ -15954,16 +15954,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2356"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="430"/>
@@ -16005,8 +16005,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="308"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Advanced Wireless&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;高级无线技术&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Advanced Wireless&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;高级无线技术&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="299"/>
@@ -16208,7 +16208,7 @@ Range: 256-2346)</source>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/BaseAlgorithmSettings.ui" line="114"/>
         <source>CBAC</source>
-        <translation>中国民用航空局</translation>
+        <translation type="unfinished">CBAC</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/BaseAlgorithmSettings.ui" line="122"/>
@@ -16220,12 +16220,12 @@ Range: 256-2346)</source>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/BaseAlgorithmSettings.ui" line="151"/>
         <source>Half Open Session Multiplier</source>
-        <translation>半开放期乘数</translation>
+        <translation type="unfinished">半开放会话乘数</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/BaseAlgorithmSettings.ui" line="172"/>
         <source>TCP</source>
-        <translation>TCP（传输控制协议）是一种用于在网络中建立可靠数据传输连接的协议。它确保数据包按顺序、完整地从发送方传输到接收方，并在传输过程中处理可能出现的错误。TCP广泛应用于互联网应用，如网页浏览、文件传输和电子邮件等。</translation>
+        <translation type="unfinished">TCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/BaseAlgorithmSettings.ui" line="180"/>
@@ -16336,21 +16336,21 @@ Range: 256-2346)</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAppAndGaming.ui" line="332"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Single Port Forwarding&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;单端口转发&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Single Port Forwarding&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;单端口转发&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAppAndGaming.ui" line="1199"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAppAndGaming.ui" line="323"/>
@@ -16360,8 +16360,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAppAndGaming.ui" line="369"/>
-        <source>&lt;p align="right"&gt;Application Name&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;应用程序名称&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Application Name&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;应用程序名称&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAppAndGaming.ui" line="363"/>
@@ -16447,16 +16447,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="87"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Verdana'; font-size:7.8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Verdana&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Verdana'; font-size:7.8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Verdana&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="113"/>
@@ -16611,7 +16611,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="581"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="620"/>
@@ -16696,7 +16696,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseCommandLogListView.ui" line="46"/>
         <source>Device</source>
-        <translation>设备；器械</translation>
+        <translation type="unfinished">设备</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseCommandLogListView.ui" line="51"/>
@@ -16706,7 +16706,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseCommandLogListView.ui" line="56"/>
         <source>Command</source>
-        <translation>命令；指令；控制权</translation>
+        <translation type="unfinished">命令</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseCommandLogListView.ui" line="61"/>
@@ -16936,8 +16936,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDMZSettings.ui" line="332"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;DMZ&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;非军事区（DMZ）&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;DMZ&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;非军事区（DMZ）&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDMZSettings.ui" line="323"/>
@@ -16991,16 +16991,16 @@ Address:</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDMZSettings.ui" line="1147"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDMZSettings.ui" line="580"/>
@@ -17077,7 +17077,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="68"/>
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="103"/>
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="106"/>
-        <source>To create a Template Device, press the "Select" button and then select a device from the workspace.</source>
+        <source>To create a Template Device, press the &quot;Select&quot; button and then select a device from the workspace.</source>
         <translation>要创建一个模板设备，请点击“选择”按钮，然后从工作区中选择一个设备。</translation>
     </message>
     <message>
@@ -17205,7 +17205,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="397"/>
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="400"/>
         <source>Miscellaneous</source>
-        <translation>杂项；各种各样的东西</translation>
+        <translation type="unfinished">杂项</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="430"/>
@@ -17348,7 +17348,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="298"/>
         <source>Physical</source>
-        <translation>物理的；实际的；肉体的</translation>
+        <translation type="unfinished">物理的</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="355"/>
@@ -17363,7 +17363,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="444"/>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="447"/>
         <source>Zoom In</source>
-        <translation>放大；详细查看</translation>
+        <translation type="unfinished">放大</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="478"/>
@@ -17377,7 +17377,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="518"/>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="521"/>
         <source>Zoom Out</source>
-        <translation>（在地图、图像等上）放大视角</translation>
+        <translation type="unfinished">缩小</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="567"/>
@@ -17485,13 +17485,13 @@ Router(config)#</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1067"/>
-        <source>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face="Courier"&gt;Router&gt; enable&lt;br&gt;
+        <source>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Courier&quot;&gt;Router&gt; enable&lt;br&gt;
 
 Router# configure terminal&lt;br&gt;
 
 Router(config)#&lt;/font&gt;
 </source>
-        <translation>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face="Courier"&gt;路由器&gt; 启用&lt;br&gt;
+        <translation>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Courier&quot;&gt;路由器&gt; 启用&lt;br&gt;
 
 路由器# 配置终端模式&lt;br&gt;
 
@@ -17557,7 +17557,8 @@ Router(config)#&lt;/font&gt;
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1406"/>
         <source>Command
 Prompt</source>
-        <translation>命令；提示</translation>
+        <translation type="unfinished">命令
+提示</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1564"/>
@@ -17620,7 +17621,7 @@ Prompt</source>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3239"/>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3242"/>
         <source>VPN</source>
-        <translation>虚拟专用网络（Virtual Private Network）</translation>
+        <translation type="unfinished">VPN</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3398"/>
@@ -17659,8 +17660,8 @@ Prompt</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3887"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;Email&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;电子邮件&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Email&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;电子邮件&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4017"/>
@@ -17731,12 +17732,12 @@ Prompt</source>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5332"/>
         <source>Property</source>
-        <translation>财产；不动产</translation>
+        <translation type="unfinished">属性</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5337"/>
         <source>Value</source>
-        <translation>价值；重要性</translation>
+        <translation type="unfinished">值</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5366"/>
@@ -17750,7 +17751,7 @@ Prompt</source>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5390"/>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5393"/>
         <source>Top</source>
-        <translation>顶部；顶尖的</translation>
+        <translation type="unfinished">置顶</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5413"/>
@@ -17782,7 +17783,7 @@ Configuration</source>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2364"/>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2370"/>
         <source>Terminal</source>
-        <translation>终端；终点站；终点</translation>
+        <translation type="unfinished">终端</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1583"/>
@@ -17890,7 +17891,7 @@ Configuration</source>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5222"/>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5225"/>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5228"/>
-        <source>Don't Lock</source>
+        <source>Don&apos;t Lock</source>
         <translation>不要锁定</translation>
     </message>
     <message>
@@ -17929,8 +17930,8 @@ Configuration</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="304"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style="font-weight:600;"&gt;DHCP Reservation&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style="font-weight:600;"&gt;DHCP预留&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;DHCP Reservation&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;DHCP预留&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="315"/>
@@ -17971,7 +17972,7 @@ Configuration</source>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="1200"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="1205"/>
@@ -18027,12 +18028,12 @@ Configuration</source>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="1284"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="329"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-family:'Verdana'; font-weight:600;"&gt;DHCP Reservation&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style="font-family:'Verdana'; font-weight:600;"&gt;DHCP预留&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;; font-weight:600;&quot;&gt;DHCP Reservation&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-family:&apos;Verdana&apos;; font-weight:600;&quot;&gt;DHCP预留&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="320"/>
@@ -18042,8 +18043,8 @@ Configuration</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="360"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;Select Clients from DHCP Tables&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;从DHCP表中选择客户端&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Select Clients from DHCP Tables&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;从DHCP表中选择客户端&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="354"/>
@@ -18053,8 +18054,8 @@ Configuration</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="388"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;Clients Already Reserved&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;客户已被预留&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Clients Already Reserved&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;客户已被预留&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="382"/>
@@ -18064,8 +18065,8 @@ Configuration</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="416"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;Manually Adding Client&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;手动添加客户端&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Manually Adding Client&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;手动添加客户端&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="410"/>
@@ -18160,8 +18161,8 @@ Configuration</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFactoryDefaults.ui" line="305"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Factory Defaults&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;工厂默认设置&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Factory Defaults&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;工厂默认设置&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFactoryDefaults.ui" line="317"/>
@@ -18171,16 +18172,16 @@ Configuration</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFactoryDefaults.ui" line="800"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFactoryDefaults.ui" line="782"/>
@@ -18258,8 +18259,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="302"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Firewall&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;防火墙&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Firewall&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;防火墙&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="314"/>
@@ -18269,8 +18270,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="424"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Internet Filter&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;互联网过滤器&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet Filter&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;互联网过滤器&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="436"/>
@@ -18280,8 +18281,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="546"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Web Filter&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;网络过滤器&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Web Filter&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;网络过滤器&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="558"/>
@@ -18361,16 +18362,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="1261"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="1243"/>
@@ -18409,8 +18410,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="308"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Firmware Upgrade&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;固件升级&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Firmware Upgrade&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;固件升级&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="320"/>
@@ -18421,14 +18422,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="588"/>
         <source>Warning: Upgrading firmware may take a few minutes, 
-please don't turn off the  power or press the reset 
+please don&apos;t turn off the  power or press the reset 
 button.</source>
         <translation>警告：升级固件可能需要几分钟时间，请勿关闭电源或按下复位按钮。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="593"/>
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="596"/>
-        <source>Warning: Upgrading firmware may take a few minutes, please don't turn off the  power or press the reset button.</source>
+        <source>Warning: Upgrading firmware may take a few minutes, please don&apos;t turn off the  power or press the reset button.</source>
         <translation>警告：升级固件可能需要几分钟时间，请勿关闭电源或按下复位按钮。</translation>
     </message>
     <message>
@@ -18440,16 +18441,16 @@ button.</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="1055"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="1037"/>
@@ -18718,7 +18719,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMenu.ui" line="606"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMenu.ui" line="611"/>
@@ -18773,7 +18774,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls.ui" line="581"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls.ui" line="586"/>
@@ -18820,7 +18821,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls2.ui" line="581"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls2.ui" line="586"/>
@@ -18889,7 +18890,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls.ui" line="581"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls.ui" line="586"/>
@@ -18936,7 +18937,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls2.ui" line="581"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls2.ui" line="586"/>
@@ -19093,7 +19094,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls.ui" line="580"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls.ui" line="585"/>
@@ -19140,7 +19141,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls2.ui" line="580"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls2.ui" line="585"/>
@@ -19195,16 +19196,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="737"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt;"&gt;Redial&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Redial&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt;"&gt;重拨&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;重拨&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="746"/>
@@ -19231,16 +19232,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1107"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;Your Current Options&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;Your Current Options&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;您当前的选择&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;您当前的选择&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1116"/>
@@ -19280,7 +19281,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1345"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1350"/>
@@ -19346,7 +19347,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseInstructionDialog.ui" line="175"/>
         <source>Top</source>
-        <translation>顶部；顶尖</translation>
+        <translation type="unfinished">置顶</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseInstructionDialog.ui" line="169"/>
@@ -19484,16 +19485,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseLinkSysGUI.ui" line="892"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Verdana'; font-size:10pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Verdana'; font-size:10pt;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -19505,13 +19506,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseLocalNetworkStatus.ui" line="424"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;DHCP Server&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;DHCP服务器&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;DHCP Server&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;DHCP服务器&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseLocalNetworkStatus.ui" line="299"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Local Network&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;局域网&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Local Network&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;局域网&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseLocalNetworkStatus.ui" line="761"/>
@@ -19555,16 +19556,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseLocalNetworkStatus.ui" line="1097"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseLocalNetworkStatus.ui" line="1079"/>
@@ -20054,8 +20055,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="329"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-weight:600;"&gt;List of PCs&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style="font-weight:600;"&gt;PC列表&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;List of PCs&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;PC列表&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="320"/>
@@ -20065,8 +20066,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="360"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-family:'Verdana';"&gt;MAC Address&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style="font-family: 'Verdana';"&gt;MAC地址&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;MAC Address&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-family: &apos;Verdana&apos;;&quot;&gt;MAC地址&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="354"/>
@@ -20076,8 +20077,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="388"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;&lt;span style=" font-family:'Verdana';"&gt;IP Address Range&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;&lt;span style="font-family:'Verdana';"&gt;IP地址范围&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;IP Address Range&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot;font-family:&apos;Verdana&apos;;&quot;&gt;IP地址范围&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="382"/>
@@ -20087,8 +20088,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="416"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;&lt;span style=" font-family:'Verdana';"&gt;IP Address&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;&lt;span style="font-family: 'Verdana';"&gt;IP地址&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;IP Address&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot;font-family: &apos;Verdana&apos;;&quot;&gt;IP地址&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="410"/>
@@ -20744,8 +20745,8 @@ Destination:</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseQoSSettings.ui" line="332"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;&lt;span style=" font-weight:600;"&gt;QoS&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;&lt;span style="font-weight:600;"&gt;服务质量（QoS）&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;QoS&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;服务质量（QoS）&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseQoSSettings.ui" line="453"/>
@@ -20925,16 +20926,16 @@ Destination:</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseQoSSettings.ui" line="1955"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -21067,8 +21068,8 @@ p, li { white-space: pre-wrap; }
     <name>CBaseRouterStatus</name>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="308"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Router Information&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;路由器信息&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Router Information&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;路由器信息&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1280"/>
@@ -21175,16 +21176,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1482"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1464"/>
@@ -21206,10 +21207,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="433"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Internet
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet
 
 Connection&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;互联网连接&lt;/b&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;互联网连接&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="920"/>
@@ -21508,23 +21509,23 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="274"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Internet Setup&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;互联网设置&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet Setup&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;互联网设置&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="399"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Network Setup&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;网络设置&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Network Setup&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;网络设置&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="473"/>
-        <source>&lt;p align="right"&gt;Internet Connection Type&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;互联网连接类型&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Internet Connection Type&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;互联网连接类型&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="504"/>
-        <source>&lt;p align="right"&gt;Router IP&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;路由器IP地址&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;Router IP&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;路由器IP地址&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1070"/>
@@ -21770,16 +21771,16 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4260"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1803"/>
@@ -21988,8 +21989,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="436"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;Optional Settings&lt;br/&gt;(required by some internet service providers)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;可选设置&lt;br/&gt;（部分互联网服务提供商要求提供）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Optional Settings&lt;br/&gt;(required by some internet service providers)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;可选设置&lt;br/&gt;（部分互联网服务提供商要求提供）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="430"/>
@@ -22149,7 +22150,7 @@ of Users:</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2494"/>
         <source>DHCP 
 Reservation</source>
-        <translation>DHCP（动态主机配置协议）  
+        <translation type="unfinished">DHCP  
 预留</translation>
     </message>
     <message>
@@ -22202,10 +22203,10 @@ Reservation</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="535"/>
-        <source>&lt;p align="right"&gt;DHCP Server 
+        <source>&lt;p align=&quot;right&quot;&gt;DHCP Server 
 
 Setting&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;DHCP服务器设置&lt;/p&gt;</translation>
+        <translation>&lt;p align=&quot;right&quot;&gt;DHCP服务器设置&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="988"/>
@@ -22305,7 +22306,7 @@ Setting&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="334"/>
         <source>Play Controls</source>
-        <translation>游戏控制</translation>
+        <translation type="unfinished">播放控件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="265"/>
@@ -22716,7 +22717,7 @@ Setting&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseUserCreatedPDU.ui" line="197"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseUserCreatedPDU.ui" line="310"/>
@@ -22840,8 +22841,8 @@ Setting&lt;/p&gt;</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="263"/>
-        <source>&lt;p align="right"&gt;MAC Address&lt;br&gt;filter list&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;MAC地址&lt;br&gt;过滤列表&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;MAC Address&lt;br&gt;filter list&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;MAC地址&lt;br&gt;过滤列表&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="606"/>
@@ -23117,8 +23118,8 @@ Setting&lt;/p&gt;</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="235"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;Access Resolution&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;访问分辨率&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Access Resolution&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;访问分辨率&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="229"/>
@@ -23128,8 +23129,8 @@ Setting&lt;/p&gt;</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="391"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Wireless MAC Filter&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;无线MAC过滤器&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless MAC Filter&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;无线MAC过滤器&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="547"/>
@@ -23172,16 +23173,16 @@ Setting&lt;/p&gt;</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3327"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2618"/>
@@ -23452,8 +23453,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="320"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Wireless Network&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;无线网络&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless Network&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;无线网络&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="311"/>
@@ -23603,16 +23604,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2768"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="486"/>
@@ -23634,7 +23635,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2169"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2172"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="543"/>
@@ -23808,8 +23809,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="243"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Wireless Security&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;无线安全&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless Security&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;无线安全&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="508"/>
@@ -24033,16 +24034,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2288"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1212"/>
@@ -24350,8 +24351,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityGuestNetworkHomeRouter.ui" line="243"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Wireless Security&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;无线安全&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless Security&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;无线安全&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityGuestNetworkHomeRouter.ui" line="447"/>
@@ -24428,16 +24429,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityGuestNetworkHomeRouter.ui" line="1237"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -24451,8 +24452,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="243"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Wireless Security&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;无线安全&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless Security&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;无线安全&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="501"/>
@@ -24486,16 +24487,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="952"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -24507,15 +24508,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="311"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Basic Wireless Settings&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;基本无线设置&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Basic Wireless Settings&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;基本无线设置&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="564"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="599"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="634"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="481"/>
@@ -24613,16 +24614,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="1097"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -24640,8 +24641,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="311"/>
-        <source>&lt;p align="right"&gt;&lt;b&gt;Basic Wireless Settings&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align="right"&gt;&lt;b&gt;基本无线设置&lt;/b&gt;&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Basic Wireless Settings&lt;/b&gt;&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;基本无线设置&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="435"/>
@@ -24676,7 +24677,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="1239"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="1274"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="512"/>
@@ -24822,16 +24823,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="1652"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600; color:#ffffff;"&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -24865,7 +24866,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="206"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="209"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="275"/>
@@ -24884,7 +24885,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1297"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1300"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2274"/>
@@ -24936,7 +24937,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2302"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2305"/>
         <source>Static</source>
-        <translation>静态的；不变的</translation>
+        <translation type="unfinished">静态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="764"/>
@@ -25127,7 +25128,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="618"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="862"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="391"/>
@@ -25145,7 +25146,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="462"/>
         <source>Discoverable</source>
-        <translation>可发现的；可查明的</translation>
+        <translation type="unfinished">可发现的</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="505"/>
@@ -25180,7 +25181,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="565"/>
         <source>Tether</source>
-        <translation>泰达币（Tether）</translation>
+        <translation type="unfinished">Tether</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="572"/>
@@ -25359,12 +25360,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBBrowser.ui" line="377"/>
         <source>Value</source>
-        <translation>价值；重要性</translation>
+        <translation type="unfinished">值</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBBrowser.ui" line="382"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
 </context>
 <context>
@@ -25455,16 +25456,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMailBrowser.ui" line="296"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMailBrowser.ui" line="322"/>
@@ -25511,7 +25512,7 @@ Send/Receive</source>
         <location filename="../gui/DesignerFiles/Workstation/BaseNetflowCollector.ui" line="133"/>
         <location filename="../gui/DesignerFiles/Workstation/BaseNetflowCollector.ui" line="136"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseNetflowCollector.ui" line="143"/>
@@ -25709,7 +25710,7 @@ This ExApp is mandatory and may not be removed or disabled.</source>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="296"/>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="304"/>
-        <source>An error occurred importing this application's meta file.</source>
+        <source>An error occurred importing this application&apos;s meta file.</source>
         <translation>在导入此应用程序的元文件时发生了错误。</translation>
     </message>
 </context>
@@ -26748,7 +26749,7 @@ Publisher Certificate Information:
     </message>
     <message>
         <location filename="../gui/scripting/CCustomInterfaceEditor.cpp" line="196"/>
-        <source>Cannot change an image file's extension.</source>
+        <source>Cannot change an image file&apos;s extension.</source>
         <translation>无法更改图像文件的扩展名。</translation>
     </message>
     <message>
@@ -27004,7 +27005,7 @@ XML 文件：*.xml</translation>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3958"/>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3989"/>
         <source>Physical</source>
-        <translation>物理的；实际的；身体的</translation>
+        <translation type="unfinished">物理的</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="674"/>
@@ -27072,12 +27073,12 @@ XML 文件：*.xml</translation>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3719"/>
         <source>INTERFACE</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3742"/>
         <source>GLOBAL</source>
-        <translation>全球的；广泛的</translation>
+        <translation type="unfinished">全局的</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3743"/>
@@ -27294,7 +27295,7 @@ XML 文件：*.xml</translation>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="371"/>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="383"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="308"/>
@@ -27332,7 +27333,7 @@ XML 文件：*.xml</translation>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="329"/>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="340"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="330"/>
@@ -27761,7 +27762,7 @@ stamp</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/DhcpClientTable.cpp" line="59"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/DhcpClientTable.cpp" line="59"/>
@@ -27793,7 +27794,7 @@ Address</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="179"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="179"/>
@@ -27867,7 +27868,7 @@ Address</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="337"/>
-        <source>This MAC Address has already been reserved! It can't be added twice.</source>
+        <source>This MAC Address has already been reserved! It can&apos;t be added twice.</source>
         <translation>该MAC地址已被预留，无法再次添加。</translation>
     </message>
 </context>
@@ -27935,7 +27936,7 @@ Address</source>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="264"/>
         <source>Fire</source>
-        <translation>火灾；解雇；开除</translation>
+        <translation type="unfinished">Fire</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="265"/>
@@ -28481,7 +28482,7 @@ and all previous settings will be erased.</source>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="85"/>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="87"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="115"/>
@@ -28875,7 +28876,7 @@ and all previous settings will be erased.</source>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="4707"/>
-        <source>Multiuser connections can't be recabled.  You must delete and recreate.</source>
+        <source>Multiuser connections can&apos;t be recabled.  You must delete and recreate.</source>
         <translation>多用户连接无法重新布线，必须先删除再重新创建。</translation>
     </message>
     <message>
@@ -29035,17 +29036,17 @@ and all previous settings will be erased.</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicator.cpp" line="484"/>
-        <source>Playing 'Do'...</source>
+        <source>Playing &apos;Do&apos;...</source>
         <translation>正在玩“Do”游戏……</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicator.cpp" line="491"/>
-        <source>Playing 'Re'...</source>
+        <source>Playing &apos;Re&apos;...</source>
         <translation>正在玩《Re》……</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicator.cpp" line="498"/>
-        <source>Playing 'Mi'...</source>
+        <source>Playing &apos;Mi&apos;...</source>
         <translation>正在玩《Mi》……</translation>
     </message>
 </context>
@@ -29212,17 +29213,17 @@ and all previous settings will be erased.</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorAnsweredCallScreen.cpp" line="74"/>
-        <source>Send 'Do'</source>
+        <source>Send &apos;Do&apos;</source>
         <translation>发送“Do”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorAnsweredCallScreen.cpp" line="75"/>
-        <source>Send 'Re'</source>
+        <source>Send &apos;Re&apos;</source>
         <translation>发送“Re”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorAnsweredCallScreen.cpp" line="76"/>
-        <source>Send 'Mi'</source>
+        <source>Send &apos;Mi&apos;</source>
         <translation>发送“Mi”</translation>
     </message>
     <message>
@@ -30778,17 +30779,17 @@ and all previous settings will be erased.</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="127"/>
-        <source>Send 'Do'</source>
+        <source>Send &apos;Do&apos;</source>
         <translation>发送“Do”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="128"/>
-        <source>Send 'Re'</source>
+        <source>Send &apos;Re&apos;</source>
         <translation>发送“Re”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="129"/>
-        <source>Send 'Mi'</source>
+        <source>Send &apos;Mi&apos;</source>
         <translation>发送“Mi”</translation>
     </message>
     <message>
@@ -30871,17 +30872,17 @@ and all previous settings will be erased.</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="466"/>
-        <source>Playing 'Do'...</source>
+        <source>Playing &apos;Do&apos;...</source>
         <translation>正在玩“Do”游戏……</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="473"/>
-        <source>Playing 'Re'...</source>
+        <source>Playing &apos;Re&apos;...</source>
         <translation>正在玩“Re”……</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="480"/>
-        <source>Playing 'Mi'...</source>
+        <source>Playing &apos;Mi&apos;...</source>
         <translation>正在玩《Mi》……</translation>
     </message>
     <message>
@@ -31117,7 +31118,7 @@ reset activity?</source>
     </message>
     <message>
         <location filename="../gui/activity/InstructionDialog.cpp" line="1240"/>
-        <source>This activity has connectivity tests. Click on "Check Results" for evaluation.</source>
+        <source>This activity has connectivity tests. Click on &quot;Check Results&quot; for evaluation.</source>
         <translation>该活动包含连接性测试。点击“检查结果”进行评估。</translation>
     </message>
 </context>
@@ -31189,7 +31190,7 @@ reset activity?</source>
     <name>CIoxProjectNewDlg</name>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IoX/CIoxProjectNewDlg.cpp" line="52"/>
-        <source>Project name should contain only alphanumeric and "_" characters</source>
+        <source>Project name should contain only alphanumeric and &quot;_&quot; characters</source>
         <translation>项目名称应仅包含字母、数字和下划线（_）字符。</translation>
     </message>
 </context>
@@ -31337,13 +31338,13 @@ reset activity?</source>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="308"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="313"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="321"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="326"/>
         <source>Static</source>
-        <translation>静态的；不变的</translation>
+        <translation type="unfinished">静态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="44"/>
@@ -31540,7 +31541,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="313"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="314"/>
@@ -31601,7 +31602,7 @@ reset activity?</source>
         <location filename="../gui/activity/LockingTree.cpp" line="362"/>
         <location filename="../gui/activity/LockingTree.cpp" line="429"/>
         <source>Global</source>
-        <translation>全球的；广泛的</translation>
+        <translation type="unfinished">全局的</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="363"/>
@@ -31761,7 +31762,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="428"/>
         <source>Simulation</source>
-        <translation>仿真；模拟</translation>
+        <translation type="unfinished">模拟</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="430"/>
@@ -32542,7 +32543,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="56"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="264"/>
@@ -32598,7 +32599,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/switches/LogicalToolbar.cpp" line="92"/>
         <source>Root</source>
-        <translation>根；根源；基础</translation>
+        <translation type="unfinished">Root</translation>
     </message>
     <message>
         <location filename="../gui/switches/LogicalToolbar.cpp" line="206"/>
@@ -32765,7 +32766,7 @@ reset activity?</source>
     </message>
     <message>
         <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8760"/>
-        <source>Your version of %1 does not match the remote peer's version.</source>
+        <source>Your version of %1 does not match the remote peer&apos;s version.</source>
         <translation>您使用的 %1 版本与远程对端的版本不匹配。</translation>
     </message>
     <message>
@@ -33519,8 +33520,8 @@ Please try to use a different port.</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/PCWirelessModeBase.ui" line="160"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" color:#ff0000;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style="color:#ff0000;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -33717,7 +33718,7 @@ Please try to use a different port.</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="584"/>
-        <source>Please enter an IP address and subnet mask into the fields with format "xxx.xxx.xxx.xxx".</source>
+        <source>Please enter an IP address and subnet mask into the fields with format &quot;xxx.xxx.xxx.xxx&quot;.</source>
         <translation>请按照“xxx.xxx.xxx.xxx”的格式，在相应的字段中输入IP地址和子网掩码。</translation>
     </message>
     <message>
@@ -33727,12 +33728,12 @@ Please try to use a different port.</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="602"/>
-        <source>Please enter a default gateway into the field with format "xxx.xxx.xxx.xxx".</source>
+        <source>Please enter a default gateway into the field with format &quot;xxx.xxx.xxx.xxx&quot;.</source>
         <translation>请在字段中输入默认网关，格式为“xxx.xxx.xxx.xxx”。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="612"/>
-        <source>Please enter a DNS server into the field with format "xxx.xxx.xxx.xxx".</source>
+        <source>Please enter a DNS server into the field with format &quot;xxx.xxx.xxx.xxx&quot;.</source>
         <translation>请在字段中输入一个 DNS 服务器地址，格式为“xxx.xxx.xxx.xxx”。</translation>
     </message>
     <message>
@@ -33879,7 +33880,7 @@ Please try to use a different port.</source>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1740"/>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1741"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1378"/>
@@ -34002,8 +34003,8 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="911"/>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="917"/>
-        <source>WEP Key must be characters from 'A' to 'F' and '0' to '9'.</source>
-        <translation>WEP密钥必须由字母'A'到'F'以及数字'0'到'9'组成。</translation>
+        <source>WEP Key must be characters from &apos;A&apos; to &apos;F&apos; and &apos;0&apos; to &apos;9&apos;.</source>
+        <translation>WEP密钥必须由字母&apos;A&apos;到&apos;F&apos;以及数字&apos;0&apos;到&apos;9&apos;组成。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="953"/>
@@ -34215,7 +34216,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="194"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="196"/>
@@ -34464,7 +34465,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp" line="154"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
 </context>
 <context>
@@ -34621,7 +34622,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="203"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="205"/>
@@ -34753,7 +34754,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="124"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="125"/>
@@ -34768,7 +34769,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="127"/>
         <source>Export</source>
-        <translation>出口；输出</translation>
+        <translation type="unfinished">导出</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="128"/>
@@ -34830,7 +34831,7 @@ Please try to use a different port.</source>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="208"/>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="224"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="214"/>
@@ -35039,7 +35040,7 @@ Please try to use a different port.</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurityWEP.cpp" line="64"/>
-        <source>Authentication - select your network's authentication type. (Default setting: Auto)</source>
+        <source>Authentication - select your network&apos;s authentication type. (Default setting: Auto)</source>
         <translation>身份验证 - 选择您网络的身份验证类型。（默认设置：自动）</translation>
     </message>
     <message>
@@ -35079,12 +35080,12 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="271"/>
         <source>Removes a header or a header and trailer from this
-layer's PDU to create the PDU at the next higher layer.</source>
+layer&apos;s PDU to create the PDU at the next higher layer.</source>
         <translation>从该层的PDU中移除头部（header）或头部和尾部（header and trailer），以生成更高层的PDU。</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="272"/>
-        <source>Adds a header or a header and trailer to this layer's
+        <source>Adds a header or a header and trailer to this layer&apos;s
 PDU to create the PDU at the next lower layer.</source>
         <translation>在此层的 PDU 中添加一个头部（header）或头部和尾部（header and trailer），以生成下一较低层的 PDU。</translation>
     </message>
@@ -35232,7 +35233,7 @@ Destination: %3</source>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="896"/>
         <source>LLDP</source>
-        <translation>LLDP（Link Layer Discovery Protocol，链路层发现协议）是一种用于网络设备之间交换信息、维护网络拓扑结构和检测故障的协议。它允许网络设备动态地发现并更新彼此的存在，从而提高网络的可靠性和可管理性。</translation>
+        <translation type="unfinished">LLDP</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="909"/>
@@ -35377,7 +35378,7 @@ Destination: %3</source>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1292"/>
         <source>RIP</source>
-        <translation>愿他安息（RIP是“Rest in Peace”的缩写）</translation>
+        <translation type="unfinished">RIP</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1314"/>
@@ -35387,7 +35388,7 @@ Destination: %3</source>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1342"/>
         <source>TELNET</source>
-        <translation>TELNET（远程登录协议）</translation>
+        <translation type="unfinished">TELNET</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1349"/>
@@ -35397,7 +35398,7 @@ Destination: %3</source>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1356"/>
         <source>SSH</source>
-        <translation>SSH（安全外壳协议，Secure Shell Protocol）是一种用于远程登录和数据传输的安全协议。它允许用户在客户端与服务器之间建立加密的通信通道，从而保护数据在传输过程中的安全性。</translation>
+        <translation type="unfinished">SSH</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1378"/>
@@ -35432,7 +35433,7 @@ Destination: %3</source>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1604"/>
         <source>TACACS</source>
-        <translation>TACACS（Terminal Access Control Authentication Command and Accounting System，终端访问控制认证与计费系统）</translation>
+        <translation type="unfinished">TACACS</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1612"/>
@@ -35606,7 +35607,7 @@ What is the device decision in this layer?</source>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2814"/>
-        <source>Congratulations! You have successfully completed this challenge. You may repeat this challenge by toggling the "Challenge Me" button, or you may try your knowledge at another protocol data unit (PDU).</source>
+        <source>Congratulations! You have successfully completed this challenge. You may repeat this challenge by toggling the &quot;Challenge Me&quot; button, or you may try your knowledge at another protocol data unit (PDU).</source>
         <translation>恭喜！您已成功完成此挑战。您可以通过点击“挑战我”按钮来重复此挑战，或者尝试学习其他协议数据单元（PDU）的相关知识。</translation>
     </message>
     <message>
@@ -35710,7 +35711,7 @@ What is the device decision in this layer?</source>
     <message>
         <location filename="../gui/UserCreatedPDU/PDUListWindow.cpp" line="58"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/PDUListWindow.cpp" line="58"/>
@@ -35730,7 +35731,7 @@ What is the device decision in this layer?</source>
     <message>
         <location filename="../gui/UserCreatedPDU/PDUListWindow.cpp" line="58"/>
         <source>Num</source>
-        <translation>数字；号码</translation>
+        <translation type="unfinished">数字</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/PDUListWindow.cpp" line="58"/>
@@ -35823,7 +35824,7 @@ What is the device decision in this layer?</source>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="190"/>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="193"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用3</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="263"/>
@@ -35855,7 +35856,7 @@ What is the device decision in this layer?</source>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="245"/>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="248"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="278"/>
@@ -35947,7 +35948,7 @@ What is the device decision in this layer?</source>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="203"/>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="206"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="270"/>
@@ -35973,7 +35974,7 @@ What is the device decision in this layer?</source>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="239"/>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="242"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="310"/>
@@ -35991,16 +35992,16 @@ What is the device decision in this layer?</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="380"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;/&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;/&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;/&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;/&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="374"/>
@@ -36072,7 +36073,7 @@ Cable Type: %6</source>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/PhysicalCable.cpp" line="669"/>
-        <source>Multiuser connections can't be recabled.  You must delete and recreate.</source>
+        <source>Multiuser connections can&apos;t be recabled.  You must delete and recreate.</source>
         <translation>多用户连接无法重新连接线；你必须先删除原有的连接，然后重新创建。</translation>
     </message>
     <message>
@@ -36107,7 +36108,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationDialog.cpp" line="109"/>
         <source>Device</source>
-        <translation>设备；器械</translation>
+        <translation type="unfinished">设备</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationDialog.cpp" line="110"/>
@@ -36165,7 +36166,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="56"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="264"/>
@@ -36335,7 +36336,7 @@ Total Area: scaleless</source>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/CPixmapViewer.cpp" line="56"/>
-        <source>Ensure you are no longer using this image! Deletion of utilized images will result in "file not found". Do you want to delete </source>
+        <source>Ensure you are no longer using this image! Deletion of utilized images will result in &quot;file not found&quot;. Do you want to delete </source>
         <translation>请确保您不再使用此图片！删除已使用的图片会导致“文件未找到”的错误。您是否要删除该图片？</translation>
     </message>
     <message>
@@ -36388,7 +36389,7 @@ Total Area: scaleless</source>
         <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="93"/>
         <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="95"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="123"/>
@@ -36475,7 +36476,7 @@ Total Area: scaleless</source>
         <location filename="../gui/IoE/CProjectMonitor.cpp" line="85"/>
         <location filename="../gui/IoE/CProjectMonitor.cpp" line="153"/>
         <source>Stop</source>
-        <translation>停下来</translation>
+        <translation type="unfinished">停止</translation>
     </message>
     <message>
         <location filename="../gui/IoE/CProjectMonitor.cpp" line="139"/>
@@ -36618,7 +36619,7 @@ Command Prompt Commands: %7</source>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="40"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="45"/>
@@ -36628,7 +36629,7 @@ Command Prompt Commands: %7</source>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="50"/>
         <source>Device</source>
-        <translation>设备；器械</translation>
+        <translation type="unfinished">设备</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="71"/>
@@ -37102,7 +37103,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="276"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="277"/>
@@ -37137,7 +37138,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="528"/>
         <source>Static</source>
-        <translation>静态的；不变的</translation>
+        <translation type="unfinished">静态</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="529"/>
@@ -37147,7 +37148,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1291"/>
         <source>INTERFACE</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1303"/>
@@ -37276,7 +37277,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterIoxIde.cpp" line="82"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterIoxIde.cpp" line="86"/>
@@ -37359,7 +37360,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterIoxIde.cpp" line="625"/>
-        <source>Binary file can't be edited</source>
+        <source>Binary file can&apos;t be edited</source>
         <translation>二进制文件无法被编辑。</translation>
     </message>
 </context>
@@ -37417,12 +37418,12 @@ Please wait until it is finished.</source>
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="31"/>
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="34"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="37"/>
-        <source>&lt;p align="center"&gt;DHCP&lt;/p&gt;</source>
-        <translation>&lt;p align="center"&gt;DHCP&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;center&quot;&gt;DHCP&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;center&quot;&gt;DHCP&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="158"/>
@@ -37443,7 +37444,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="285"/>
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="288"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="304"/>
@@ -37882,12 +37883,12 @@ Do you want to allow it?</source>
     </message>
     <message>
         <location filename="../engine/scripting/CScriptModule.cpp" line="1496"/>
-        <source>This file requires script access to %1's IPC functionalities with the following information. Do you want to grant it access? If you select no, the file may not work correctly.</source>
+        <source>This file requires script access to %1&apos;s IPC functionalities with the following information. Do you want to grant it access? If you select no, the file may not work correctly.</source>
         <translation>此文件需要脚本权限来访问 %1 的 IPC 功能，具体信息如下。您是否要授予其相应的权限？如果您选择“否”，该文件可能无法正常运行。</translation>
     </message>
     <message>
         <location filename="../engine/scripting/CScriptModule.cpp" line="1498"/>
-        <source>This file requires script access to %1's IPC functionalities with the following information. Do you want to grant it access? If you select no, the file will not open.</source>
+        <source>This file requires script access to %1&apos;s IPC functionalities with the following information. Do you want to grant it access? If you select no, the file will not open.</source>
         <translation>该文件需要脚本访问权限，以便使用以下信息来调用用户的 IPC（Inter-Process Communication，进程间通信）功能。您是否要授予其访问权限？如果您选择“否”，则该文件将无法打开。</translation>
     </message>
     <message>
@@ -38223,7 +38224,7 @@ Do you wish to resign and edit the script, or edit the scripts unsigned?</source
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="826"/>
         <source>Stop</source>
-        <translation>停下来</translation>
+        <translation type="unfinished">停止</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="828"/>
@@ -38602,7 +38603,7 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDialog.cpp" line="227"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDialog.cpp" line="229"/>
@@ -38671,8 +38672,8 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDialog.cpp" line="11376"/>
-        <source/>
-        <translation/>
+        <source></source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -38951,8 +38952,8 @@ Supported file extensions: .html .htm . php .css .js</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerIPSettings.cpp" line="642"/>
-        <source/>
-        <translation/>
+        <source></source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -38980,7 +38981,7 @@ Supported file extensions: .html .htm . php .css .js</source>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerIox.cpp" line="128"/>
         <source>Stop</source>
-        <translation>停下来</translation>
+        <translation type="unfinished">停止</translation>
     </message>
 </context>
 <context>
@@ -39085,8 +39086,8 @@ Supported file extensions: .html .htm . php .css .js</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/ServiceCellTower.ui" line="72"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;Cell Tower Service&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;基站服务&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Cell Tower Service&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;基站服务&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/ServiceCellTower.ui" line="66"/>
@@ -39106,7 +39107,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Routing/ServiceCellTower.ui" line="131"/>
         <location filename="../gui/DesignerFiles/Routing/ServiceCellTower.ui" line="134"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/ServiceCellTower.ui" line="150"/>
@@ -39149,19 +39150,19 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="31"/>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="34"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="37"/>
-        <source>&lt;p align="center"&gt;DHCP&lt;/p&gt;</source>
-        <translation>&lt;p align="center"&gt;DHCP&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;center&quot;&gt;DHCP&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;center&quot;&gt;DHCP&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="75"/>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="78"/>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="81"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="114"/>
@@ -39175,7 +39176,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="145"/>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="148"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="167"/>
@@ -39294,15 +39295,15 @@ Supported file extensions: .html .htm . php .css .js</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="55"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;DHCPv6&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;DHCPv6&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;DHCPv6&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;DHCPv6&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="95"/>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="98"/>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="101"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="152"/>
@@ -39324,7 +39325,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="248"/>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="251"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="270"/>
@@ -39780,8 +39781,8 @@ Supported file extensions: .html .htm . php .css .js</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="568"/>
-        <source>&lt;p align="center"&gt;DNS&lt;/p&gt;</source>
-        <translation>&lt;p align="center"&gt;DNS&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;center&quot;&gt;DNS&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;center&quot;&gt;DNS&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="562"/>
@@ -39801,7 +39802,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="528"/>
         <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="531"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="541"/>
@@ -39858,7 +39859,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="964"/>
         <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="970"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="626"/>
@@ -40006,7 +40007,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="62"/>
         <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="64"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="82"/>
@@ -40037,7 +40038,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="134"/>
         <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="136"/>
         <source>Write</source>
-        <translation>写；书写</translation>
+        <translation type="unfinished">写入</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="141"/>
@@ -40135,7 +40136,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceHttp.ui" line="191"/>
         <location filename="../gui/DesignerFiles/Server/ServiceHttp.ui" line="194"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceHttp.ui" line="138"/>
@@ -40154,8 +40155,8 @@ Supported file extensions: .html .htm . php .css .js</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceHttp.ui" line="230"/>
-        <source>&lt;p align="center"&gt;HTTP&lt;/p&gt;</source>
-        <translation>&lt;p align="center"&gt;HTTP&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;center&quot;&gt;HTTP&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;center&quot;&gt;HTTP&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceHttp.ui" line="258"/>
@@ -40244,7 +40245,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="131"/>
         <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="134"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="154"/>
@@ -40281,7 +40282,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="61"/>
         <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="63"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="81"/>
@@ -40444,7 +40445,7 @@ Password</source>
         <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="78"/>
         <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="80"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="98"/>
@@ -40497,15 +40498,15 @@ Password</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="46"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;PAP / CHAP CONFIGURATION&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="center"&gt;PAP/CHAP 配置&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;PAP / CHAP CONFIGURATION&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;PAP/CHAP 配置&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="94"/>
         <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="97"/>
         <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="100"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="177"/>
@@ -40594,7 +40595,7 @@ Password</source>
         <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="119"/>
         <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="121"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="148"/>
@@ -40618,8 +40619,8 @@ Password</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceTftp.ui" line="40"/>
-        <source>&lt;p align="center"&gt;TFTP&lt;/p&gt;</source>
-        <translation>&lt;p align="center"&gt;TFTP&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;center&quot;&gt;TFTP&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;center&quot;&gt;TFTP&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceTftp.ui" line="45"/>
@@ -40636,7 +40637,7 @@ Password</source>
         <location filename="../gui/DesignerFiles/Server/ServiceTftp.ui" line="90"/>
         <location filename="../gui/DesignerFiles/Server/ServiceTftp.ui" line="92"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceTftp.ui" line="106"/>
@@ -40667,7 +40668,7 @@ Password</source>
         <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="132"/>
         <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="134"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="139"/>
@@ -40893,7 +40894,7 @@ Would you like to use the new version?</source>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155"/>
         <source>Vis.</source>
-        <translation>见。</translation>
+        <translation type="unfinished">Vis.</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155"/>
@@ -40913,7 +40914,7 @@ Would you like to use the new version?</source>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="264"/>
@@ -40993,7 +40994,7 @@ View Previous Events</source>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="853"/>
-        <source>Interface Locked by author's design for this activity -- %1</source>
+        <source>Interface Locked by author&apos;s design for this activity -- %1</source>
         <translation>此活动的界面由作者设计锁定，无法更改——%1</translation>
     </message>
     <message>
@@ -41099,7 +41100,7 @@ Reset the network?</source>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="169"/>
         <source>Play Controls</source>
-        <translation>游戏控制</translation>
+        <translation type="unfinished">播放控件</translation>
     </message>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="170"/>
@@ -41193,7 +41194,7 @@ Reset the network?</source>
         <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="210"/>
         <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="215"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="220"/>
@@ -41691,7 +41692,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="183"/>
         <source>PC</source>
-        <translation>个人电脑（Personal Computer的缩写）</translation>
+        <translation type="unfinished">PC</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="184"/>
@@ -42407,7 +42408,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="547"/>
         <location filename="../gui/CTranslationDB.cpp" line="2203"/>
         <source>RIP</source>
-        <translation>愿他安息（RIP是“Rest in Peace”的缩写）</translation>
+        <translation type="unfinished">RIP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="548"/>
@@ -42441,7 +42442,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="556"/>
         <location filename="../gui/CTranslationDB.cpp" line="2200"/>
         <source>EIGRP</source>
-        <translation>EIGRP（Enhanced Interior Gateway Routing Protocol，增强型内部网关路由协议）</translation>
+        <translation type="unfinished">EIGRP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="557"/>
@@ -42845,7 +42846,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="726"/>
         <source>Duplex</source>
-        <translation>复式住宅；双面印刷；双重功能</translation>
+        <translation type="unfinished">双工</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="727"/>
@@ -42879,7 +42880,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="2657"/>
         <location filename="../gui/CTranslationDB.cpp" line="2890"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="735"/>
@@ -43354,7 +43355,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="988"/>
         <location filename="../gui/CTranslationDB.cpp" line="2207"/>
         <source>VTP</source>
-        <translation>VTP（Virtual Terminal Protocol，虚拟终端协议）是一种用于在网络设备之间传输配置信息的协议。它允许网络管理员通过集中管理的方式，将配置参数分发到网络中的所有设备上，从而简化网络管理和维护工作。</translation>
+        <translation type="unfinished">VTP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="522"/>
@@ -43460,12 +43461,12 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1106"/>
-        <source>The next-hop IP address is a broadcast. The ARP process sets the frame's destination MAC address to the broadcast MAC address.</source>
+        <source>The next-hop IP address is a broadcast. The ARP process sets the frame&apos;s destination MAC address to the broadcast MAC address.</source>
         <translation>下一跳 IP 地址是一个广播地址。ARP（地址解析协议）会将数据帧的目的 MAC 地址设置为广播 MAC 地址。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1107"/>
-        <source>The next-hop IP address is a multicast. The ARP process sets the frame's destination MAC address to a multicast MAC address.</source>
+        <source>The next-hop IP address is a multicast. The ARP process sets the frame&apos;s destination MAC address to a multicast MAC address.</source>
         <translation>下一跳 IP 地址是一个多播地址。ARP（地址解析协议）会将数据帧的目的 MAC 地址设置为该多播 MAC 地址。</translation>
     </message>
     <message>
@@ -43485,12 +43486,12 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1111"/>
-        <source>The next-hop IP address is in the ARP table. The ARP process sets the frame's destination MAC address to the one found in the table.</source>
+        <source>The next-hop IP address is in the ARP table. The ARP process sets the frame&apos;s destination MAC address to the one found in the table.</source>
         <translation>下一跳 IP 地址存储在 ARP 表中。ARP 过程会将数据帧的目标 MAC 地址设置为该表中对应的地址。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1112"/>
-        <source>The next-hop IP address is in the adjacency table. The device sets the frame's destination MAC address to the one found in the table.</source>
+        <source>The next-hop IP address is in the adjacency table. The device sets the frame&apos;s destination MAC address to the one found in the table.</source>
         <translation>下一跳 IP 地址存在于邻接表中。设备会将数据帧的目的 MAC 地址设置为该表中记录的地址。</translation>
     </message>
     <message>
@@ -43520,7 +43521,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1118"/>
-        <source>The ARP request's sender IP address is in a different network than the receiving port.</source>
+        <source>The ARP request&apos;s sender IP address is in a different network than the receiving port.</source>
         <translation>ARP请求的发送者IP地址位于与接收端口不同的网络中。</translation>
     </message>
     <message>
@@ -43530,7 +43531,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1120"/>
-        <source>The ARP request's target IP address matches the receiving port's IP address.</source>
+        <source>The ARP request&apos;s target IP address matches the receiving port&apos;s IP address.</source>
         <translation>ARP请求的目标IP地址与接收端端口所在的IP地址相匹配。</translation>
     </message>
     <message>
@@ -43555,7 +43556,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1125"/>
-        <source>The ARP request's target IP address does not match the receiving port's IP address.</source>
+        <source>The ARP request&apos;s target IP address does not match the receiving port&apos;s IP address.</source>
         <translation>ARP请求的目标IP地址与接收端端口的IP地址不匹配。</translation>
     </message>
     <message>
@@ -43565,7 +43566,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1127"/>
-        <source>The ARP process replies to the request with the receiving port's MAC address.</source>
+        <source>The ARP process replies to the request with the receiving port&apos;s MAC address.</source>
         <translation>ARP（地址解析协议）进程会用接收端设备的MAC地址来响应该请求。</translation>
     </message>
     <message>
@@ -43620,7 +43621,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1139"/>
-        <source>The ARP frame is a gratuitous ARP Request to fix the LAN hosts' ARP cache due to a duplicate IP address conflict.</source>
+        <source>The ARP frame is a gratuitous ARP Request to fix the LAN hosts&apos; ARP cache due to a duplicate IP address conflict.</source>
         <translation>ARP帧是一种无目的的ARP请求，用于修复局域网主机中的ARP缓存，因为存在IP地址重复冲突的问题。</translation>
     </message>
     <message>
@@ -43840,7 +43841,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1215"/>
-        <source>The DHCP server binds the requested IP address from the pool to the host's MAC address.</source>
+        <source>The DHCP server binds the requested IP address from the pool to the host&apos;s MAC address.</source>
         <translation>DHCP服务器将池中请求的IP地址与主机的MAC地址绑定在一起。</translation>
     </message>
     <message>
@@ -43986,12 +43987,12 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1283"/>
-        <source>The frame's destination MAC address does not match the receiving port's MAC address, the broadcast address, or any multicast address. The device drops the frame.</source>
+        <source>The frame&apos;s destination MAC address does not match the receiving port&apos;s MAC address, the broadcast address, or any multicast address. The device drops the frame.</source>
         <translation>该数据帧的目的MAC地址与接收端口的MAC地址、广播地址或任何多播地址都不匹配，因此设备会丢弃该数据帧。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1284"/>
-        <source>The frame's destination MAC address matches the receiving port's MAC address, the broadcast address, or a multicast address.</source>
+        <source>The frame&apos;s destination MAC address matches the receiving port&apos;s MAC address, the broadcast address, or a multicast address.</source>
         <translation>该帧的目的MAC地址与接收端口的MAC地址、广播地址或多播地址相匹配。</translation>
     </message>
     <message>
@@ -44007,32 +44008,32 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1287"/>
-        <source>The frame's DLCI number is not found in the Frame Relay map table or it does not match the map entry in the Frame Relay map table. The device drops the frame.</source>
+        <source>The frame&apos;s DLCI number is not found in the Frame Relay map table or it does not match the map entry in the Frame Relay map table. The device drops the frame.</source>
         <translation>该帧的 DLCI 号码在帧中继映射表中不存在，或者与映射表中的条目不匹配。设备会丢弃该帧。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1288"/>
-        <source>The frame's DLCI number is not found in the Frame Relay map table. The device drops the packet.</source>
+        <source>The frame&apos;s DLCI number is not found in the Frame Relay map table. The device drops the packet.</source>
         <translation>该帧的 DLCI 号码在帧中继映射表中不存在，因此设备会丢弃该数据包。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1289"/>
-        <source>The frame's encapsulation type does not match the encapsulation type of the map entry in the Frame Relay map table. The device drops the frame.</source>
+        <source>The frame&apos;s encapsulation type does not match the encapsulation type of the map entry in the Frame Relay map table. The device drops the frame.</source>
         <translation>该帧的封装类型与帧中继映射表中对应映射条目的封装类型不匹配，因此设备会丢弃该帧。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1290"/>
-        <source>The packet's destination IP address is found in the Frame Relay map table.</source>
+        <source>The packet&apos;s destination IP address is found in the Frame Relay map table.</source>
         <translation>数据包的目的IP地址可以在帧中继映射表中找到。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1291"/>
-        <source>The packet's destination IP address is not found in the Frame Relay map table. The device drops the packet.</source>
+        <source>The packet&apos;s destination IP address is not found in the Frame Relay map table. The device drops the packet.</source>
         <translation>数据包的目的IP地址在帧中继映射表中找不到，因此设备会丢弃该数据包。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1292"/>
-        <source>The packet's source IP address is not found in the Frame Relay map table. The device drops the packet.</source>
+        <source>The packet&apos;s source IP address is not found in the Frame Relay map table. The device drops the packet.</source>
         <translation>数据包的源IP地址在帧中继映射表中找不到，因此设备会丢弃该数据包。</translation>
     </message>
     <message>
@@ -44066,7 +44067,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="1298"/>
         <location filename="../gui/CTranslationDB.cpp" line="1299"/>
         <location filename="../gui/CTranslationDB.cpp" line="1485"/>
-        <source>The port's line protocol is not up. The device drops the packet.</source>
+        <source>The port&apos;s line protocol is not up. The device drops the packet.</source>
         <translation>该端口的线路协议未启动，设备会丢弃数据包。</translation>
     </message>
     <message>
@@ -44186,7 +44187,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1369"/>
-        <source>The destination IP is not the broadcast address and it does not match the port's IP address. The device drops the packet.</source>
+        <source>The destination IP is not the broadcast address and it does not match the port&apos;s IP address. The device drops the packet.</source>
         <translation>目标 IP 地址不是广播地址，且与端口的 IP 地址也不匹配。因此，设备会丢弃该数据包。</translation>
     </message>
     <message>
@@ -44221,7 +44222,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1378"/>
-        <source>The source IP address is not specified. The device sets it to the port's IP address.</source>
+        <source>The source IP address is not specified. The device sets it to the port&apos;s IP address.</source>
         <translation>源IP地址未指定。设备会将其设置为端口的IP地址。</translation>
     </message>
     <message>
@@ -44246,7 +44247,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1384"/>
-        <source>The destination IP address matches the port's IP address.</source>
+        <source>The destination IP address matches the port&apos;s IP address.</source>
         <translation>目标 IP 地址与端口的 IP 地址相匹配。</translation>
     </message>
     <message>
@@ -44262,7 +44263,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1387"/>
         <location filename="../gui/CTranslationDB.cpp" line="1390"/>
-        <source>The packet's destination IP address matches the device's IP address or the broadcast address. The device de-encapsulates the packet.</source>
+        <source>The packet&apos;s destination IP address matches the device&apos;s IP address or the broadcast address. The device de-encapsulates the packet.</source>
         <translation>数据包的目的IP地址与设备的IP地址或广播地址相匹配。设备会解封装该数据包。</translation>
     </message>
     <message>
@@ -44463,7 +44464,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1543"/>
-        <source>PTP Process is in transparent mode. The process records the previous corresponding sync's residence time in the correction field of the FollowUp packet, then forwards the packet as normal multicast traffic.</source>
+        <source>PTP Process is in transparent mode. The process records the previous corresponding sync&apos;s residence time in the correction field of the FollowUp packet, then forwards the packet as normal multicast traffic.</source>
         <translation>PTP流程处于透明模式。该流程会在FollowUp数据包的校正字段中记录上一次同步操作的持续时间，随后将数据包作为常规的多播流量进行转发。</translation>
     </message>
     <message>
@@ -44478,7 +44479,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1560"/>
-        <source>The cloud changes the frame's DLCI number to the outgoing sublink's DLCI number.</source>
+        <source>The cloud changes the frame&apos;s DLCI number to the outgoing sublink&apos;s DLCI number.</source>
         <translation>云会将帧的 DLCI 号码更改为出站子链路的 DLCI 号码。</translation>
     </message>
     <message>
@@ -44538,7 +44539,7 @@ Please wait until it is finished.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1595"/>
-        <source>The source IP address of the packet matches one of this device's IP addresses. This device drops the packet.</source>
+        <source>The source IP address of the packet matches one of this device&apos;s IP addresses. This device drops the packet.</source>
         <translation>该数据包的源IP地址与该设备的某个IP地址相匹配，因此该设备会丢弃该数据包。</translation>
     </message>
     <message>
@@ -44731,13 +44732,13 @@ Click Cancel to stop waiting and save with current replied data.</source>
         <location filename="../gui/CTranslationDB.cpp" line="431"/>
         <location filename="../gui/CTranslationDB.cpp" line="2233"/>
         <source>LLDP</source>
-        <translation>LLDP（Link Layer Discovery Protocol，链路层发现协议）是一种用于网络设备间通信的协议，主要用于动态发现网络中的设备、配置信息以及维护网络拓扑结构。它允许网络设备在不需要人工干预的情况下自动建立和维护网络连接，从而提高网络的灵活性和可靠性。</translation>
+        <translation type="unfinished">LLDP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="435"/>
         <location filename="../gui/CTranslationDB.cpp" line="2232"/>
         <source>REP</source>
-        <translation>代表；代理人</translation>
+        <translation type="unfinished">REP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="436"/>
@@ -45392,7 +45393,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1272"/>
         <location filename="../gui/CTranslationDB.cpp" line="1273"/>
-        <source>The port [[PORT_NAME]]'s line protocol is not up. The device drops the frame.</source>
+        <source>The port [[PORT_NAME]]&apos;s line protocol is not up. The device drops the frame.</source>
         <translation>[[PORT_NAME]]端口的线路协议未启用（即处于关闭状态），导致设备会丢弃传入的数据帧。</translation>
     </message>
     <message>
@@ -45408,7 +45409,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1395"/>
-        <source>The packet destination is a PTP multicast address. It'll be passed to PTP Process.</source>
+        <source>The packet destination is a PTP multicast address. It&apos;ll be passed to PTP Process.</source>
         <translation>数据包的目的地址是一个PTP多播地址，该地址将会被传递给PTP进程。</translation>
     </message>
     <message>
@@ -45418,7 +45419,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1399"/>
-        <source>The Layer2 NAT table has a matched static entry for the encapsulated packet's source global address.</source>
+        <source>The Layer2 NAT table has a matched static entry for the encapsulated packet&apos;s source global address.</source>
         <translation>第二层（Layer 2）NAT表中包含一个与封装数据包的源全局地址相匹配的静态条目。</translation>
     </message>
     <message>
@@ -45433,27 +45434,27 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1402"/>
-        <source>The Layer2 NAT table has a matched static entry for the encapsulated packet's destination global address.</source>
+        <source>The Layer2 NAT table has a matched static entry for the encapsulated packet&apos;s destination global address.</source>
         <translation>第二层（Layer 2）NAT表中包含一个与封装数据包的目标全局地址相匹配的静态条目。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1403"/>
-        <source>The device translates the frame's encapsulated packet's IP addresses from global to local addresses with the matched entry.</source>
+        <source>The device translates the frame&apos;s encapsulated packet&apos;s IP addresses from global to local addresses with the matched entry.</source>
         <translation>该设备会将数据帧中封装的包的 IP 地址从全局地址转换为与匹配条目对应的本地地址。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1404"/>
-        <source>The Layer2 NAT table has a matched static entry for the encapsulated packet's source local address.</source>
+        <source>The Layer2 NAT table has a matched static entry for the encapsulated packet&apos;s source local address.</source>
         <translation>第二层（Layer 2）NAT表中有一条与封装数据包的源本地地址相匹配的静态条目。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1405"/>
-        <source>The Layer2 NAT table has a matched static entry for the encapsulated packet's destination local address.</source>
+        <source>The Layer2 NAT table has a matched static entry for the encapsulated packet&apos;s destination local address.</source>
         <translation>第二层（Layer 2）NAT表中有一条与封装数据包的目标本地地址相匹配的静态条目。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1406"/>
-        <source>The device translates the frame's encapsulated packet's IP addresses  from local to global addresses with the matched entry.</source>
+        <source>The device translates the frame&apos;s encapsulated packet&apos;s IP addresses  from local to global addresses with the matched entry.</source>
         <translation>该设备会根据匹配的条目，将数据帧中封装的数据包的 IP 地址从本地地址转换为全局地址。</translation>
     </message>
     <message>
@@ -45713,12 +45714,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1523"/>
-        <source>The master port multicasts Announce packet to advertise it's clock.</source>
+        <source>The master port multicasts Announce packet to advertise it&apos;s clock.</source>
         <translation>主端口会多播“Announce”数据包来广播其时钟信息。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1524"/>
-        <source>The PTP process received the Announce packet and compare the advertised clock with it's current master clock.</source>
+        <source>The PTP process received the Announce packet and compare the advertised clock with it&apos;s current master clock.</source>
         <translation>PTP进程接收到“Announce”数据包后，会将通告的时钟与其当前的主时钟进行比较。</translation>
     </message>
     <message>
@@ -45758,7 +45759,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1532"/>
-        <source>The slave receives the delay-response message. It uses the recorded timestamps to adjust it's clock to the time of it's master</source>
+        <source>The slave receives the delay-response message. It uses the recorded timestamps to adjust it&apos;s clock to the time of it&apos;s master</source>
         <translation>奴隶接收到延迟响应消息后，会利用记录的时间戳将其时钟调整到与主人设备相同的时间。</translation>
     </message>
     <message>
@@ -45813,7 +45814,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1544"/>
-        <source>PTP Process is in transparent mode. The process records the previous corresponding delay request's residence time in the correction field of the Delay Response packet, then forwards the packet as normal multicast traffic.</source>
+        <source>PTP Process is in transparent mode. The process records the previous corresponding delay request&apos;s residence time in the correction field of the Delay Response packet, then forwards the packet as normal multicast traffic.</source>
         <translation>PTP进程处于透明模式。该进程会将上一个相应延迟请求的驻留时间记录在延迟响应数据包的“校正字段”中，随后将该数据包作为普通的组播流量进行转发。</translation>
     </message>
     <message>
@@ -45825,7 +45826,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
         <location filename="../gui/CTranslationDB.cpp" line="1546"/>
         <location filename="../gui/CTranslationDB.cpp" line="2208"/>
         <source>PTP</source>
-        <translation>PTP（点对点传输）是一种网络通信协议，它允许数据直接在两个设备之间传输，而不需要通过中央服务器。这种技术常用于文件共享、在线游戏和视频会议等场景，因为它可以提供较低的延迟和更高的可靠性。</translation>
+        <translation type="unfinished">PTP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1548"/>
@@ -45874,7 +45875,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1614"/>
-        <source>The acknowledgment removes the first packet in the neighbor's output queue.</source>
+        <source>The acknowledgment removes the first packet in the neighbor&apos;s output queue.</source>
         <translation>该确认操作会从邻居的输出队列中移除第一个数据包。</translation>
     </message>
     <message>
@@ -46304,7 +46305,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1817"/>
-        <source>TCP receives the sender's window size of [[WIN_SIZE]] bytes.</source>
+        <source>TCP receives the sender&apos;s window size of [[WIN_SIZE]] bytes.</source>
         <translation>TCP接收到的发送方窗口大小为[[WIN_SIZE]]字节。</translation>
     </message>
     <message>
@@ -46976,7 +46977,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2001"/>
-        <source>The Neighbor Solicitation's target IPv6 address matches the receiving port's IPv6 address.</source>
+        <source>The Neighbor Solicitation&apos;s target IPv6 address matches the receiving port&apos;s IPv6 address.</source>
         <translation>邻居请求的目标 IPv6 地址与接收端口的 IPv6 地址相匹配。</translation>
     </message>
     <message>
@@ -46991,7 +46992,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2004"/>
-        <source>The Neighbor Solicitation's target IPv6 address does not match the receiving port's IPv6 address.</source>
+        <source>The Neighbor Solicitation&apos;s target IPv6 address does not match the receiving port&apos;s IPv6 address.</source>
         <translation>邻居请求的目标 IPv6 地址与接收端口的 IPv6 地址不匹配。</translation>
     </message>
     <message>
@@ -47479,12 +47480,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1613"/>
-        <source>The packet's acknowledgment number does not match the first packet in the neighbor's output queue. The device ignores the acknowledgment.</source>
+        <source>The packet&apos;s acknowledgment number does not match the first packet in the neighbor&apos;s output queue. The device ignores the acknowledgment.</source>
         <translation>该数据包的确认编号与邻居设备输出队列中的第一个数据包的确认编号不匹配。因此，该设备会忽略这个确认信息。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2006"/>
-        <source>The Unsolicited Neighbor Advertisement's override flag is set.  The ND process updates its neighbor cache.</source>
+        <source>The Unsolicited Neighbor Advertisement&apos;s override flag is set.  The ND process updates its neighbor cache.</source>
         <translation>未经请求的邻居广告（Unsolicited Neighbor Advertisement）的重写标志已被设置。网络设备（ND）进程会更新其邻居缓存。</translation>
     </message>
     <message>
@@ -47519,7 +47520,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2035"/>
-        <source>The Neighbor Solicitation's target IPv6 address matches int [[PORT]]'s IPv6 address.</source>
+        <source>The Neighbor Solicitation&apos;s target IPv6 address matches int [[PORT]]&apos;s IPv6 address.</source>
         <translation>邻居请求的目标 IPv6 地址与 int[[PORT]] 的 IPv6 地址相匹配。</translation>
     </message>
     <message>
@@ -47759,17 +47760,17 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2172"/>
-        <source>The Bluetooth frame's destination is not this device. It drops the frame.</source>
+        <source>The Bluetooth frame&apos;s destination is not this device. It drops the frame.</source>
         <translation>蓝牙数据帧的目标设备并非当前这台设备，因此该数据帧会被丢弃。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2173"/>
-        <source>The Bluetooth frame's destination service UUID is found on this device. It sends the frame to the higher process.</source>
+        <source>The Bluetooth frame&apos;s destination service UUID is found on this device. It sends the frame to the higher process.</source>
         <translation>蓝牙数据帧的目标服务UUID存在于该设备上。该设备会将数据帧发送给上层处理程序。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2174"/>
-        <source>The Bluetooth frame's destination service UUID is not running on this device. It drops the frame.</source>
+        <source>The Bluetooth frame&apos;s destination service UUID is not running on this device. It drops the frame.</source>
         <translation>蓝牙数据帧的目标服务UUID（Service UUID）并未在该设备上运行，因此该设备会丢弃该数据帧。</translation>
     </message>
     <message>
@@ -47796,7 +47797,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2180"/>
         <source>Discoverable</source>
-        <translation>可发现的；可认知的</translation>
+        <translation type="unfinished">可发现的</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2181"/>
@@ -48025,7 +48026,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3170"/>
-        <source>An estimate of the interface's current bandwidth in bits per second. For interfaces which do not vary in bandwidth or for those where no accurate estimation can be made, this object should contain the nominal bandwidth. If the bandwidth of the interface is greater than the maximum value reportable by this object then this object should report its maximum value (4,294,967,295) and ifHighSpeed must be used to report the interface's speed. For a sub-layer which has no concept of bandwidth, this object should be zero.</source>
+        <source>An estimate of the interface&apos;s current bandwidth in bits per second. For interfaces which do not vary in bandwidth or for those where no accurate estimation can be made, this object should contain the nominal bandwidth. If the bandwidth of the interface is greater than the maximum value reportable by this object then this object should report its maximum value (4,294,967,295) and ifHighSpeed must be used to report the interface&apos;s speed. For a sub-layer which has no concept of bandwidth, this object should be zero.</source>
         <translation>该接口当前带宽的估计值，单位为比特每秒（bits per second）。对于带宽固定不变或无法进行准确估算的接口，此对象应包含其标称带宽。如果接口的实际带宽超过了该对象可报告的最大值（4,294,967,295），则应使用 `HighSpeed` 来表示接口的实际速度。对于那些没有带宽概念的子层，该对象的值为零。</translation>
     </message>
     <message>
@@ -48312,19 +48313,19 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2198"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2202"/>
         <source>ICMP</source>
-        <translation>ICMP（Internet Control Message Protocol，互联网控制消息协议）是TCP/IP协议族中的一个重要组成部分，主要用于在网络设备之间传递控制信息，如错误报告、路由查询和地址解析等。</translation>
+        <translation type="unfinished">ICMP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2205"/>
         <location filename="../gui/CTranslationDB.cpp" line="2667"/>
         <location filename="../gui/CTranslationDB.cpp" line="2697"/>
         <source>TCP</source>
-        <translation>TCP（传输控制协议）是一种用于在网络中建立可靠数据传输连接的协议。它确保数据的顺序正确、完整无缺，并在数据传输过程中处理可能出现的错误。TCP广泛应用于互联网应用，如网页浏览、文件传输和电子邮件等。</translation>
+        <translation type="unfinished">TCP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2206"/>
@@ -48339,7 +48340,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2213"/>
         <source>Telnet</source>
-        <translation>Telnet（远程登录协议）</translation>
+        <translation type="unfinished">Telnet</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2214"/>
@@ -48354,12 +48355,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2217"/>
         <source>HTTPS</source>
-        <translation>HTTPS（安全套接字层协议）是一种用于在互联网上传输数据的安全协议，它可以确保数据在传输过程中的隐私性和完整性。</translation>
+        <translation type="unfinished">HTTPS</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2219"/>
         <source>SSH</source>
-        <translation>SSH（安全外壳协议，Secure Shell Protocol）是一种用于远程登录和数据传输的安全协议。它允许用户在客户端与服务器之间建立加密的通信通道，从而保护数据在传输过程中的安全性。</translation>
+        <translation type="unfinished">SSH</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2220"/>
@@ -48369,7 +48370,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2222"/>
         <source>LACP</source>
-        <translation>LACP（Link Aggregation Control Protocol，链路聚合控制协议）</translation>
+        <translation type="unfinished">LACP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2223"/>
@@ -48379,12 +48380,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2224"/>
         <source>ACL Filter</source>
-        <translation>ACL过滤器</translation>
+        <translation type="unfinished">ACL过滤器</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2225"/>
         <source>IPSec</source>
-        <translation>IPSec（互联网安全协议）是一种用于保护网络数据传输安全的加密机制。它通过使用加密算法对数据进行加密，确保数据在传输过程中不被未经授权的第三方窃取或篡改。IPSec支持多种安全模式，如AH（认证头）和ESP（封装安全载荷），可以提供数据完整性、身份验证和加密等多种安全功能。</translation>
+        <translation type="unfinished">IPSec</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2226"/>
@@ -48400,12 +48401,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2235"/>
         <source>TACACS</source>
-        <translation>TACACS（Terminal Access Control Authentication Command and Accounting System，终端访问控制认证与计费系统）</translation>
+        <translation type="unfinished">TACACS</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2236"/>
         <source>RADIUS</source>
-        <translation>RADIUS（远程认证拨号用户服务）是一种用于网络认证、授权和计费的协议。它允许远程用户通过用户名和密码登录到网络服务器，同时提供对用户访问权限的控制和管理。RADIUS协议广泛应用于各种网络系统，如Windows域控制器、Linux服务器、路由器等。</translation>
+        <translation type="unfinished">RADIUS</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2238"/>
@@ -48421,12 +48422,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2255"/>
         <source>PPPoED</source>
-        <translation>PPPoED（Point-to-Point Protocol over Ethernet）是一种通过以太网实现点对点连接的宽带接入技术。它允许用户通过家庭或办公室的以太网网络连接到互联网服务提供商（ISP）。PPPoED协议在客户端设备（如路由器或调制解调器）和ISP的服务器之间建立连接，从而提供高速的数据传输服务。</translation>
+        <translation type="unfinished">PPPoED</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2257"/>
         <source>EAPOL</source>
-        <translation>EAPOL（Extensible Authentication Protocol Over LAN）是一种用于局域网（LAN）中的可扩展认证协议。它允许在各种网络设备之间实现安全的身份验证和授权，以确保只有经过授权的用户才能访问网络资源。EAPOL支持多种认证方法，如密码、智能卡、生物识别等，并且可以与各种认证服务器（如RADIUS服务器）配合使用。</translation>
+        <translation type="unfinished">EAPOL</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2258"/>
@@ -48495,7 +48496,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2275"/>
-        <source>The device updates the port's operational mode based on the received DTP port status.</source>
+        <source>The device updates the port&apos;s operational mode based on the received DTP port status.</source>
         <translation>该设备根据接收到的DTP端口状态来更新端口的操作模式。</translation>
     </message>
     <message>
@@ -48655,7 +48656,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2329"/>
-        <source>The responder does not have a policy matching initiator's policies.</source>
+        <source>The responder does not have a policy matching initiator&apos;s policies.</source>
         <translation>响应者的策略与发起者的策略不匹配。</translation>
     </message>
     <message>
@@ -49077,7 +49078,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2553"/>
-        <source>Total length of the packet ([[LENGTH]] bytes) is greater than MTU ([[MTU_SIZE]] bytes).  The packet is dropped because Don't Fragment flag is on.</source>
+        <source>Total length of the packet ([[LENGTH]] bytes) is greater than MTU ([[MTU_SIZE]] bytes).  The packet is dropped because Don&apos;t Fragment flag is on.</source>
         <translation>数据包的总长度（[[LENGTH]] 字节）超过了最大传输单元（MTU）的大小（[[MTU_SIZE]] 字节）。由于设置了“不要分片”（Don’t Fragment）标志，该数据包被丢弃了。</translation>
     </message>
     <message>
@@ -49108,7 +49109,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2559"/>
-        <source>IP doesn't do source fragmentation at the source device or if the device is not a gateway. IP sends the datagram to the lower process.</source>
+        <source>IP doesn&apos;t do source fragmentation at the source device or if the device is not a gateway. IP sends the datagram to the lower process.</source>
         <translation>如果设备不是网关，IP协议不会在源设备上进行数据包的分片处理。IP会将数据报发送给下层处理程序。</translation>
     </message>
     <message>
@@ -49301,12 +49302,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2665"/>
         <source>CBAC</source>
-        <translation>中国民用航空局</translation>
+        <translation type="unfinished">CBAC</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2666"/>
         <source>Half-Open Session Multiplier</source>
-        <translation>半开放会议乘数</translation>
+        <translation type="unfinished">半开放会话乘数</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2668"/>
@@ -49631,7 +49632,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
         <location filename="../gui/CTranslationDB.cpp" line="2866"/>
         <location filename="../gui/CTranslationDB.cpp" line="2875"/>
         <source>Command</source>
-        <translation>命令；指令；控制权</translation>
+        <translation type="unfinished">命令</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2869"/>
@@ -49744,7 +49745,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
         <location filename="../gui/CTranslationDB.cpp" line="2915"/>
         <location filename="../gui/CTranslationDB.cpp" line="2942"/>
         <source>Number</source>
-        <translation>数字；号码</translation>
+        <translation type="unfinished">数字</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2916"/>
@@ -50107,7 +50108,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
         <location filename="../gui/CTranslationDB.cpp" line="319"/>
         <location filename="../gui/CTranslationDB.cpp" line="334"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="313"/>
@@ -50295,7 +50296,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
         <location filename="../gui/CTranslationDB.cpp" line="801"/>
         <location filename="../gui/CTranslationDB.cpp" line="1163"/>
         <source>Global</source>
-        <translation>全球的；广泛的</translation>
+        <translation type="unfinished">全局的</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="571"/>
@@ -50767,7 +50768,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1393"/>
-        <source>The packet received is destined for Isatap Interface. It'll be decapsulated.</source>
+        <source>The packet received is destined for Isatap Interface. It&apos;ll be decapsulated.</source>
         <translation>接收到的数据包是发往 Isatap 接口的，将会被解封装。</translation>
     </message>
     <message>
@@ -50830,7 +50831,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1577"/>
-        <source>The packet's TTL expires. The device sends an ICMP Time Exceeded message back to the sender and drops the packet.</source>
+        <source>The packet&apos;s TTL expires. The device sends an ICMP Time Exceeded message back to the sender and drops the packet.</source>
         <translation>数据包的生存时间（TTL）已过期。设备会向发送方发送一条“ICMP超时”消息，并丢弃该数据包。</translation>
     </message>
     <message>
@@ -50973,7 +50974,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1602"/>
-        <source>The packet is a non-ICMP packet to the outgoing port's subnet ID or broadcast. The device drops the packet.</source>
+        <source>The packet is a non-ICMP packet to the outgoing port&apos;s subnet ID or broadcast. The device drops the packet.</source>
         <translation>该数据包属于非 ICMP 类型，目标地址为出站端口的子网 ID 或广播地址。设备会丢弃该数据包。</translation>
     </message>
     <message>
@@ -51018,7 +51019,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1615"/>
-        <source>The device adds the packet to the neighbor's output queue.</source>
+        <source>The device adds the packet to the neighbor&apos;s output queue.</source>
         <translation>该设备将数据包添加到邻居设备的输出队列中。</translation>
     </message>
     <message>
@@ -51028,7 +51029,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1617"/>
-        <source>The packet is not the first packet in the neighbor's output queue. The device queues the packet to be sent later.</source>
+        <source>The packet is not the first packet in the neighbor&apos;s output queue. The device queues the packet to be sent later.</source>
         <translation>该数据包并非邻居设备输出队列中的第一个数据包。设备会将此数据包放入队列中，以便稍后发送。</translation>
     </message>
     <message>
@@ -51038,12 +51039,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1619"/>
-        <source>There are outstanding packets in the neighbor's output queue. The device sends the next packet from the queue.</source>
+        <source>There are outstanding packets in the neighbor&apos;s output queue. The device sends the next packet from the queue.</source>
         <translation>邻居设备的输出队列中有一些尚未被处理的数据包。该设备会从队列中发送下一个数据包。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1620"/>
-        <source>The Hello packet has K-values that do not match this EIGRP process' K-values. The device removes the neighbor that sent the packet.</source>
+        <source>The Hello packet has K-values that do not match this EIGRP process&apos; K-values. The device removes the neighbor that sent the packet.</source>
         <translation>该“Hello”数据包中的K值与当前EIGRP进程所配置的K值不匹配。因此，设备会将该数据包发送的邻居从邻居列表中移除。</translation>
     </message>
     <message>
@@ -51125,17 +51126,17 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1639"/>
-        <source>The EIGRP packet's sequence number is smaller than what is stored for the neighbor. It is an out-of-order packet. The device drops the packet.</source>
+        <source>The EIGRP packet&apos;s sequence number is smaller than what is stored for the neighbor. It is an out-of-order packet. The device drops the packet.</source>
         <translation>EIGRP数据包的序列号小于邻居设备存储的序列号，因此该数据包是乱序的。设备会丢弃这个数据包。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1641"/>
-        <source>There are no outstanding packets in the neighbor's output queue. The device sends an acknowledge packet back to the neighbor.</source>
+        <source>There are no outstanding packets in the neighbor&apos;s output queue. The device sends an acknowledge packet back to the neighbor.</source>
         <translation>邻居的输出队列中没有未处理的数据包。该设备会向邻居发送一个确认包作为回应。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1642"/>
-        <source>There are outstanding packets in the neighbor's output queue. The device piggybacks an acknowledgment in the next packet to the neighbor.</source>
+        <source>There are outstanding packets in the neighbor&apos;s output queue. The device piggybacks an acknowledgment in the next packet to the neighbor.</source>
         <translation>邻居的输出队列中有一些未处理的数据包。该设备会在发送给邻居的下一数据包中捎带一个确认信号。</translation>
     </message>
     <message>
@@ -51248,12 +51249,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1673"/>
-        <source>All of the neighbors' output queues are empty. The device adds the packet to each neighbor's output queue and multicasts the packet to each interface.</source>
+        <source>All of the neighbors&apos; output queues are empty. The device adds the packet to each neighbor&apos;s output queue and multicasts the packet to each interface.</source>
         <translation>所有邻居的输出队列都是空的。该设备将数据包添加到每个邻居的输出队列中，并通过多播方式将该数据包发送到每个接口。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1674"/>
-        <source>Not all of the neighbors' output queues are empty. The device unicasts the packet to each neighbor.</source>
+        <source>Not all of the neighbors&apos; output queues are empty. The device unicasts the packet to each neighbor.</source>
         <translation>并非所有邻居的输出队列都是空的。该设备会将数据包单播给每个邻居。</translation>
     </message>
     <message>
@@ -51413,7 +51414,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1716"/>
-        <source>The device sends out an OSPF Link State Request packet to request the neighbor's LSAs.</source>
+        <source>The device sends out an OSPF Link State Request packet to request the neighbor&apos;s LSAs.</source>
         <translation>该设备发送一个 OSPF 链路状态请求数据包（Link State Request packet），以请求获取邻居设备的链路状态通告（Link State Advertisements，LSA）。</translation>
     </message>
     <message>
@@ -51468,7 +51469,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1727"/>
-        <source>This route's metric is infinity. The device ignores the update.</source>
+        <source>This route&apos;s metric is infinity. The device ignores the update.</source>
         <translation>该路由的指标值为“无穷大”，因此设备会忽略此次更新。</translation>
     </message>
     <message>
@@ -51528,12 +51529,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1741"/>
-        <source>The receiving port's IP address is invalid or its network is not configured for RIP. The device drops the packet.</source>
+        <source>The receiving port&apos;s IP address is invalid or its network is not configured for RIP. The device drops the packet.</source>
         <translation>接收端端口的 IP 地址无效，或者其网络未配置 RIP 协议。设备会丢弃该数据包。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1742"/>
-        <source>The RIP packet's source IP address is not from a directly connected network or is from this device. The device drops the packet.</source>
+        <source>The RIP packet&apos;s source IP address is not from a directly connected network or is from this device. The device drops the packet.</source>
         <translation>RIP数据包的源IP地址不是来自直接连接的网络，也不是来自该设备本身。因此，该设备会丢弃该数据包。</translation>
     </message>
     <message>
@@ -51543,7 +51544,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1744"/>
-        <source>The packet's source IP address is not valid. The device drops the packet.</source>
+        <source>The packet&apos;s source IP address is not valid. The device drops the packet.</source>
         <translation>数据包的源IP地址无效，设备会丢弃该数据包。</translation>
     </message>
     <message>
@@ -51589,12 +51590,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1988"/>
-        <source>The next-hop IP address is a broadcast address. The ND Process sets the frame's destination MAC address to the broadcast MAC address.</source>
+        <source>The next-hop IP address is a broadcast address. The ND Process sets the frame&apos;s destination MAC address to the broadcast MAC address.</source>
         <translation>下一跳 IP 地址是一个广播地址。ND 过程会将数据帧的目的 MAC 地址设置为广播 MAC 地址。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1989"/>
-        <source>The next-hop IP address is multicast address. The ND Process sets the frame's destination MAC address to a multicast MAC address.</source>
+        <source>The next-hop IP address is multicast address. The ND Process sets the frame&apos;s destination MAC address to a multicast MAC address.</source>
         <translation>下一跳 IP 地址是一个多播地址。ND 进程会将数据帧的目的 MAC 地址设置为多播 MAC 地址。</translation>
     </message>
     <message>
@@ -51614,12 +51615,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1993"/>
-        <source>The next-hop IP address is in the neighbor table. The ND Process sets the frame's destination MAC address to the one found in the table.</source>
+        <source>The next-hop IP address is in the neighbor table. The ND Process sets the frame&apos;s destination MAC address to the one found in the table.</source>
         <translation>下一跳 IP 地址位于邻居表中。ND 过程会将数据帧的目的 MAC 地址设置为该表中记录的地址。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1994"/>
-        <source>The next-hop IP address is in the adjacency table. The ND Process sets the frame's destination MAC address to the one found in the table.</source>
+        <source>The next-hop IP address is in the adjacency table. The ND Process sets the frame&apos;s destination MAC address to the one found in the table.</source>
         <translation>下一跳 IP 地址存在于邻接表中。ND 进程会将数据帧的目的 MAC 地址设置为该表中记录的地址。</translation>
     </message>
     <message>
@@ -51699,7 +51700,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2023"/>
-        <source>The NDP process can not process this prefix [[PREFIX]] because it's prefix length is not 64 but [[LEN]].</source>
+        <source>The NDP process can not process this prefix [[PREFIX]] because it&apos;s prefix length is not 64 but [[LEN]].</source>
         <translation>新民主党（NDP）的系统无法处理这个前缀[[PREFIX]]，因为它的前缀长度不是64位，而是[[LEN]]位。</translation>
     </message>
     <message>
@@ -51836,7 +51837,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2246"/>
         <source>HSRP</source>
-        <translation>HSRP（Hot Standby Routing Protocol，热备份路由协议）是一种用于在网络设备发生故障时自动切换到备用路径的路由协议。它能够确保网络服务的连续性和可靠性，提高系统的可用性。</translation>
+        <translation type="unfinished">HSRP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2247"/>
@@ -52149,82 +52150,82 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3042"/>
         <source>Could not find a PAgP partner. Clearing the frame and removing the port from active ports list.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3043"/>
         <source>Sending with a load balance [[METHOD]] in the channel [[PORT]].</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3044"/>
         <source>Receiving on the port channel [[PORT]].</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3045"/>
         <source>The frame is neither LACP or a PAgP type.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3046"/>
         <source>Sending a valid LACP/PAgP frame to the higher process.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3048"/>
         <source>The device sends out a syslog packet.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3049"/>
         <source>The device receives a syslog packet.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3050"/>
         <source>The packet is not a Syslog packet. The Syslog server drops it.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3113"/>
         <source>TACACS CLIENT: Receive accounting response</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3114"/>
         <source>TACACS CLIENT: Send accounting request</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3115"/>
         <source>TACACS CLIENT: Send request for username prompt</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3116"/>
         <source>TACACS CLIENT:Receive username: as username prompt</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3117"/>
         <source>TACACS CLIENT:Send the username to tacacs server </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3118"/>
         <source>TACACS CLIENT:Send request for password prompt</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3119"/>
         <source>TACACS CLIENT:Receive password: as password prompt</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3120"/>
         <source>TACACS CLIENT:Send the password to tacacs server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3121"/>
@@ -52329,42 +52330,42 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3150"/>
         <source>RADIUS SERVER: Send accounting response to the client</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3147"/>
         <source>RADIUS SERVER: Send access reject</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3155"/>
-        <source>A textual description of the entity. This value should include the full name and version identification of the system's hardware type, software operating-system, and networking software.</source>
-        <translation type="unfinished"/>
+        <source>A textual description of the entity. This value should include the full name and version identification of the system&apos;s hardware type, software operating-system, and networking software.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3156"/>
-        <source>The vendor's authoritative identification of the network management subsystem contained in the entity.  This value is allocated within the SMI enterprises subtree (1.3.6.1.4.1) and provides an easy and unambiguous means for determining `what kind of box' is being managed. For example, if vendor `Flintstones, Inc.' was assigned the subtree 1.3.6.1.4.1.424242, it could assign the identifier 1.3.6.1.4.1.424242.1.1 to its `Fred Router.'</source>
-        <translation type="unfinished"/>
+        <source>The vendor&apos;s authoritative identification of the network management subsystem contained in the entity.  This value is allocated within the SMI enterprises subtree (1.3.6.1.4.1) and provides an easy and unambiguous means for determining `what kind of box&apos; is being managed. For example, if vendor `Flintstones, Inc.&apos; was assigned the subtree 1.3.6.1.4.1.424242, it could assign the identifier 1.3.6.1.4.1.424242.1.1 to its `Fred Router.&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3157"/>
         <source>The time (in hundredths of a second) since the network management portion of the system was last re-initialized.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3158"/>
         <source>The textual identification of the contact person for this managed node, together with information on how to contact this person. If no contact information is known, the value is the zero-length string.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3159"/>
-        <source>An administratively-assigned name for this managed node. By convention, this is the node's fully-qualified domain name. If the name is unknown, the value is the zero-length string.</source>
-        <translation type="unfinished"/>
+        <source>An administratively-assigned name for this managed node. By convention, this is the node&apos;s fully-qualified domain name. If the name is unknown, the value is the zero-length string.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3160"/>
-        <source>The physical location of this node (e.g., 'telephone closet, 3rd floor'). If the location is unknown, the value is the zero-length string.</source>
-        <translation type="unfinished"/>
+        <source>The physical location of this node (e.g., &apos;telephone closet, 3rd floor&apos;). If the location is unknown, the value is the zero-length string.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3163"/>
@@ -52383,7 +52384,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3166"/>
-        <source>A unique value, greater than zero, for each interface. It is recommended that values are assigned contiguously starting from 1. The value for each interface sub-layer must remain constant at least from one re-initialization of the entity's network management system to the next re-initialization.</source>
+        <source>A unique value, greater than zero, for each interface. It is recommended that values are assigned contiguously starting from 1. The value for each interface sub-layer must remain constant at least from one re-initialization of the entity&apos;s network management system to the next re-initialization.</source>
         <translation>每个接口都有一个唯一的、大于零的值。建议从1开始连续分配这些值。每个接口子层的值在实体的网络管理系统重新初始化之后，至少在两次重新初始化之间保持不变。</translation>
     </message>
     <message>
@@ -52403,7 +52404,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3171"/>
-        <source>The interface's address at its protocol sub-layer. For example, for an 802.x interface, this object normally contains a MAC address. The interface's media-specific MIB must define the bit and byte ordering and the format of the value of this object. For interfaces which do not have such an address (e.g., a serial line), this object should contain an octet string of zero length.</source>
+        <source>The interface&apos;s address at its protocol sub-layer. For example, for an 802.x interface, this object normally contains a MAC address. The interface&apos;s media-specific MIB must define the bit and byte ordering and the format of the value of this object. For interfaces which do not have such an address (e.g., a serial line), this object should contain an octet string of zero length.</source>
         <translation>该接口在其协议子层上的地址。例如，对于 802.x 类型的接口，此对象通常包含一个 MAC 地址。接口的媒体特定管理信息库（MIB）必须定义该对象值的位和字节排序方式以及格式。对于没有此类地址的接口（例如串行线路），此对象应包含一个长度为零的字节字符串。</translation>
     </message>
     <message>
@@ -52654,7 +52655,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3082"/>
-        <source>The device's clock is not synced. Packet is dropped.</source>
+        <source>The device&apos;s clock is not synced. Packet is dropped.</source>
         <translation>该设备的时钟未同步，导致数据包丢失。</translation>
     </message>
     <message>
@@ -52694,12 +52695,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3092"/>
-        <source>It's a new manycast client ephemeral association.  Authentication fails, the packet dropped.</source>
+        <source>It&apos;s a new manycast client ephemeral association.  Authentication fails, the packet dropped.</source>
         <translation>这是一个新的多播客户端临时关联。身份验证失败，数据包被丢弃了。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3093"/>
-        <source>It's a new manycast client ephemeral association.  Authentication passes, the association is mobilized in the same version as in the packet.</source>
+        <source>It&apos;s a new manycast client ephemeral association.  Authentication passes, the association is mobilized in the same version as in the packet.</source>
         <translation>这是一个新的多播客户端临时关联。认证通过后，该关联将以数据包中指定的相同版本进行激活。</translation>
     </message>
     <message>
@@ -52769,7 +52770,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3193"/>
-        <source>This entity's IP Routing table.</source>
+        <source>This entity&apos;s IP Routing table.</source>
         <translation>该实体的 IP 路由表。</translation>
     </message>
     <message>
@@ -52814,12 +52815,12 @@ Click Cancel to stop waiting and save with current replied data.</source>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3207"/>
-        <source>The primary routing metric for this route. The semantics of this metric are determined by the routing-protocol specified in the route's ipRouteProto value. If this metric is not used, its value should be set to -1.</source>
+        <source>The primary routing metric for this route. The semantics of this metric are determined by the routing-protocol specified in the route&apos;s ipRouteProto value. If this metric is not used, its value should be set to -1.</source>
         <translation>该路由的主要路由度量标准。此度量标准的语义由路由的 `ipRouteProto` 值所指定的路由协议决定。如果未使用此度量标准，则其值应设置为 `-1`。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3208"/>
-        <source>The IP address of the next hop of this route. (In the case of a route bound to an interface which is realized via a broadcast media, the value of this field is the agent's IP address on that interface.)</source>
+        <source>The IP address of the next hop of this route. (In the case of a route bound to an interface which is realized via a broadcast media, the value of this field is the agent&apos;s IP address on that interface.)</source>
         <translation>该路由下一跳的 IP 地址。（如果路由是通过广播介质连接到某个接口的，则该字段的值是代理在该接口上的 IP 地址。）</translation>
     </message>
     <message>
@@ -52850,7 +52851,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3213"/>
-        <source>A reference to MIB definitions specific to the particular routing protocol which is responsible for this route, as determined by the value specified in the route's ipRouteProto value. If this information is not present, its value should be set to the OBJECT IDENTIFIER { 0 0 }, which is a syntactically valid object identifier, and any conformant implementation of ASN.1 and BER must be able to generate and recognize this value.</source>
+        <source>A reference to MIB definitions specific to the particular routing protocol which is responsible for this route, as determined by the value specified in the route&apos;s ipRouteProto value. If this information is not present, its value should be set to the OBJECT IDENTIFIER { 0 0 }, which is a syntactically valid object identifier, and any conformant implementation of ASN.1 and BER must be able to generate and recognize this value.</source>
         <translation>这里引用了与该路由相关的特定路由协议中的MIB（管理信息库）定义，该协议由路由的`ipRouteProto`值所确定。如果这些信息不存在，则其值应设置为`OBJECT IDENTIFIER {0 0}`，这是一个语法有效的对象标识符，任何符合ASN.1和BER标准的实现都必须能够生成并识别这个值。</translation>
     </message>
     <message>
@@ -52861,7 +52862,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3217"/>
         <location filename="../gui/CTranslationDB.cpp" line="3224"/>
-        <source>The index value that uniquely identifies the interface to which this entry is applicable. The interface identified by a particular value of this index is the same interface as identified by the same value of the IF-MIB's ifIndex.</source>
+        <source>The index value that uniquely identifies the interface to which this entry is applicable. The interface identified by a particular value of this index is the same interface as identified by the same value of the IF-MIB&apos;s ifIndex.</source>
         <translation>用于唯一标识该条目所适用接口的索引值。由该索引特定值所标识的接口，与 IF-MIB 中 ifIndex 的相同值所标识的接口是同一个接口。</translation>
     </message>
     <message>
@@ -52996,17 +52997,17 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3282"/>
-        <source>The number of times that the intra-area route table has been calculated using this area's link-state database. This is typically done using Dijkstra's algorithm.</source>
+        <source>The number of times that the intra-area route table has been calculated using this area&apos;s link-state database. This is typically done using Dijkstra&apos;s algorithm.</source>
         <translation>使用该区域的链路状态数据库计算区域内路由表的次数。这通常是通过迪杰斯特拉（Dijkstra）算法来完成的。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3283"/>
-        <source>The total number of link-state advertisements in this area's link-state database, excluding AS External LSA's.</source>
+        <source>The total number of link-state advertisements in this area&apos;s link-state database, excluding AS External LSA&apos;s.</source>
         <translation>该区域链路状态数据库中链路状态广告的总数（不包括自治系统外部链路状态广告，即AS External LSA）。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3285"/>
-        <source>The OSPF Process's Links State Database.</source>
+        <source>The OSPF Process&apos;s Links State Database.</source>
         <translation>OSPF进程的链路状态数据库。</translation>
     </message>
     <message>
@@ -53041,7 +53042,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3293"/>
-        <source>This field is the checksum of the complete contents of the advertisement, excepting the age field. The age field is excepted so that an advertisement's age can be incremented without updating the checksum. The checksum used is the same that is used for ISO connectionless datagrams; it is commonly referred to as the Fletcher checksum.</source>
+        <source>This field is the checksum of the complete contents of the advertisement, excepting the age field. The age field is excepted so that an advertisement&apos;s age can be incremented without updating the checksum. The checksum used is the same that is used for ISO connectionless datagrams; it is commonly referred to as the Fletcher checksum.</source>
         <translation>该字段是对广告全部内容（不包括年龄字段）的校验和。之所以不包含年龄字段，是为了能够在不更新校验和的情况下增加广告的发布时间。所使用的校验和与ISO无连接数据报中使用的校验和相同，通常被称为Fletcher校验和。</translation>
     </message>
     <message>
@@ -53061,7 +53062,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3298"/>
-        <source>A Bit Mask corresponding to the neighbor's options field. Bit 0, if set, indicates that the area accepts and operates on external information; if zero, it is a stub area. Bit 1, if set, indicates that the system will operate on Type of Service metrics other than TOS 0. If zero, the neighbor will ignore all metrics except the TOS 0 metric.</source>
+        <source>A Bit Mask corresponding to the neighbor&apos;s options field. Bit 0, if set, indicates that the area accepts and operates on external information; if zero, it is a stub area. Bit 1, if set, indicates that the system will operate on Type of Service metrics other than TOS 0. If zero, the neighbor will ignore all metrics except the TOS 0 metric.</source>
         <translation>与邻居的选项字段相对应的位掩码（Bit Mask）：  
 - 当位 0 被设置时，表示该区域可以接收并处理外部信息；若该位为 0，则表示这是一个存根区域（stub area）。  
 - 当位 1 被设置时，表示系统会处理除 TOS 0 以外的服务类型（Type of Service）指标；若该位为 0，则邻居将忽略所有指标，仅保留 TOS 0 指标。</translation>
@@ -53555,12 +53556,12 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1214"/>
-        <source>The DHCP server finds the IP address in the address reservation list reserved for the client's MAC address.</source>
+        <source>The DHCP server finds the IP address in the address reservation list reserved for the client&apos;s MAC address.</source>
         <translation>DHCP服务器在为该客户端的MAC地址预留的地址列表中找到相应的IP地址。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1216"/>
-        <source>The DHCP server binds the requested IP address from the reservation list to the client's MAC address.</source>
+        <source>The DHCP server binds the requested IP address from the reservation list to the client&apos;s MAC address.</source>
         <translation>DHCP服务器将请求的IP地址从预留列表中绑定到客户的MAC地址上。</translation>
     </message>
     <message>
@@ -54235,12 +54236,12 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3237"/>
-        <source>The true/false value to be placed into the 'managed address configuration' flag field in Router advertisements sent from this interface.</source>
+        <source>The true/false value to be placed into the &apos;managed address configuration&apos; flag field in Router advertisements sent from this interface.</source>
         <translation>用于设置从该接口发送的路由器广告中“managed address configuration”标志字段的真假值的参数。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3238"/>
-        <source>The true/false value to be placed into the 'other stateful configuration' flag field in Router advertisements sent from this interface.</source>
+        <source>The true/false value to be placed into the &apos;other stateful configuration&apos; flag field in Router advertisements sent from this interface.</source>
         <translation>用于设置从该接口发送的路由器广告中“其他状态配置”标志字段的真假值的参数。</translation>
     </message>
     <message>
@@ -54250,17 +54251,17 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3240"/>
-        <source>The value to be placed in the reachable time field in Router advertisement messages sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn't specifying a value for reachable time.</source>
+        <source>The value to be placed in the reachable time field in Router advertisement messages sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn&apos;t specifying a value for reachable time.</source>
         <translation>此接口发送的路由器广告消息中“可达时间”字段应设置的值。如果路由器广告中的该值为零，则表示该广告未指定可达时间的值。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3241"/>
-        <source>The value to be placed in the retransmit timer field in Router advertisements sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn't specifying a value for retrans time.</source>
+        <source>The value to be placed in the retransmit timer field in Router advertisements sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn&apos;t specifying a value for retrans time.</source>
         <translation>此接口发送的路由器广告中“重传计时器”字段应设置的值。如果路由器广告中的该值为零，则表示该广告未指定重传时间。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3242"/>
-        <source>The default value to be placed in the current hop limit field in Router advertisements sent from this interface. The value should be set to the current diameter of the Internet. A value of zero in the router advertisement indicates that the advertisement isn't specifying a value for curHopLimit. The default should be set to the value specified in the IANA web pages (www.iana.org) at the time of implementation.</source>
+        <source>The default value to be placed in the current hop limit field in Router advertisements sent from this interface. The value should be set to the current diameter of the Internet. A value of zero in the router advertisement indicates that the advertisement isn&apos;t specifying a value for curHopLimit. The default should be set to the value specified in the IANA web pages (www.iana.org) at the time of implementation.</source>
         <translation>此接口发送的路由器广告中“当前跳数限制”（current hop limit）字段的默认值。该值应设置为当前互联网的直径（即网络的最大传输距离）。如果路由器广告中的该值为零，则表示广告未指定“curHopLimit”的具体数值。在实施时，该默认值应按照IANA网站（www.iana.org）上规定的数值进行设置。</translation>
     </message>
     <message>
@@ -54300,27 +54301,27 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3275"/>
-        <source>A 32-bit integer uniquely identifying the Router in the Autonomous System. By convention, to ensure uniqueness, this should default to the value of one of the router's IP interface addresses.</source>
+        <source>A 32-bit integer uniquely identifying the Router in the Autonomous System. By convention, to ensure uniqueness, this should default to the value of one of the router&apos;s IP interface addresses.</source>
         <translation>一个32位整数，用于在自治系统中唯一标识该路由器。按照惯例，为确保唯一性，该值应默认设置为路由器某个IP接口地址的值。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3276"/>
-        <source>The administrative status of OSPF in the Router. The value 'enabled' denotes that the OSPF Process is active on at least one interface; 'disabled' disables it on all interfaces.</source>
+        <source>The administrative status of OSPF in the Router. The value &apos;enabled&apos; denotes that the OSPF Process is active on at least one interface; &apos;disabled&apos; disables it on all interfaces.</source>
         <translation>OSPF在路由器中的管理状态。值“enabled”表示OSPF进程至少在一个接口上处于活动状态；值“disabled”则表示所有接口上的OSPF进程都被禁用。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3278"/>
-        <source>Information describing the configured parameters and cumulative statistics of the Router's attached areas.</source>
+        <source>Information describing the configured parameters and cumulative statistics of the Router&apos;s attached areas.</source>
         <translation>描述路由器已配置参数及其连接区域累积统计信息的数据。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3279"/>
-        <source>Information describing the configured parameters and cumulative statistics of one of the Router's attached areas.</source>
+        <source>Information describing the configured parameters and cumulative statistics of one of the Router&apos;s attached areas.</source>
         <translation>描述路由器所连接区域之一配置参数及累积统计信息的数据。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3284"/>
-        <source>The 32-bit unsigned sum of the link-state advertisements' LS checksums contained in this area's link-state database. This sum excludes external (LS type 5) link-state advertisements. The sum can be used to determine if there has been a change in a Router's link state database, and to compare the link-state database of two routers.</source>
+        <source>The 32-bit unsigned sum of the link-state advertisements&apos; LS checksums contained in this area&apos;s link-state database. This sum excludes external (LS type 5) link-state advertisements. The sum can be used to determine if there has been a change in a Router&apos;s link state database, and to compare the link-state database of two routers.</source>
         <translation>该区域链路状态数据库中所有链路状态广告（LS）的LS校验和进行32位无符号求和所得的结果。此求和结果不包括外部类型的（LS类型5）链路状态广告。通过这个总和可以判断路由器的链路状态数据库是否发生了变化，以及比较两个路由器的链路状态数据库内容。</translation>
     </message>
     <message>
@@ -54680,7 +54681,7 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1712"/>
-        <source>The Hello packet shows the zero neighbor field.  Set the neighbor's state to Init.</source>
+        <source>The Hello packet shows the zero neighbor field.  Set the neighbor&apos;s state to Init.</source>
         <translation>Hello数据包中显示了“邻居字段”（neighbor field）的值为0。将邻居的状态设置为“Init”。</translation>
     </message>
     <message>
@@ -54965,8 +54966,8 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2357"/>
-        <source/>
-        <translation/>
+        <source></source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -55000,7 +55001,7 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
     <message>
         <location filename="../gui/DeviceConfig/UniversalGlobal.cpp" line="449"/>
         <location filename="../gui/DeviceConfig/UniversalGlobal.cpp" line="491"/>
-        <source>Failed to load '%1'</source>
+        <source>Failed to load &apos;%1&apos;</source>
         <translation>无法加载‘%1’。</translation>
     </message>
     <message>
@@ -55022,7 +55023,7 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
     <message>
         <location filename="../gui/DeviceConfig/UniversalGlobal.cpp" line="541"/>
         <location filename="../gui/DeviceConfig/UniversalGlobal.cpp" line="587"/>
-        <source>Failed to save '%1'</source>
+        <source>Failed to save &apos;%1&apos;</source>
         <translation>无法保存“%1”。</translation>
     </message>
     <message>
@@ -55254,7 +55255,7 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="827"/>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1770"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="840"/>
@@ -55341,7 +55342,7 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1199"/>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1205"/>
         <source>Static</source>
-        <translation>静态的；不变的</translation>
+        <translation type="unfinished">静态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="945"/>
@@ -55362,7 +55363,7 @@ FTP服务器会检查文件是否存在，并等待客户端发送相应的RNTO�
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1023"/>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1029"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1217"/>
@@ -55481,7 +55482,7 @@ Cable Type: %6</source>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="547"/>
-        <source>Multiuser connections can't be recabled.  You must delete and recreate.</source>
+        <source>Multiuser connections can&apos;t be recabled.  You must delete and recreate.</source>
         <translation>多用户连接无法重新连接线；你必须先删除现有连接，然后再重新创建。</translation>
     </message>
     <message>
@@ -55548,7 +55549,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Fire</source>
-        <translation>火灾；解雇；开除</translation>
+        <translation type="unfinished">Fire</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
@@ -55568,7 +55569,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
@@ -55588,7 +55589,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Num</source>
-        <translation>数字；号码</translation>
+        <translation type="unfinished">号码</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
@@ -55704,19 +55705,19 @@ Cable Type: %6</source>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="31"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="34"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="37"/>
-        <source>&lt;p align="center"&gt;DHCP&lt;/p&gt;</source>
-        <translation>&lt;p align="center"&gt;DHCP&lt;/p&gt;</translation>
+        <source>&lt;p align=&quot;center&quot;&gt;DHCP&lt;/p&gt;</source>
+        <translation>&lt;p align=&quot;center&quot;&gt;DHCP&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="75"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="78"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="81"/>
         <source>Interface</source>
-        <translation>接口；界面</translation>
+        <translation type="unfinished">界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="114"/>
@@ -55730,7 +55731,7 @@ Cable Type: %6</source>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="145"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="148"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="167"/>
@@ -56028,7 +56029,7 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="154"/>
         <source>DHCP</source>
-        <translation>动态主机配置协议（Dynamic Host Configuration Protocol）</translation>
+        <translation type="unfinished">DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="236"/>
@@ -56107,7 +56108,7 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="129"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="135"/>
@@ -56292,7 +56293,7 @@ this network in the future. Scripts in question belong to a script module with I
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="64"/>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="334"/>
         <source>Auto</source>
-        <translation>汽车；自动的</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="65"/>
@@ -56422,7 +56423,7 @@ this network in the future. Scripts in question belong to a script module with I
     </message>
     <message>
         <location filename="../gui/activity/Wizard/WorkProductFeaturePopup.cpp" line="142"/>
-        <source>If using WorkProducts from the assessment tree, start with "AssessmentModel.getAssessmentItemValue"</source>
+        <source>If using WorkProducts from the assessment tree, start with &quot;AssessmentModel.getAssessmentItemValue&quot;</source>
         <translation>如果使用评估树中的 WorkProducts，请从 “AssessmentModel.getAssessmentItemValue” 开始。</translation>
     </message>
     <message>
@@ -56437,34 +56438,34 @@ this network in the future. Scripts in question belong to a script module with I
         <location filename="../gui/activity/Wizard/WorkProductFeaturePopup.cpp" line="196"/>
         <source>
 
-* These nodes are pulled from the Answer network. This Work Product Feature (WPF) will use the User network's nodes. So nodes that are not available may still be used if you know the expected path.</source>
+* These nodes are pulled from the Answer network. This Work Product Feature (WPF) will use the User network&apos;s nodes. So nodes that are not available may still be used if you know the expected path.</source>
         <translation>这些节点是从“Answer网络”中提取的。此工作产品功能（WPF）将使用“User网络”的节点；因此，如果您知道预期的路径，即使某些节点不可用，仍然可以使用它们。</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/WorkProductFeaturePopup.cpp" line="191"/>
         <source>
-Replace &lt;tree-path&gt; with the assessment item node's path, separated by ":"</source>
+Replace &lt;tree-path&gt; with the assessment item node&apos;s path, separated by &quot;:&quot;</source>
         <translation>将 `&lt;tree-path&gt;` 替换为评估项目节点的路径，路径之间用冒号 “:” 分隔。</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/WorkProductFeaturePopup.cpp" line="194"/>
         <source>
-End the expression with: ")</source>
+End the expression with: &quot;)</source>
         <translation>在表达式的末尾加上：“)”</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/WorkProductFeaturePopup.cpp" line="199"/>
-        <source>The second parameter is the assessment item node. Start with AssessmentModel.getAssessmentItemValue("user", "Network:</source>
-        <translation>第二个参数是评估项目节点。可以从 `AssessmentModel.getAssessmentItemValue("user", "Network:`)` 开始使用。</translation>
+        <source>The second parameter is the assessment item node. Start with AssessmentModel.getAssessmentItemValue(&quot;user&quot;, &quot;Network:</source>
+        <translation>第二个参数是评估项目节点。可以从 `AssessmentModel.getAssessmentItemValue(&quot;user&quot;, &quot;Network:`)` 开始使用。</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/WorkProductFeaturePopup.cpp" line="202"/>
-        <source>This function takes in "user", "answer", or "init" as the first parameter. Typically, we want "user". So, AssessmentModel.getAssessmentItemValue("user", </source>
-        <translation>该函数以“user”、“answer”或“init”作为第一个参数。通常情况下，我们使用“user”。因此，调用方式如下：`AssessmentModel.getAssessmentItemValue("user",...)`</translation>
+        <source>This function takes in &quot;user&quot;, &quot;answer&quot;, or &quot;init&quot; as the first parameter. Typically, we want &quot;user&quot;. So, AssessmentModel.getAssessmentItemValue(&quot;user&quot;, </source>
+        <translation>该函数以“user”、“answer”或“init”作为第一个参数。通常情况下，我们使用“user”。因此，调用方式如下：`AssessmentModel.getAssessmentItemValue(&quot;user&quot;,...)`</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/WorkProductFeaturePopup.cpp" line="207"/>
-        <source>Try beginning with "AssessmentModel.getAssessmentItemValue", otherwise carry on if you know what you are doing.</source>
+        <source>Try beginning with &quot;AssessmentModel.getAssessmentItemValue&quot;, otherwise carry on if you know what you are doing.</source>
         <translation>可以试着从“AssessmentModel.getAssessmentItemValue”开始；如果你清楚自己在做什么，那就继续往下操作。</translation>
     </message>
 </context>
@@ -56634,7 +56635,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="172"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="173"/>
@@ -56679,7 +56680,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="289"/>
         <source>On</source>
-        <translation>关于；在……上</translation>
+        <translation type="unfinished">启用</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="289"/>
@@ -56877,7 +56878,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/Workspace/WorkspaceMiniView.cpp" line="79"/>
         <source>Back</source>
-        <translation>返回；回来</translation>
+        <translation type="unfinished">返回</translation>
     </message>
 </context>
 <context>
@@ -56928,7 +56929,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="141"/>
         <source>Tether User</source>
-        <translation>泰达币（Tether）用户</translation>
+        <translation type="unfinished">Tether用户</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="144"/>
@@ -57186,7 +57187,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="2683"/>
         <source>Tether User</source>
-        <translation>泰达币（Tether）用户</translation>
+        <translation type="unfinished">Tether用户</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="2686"/>
@@ -57235,8 +57236,8 @@ End the expression with: ")</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="12295"/>
-        <source/>
-        <translation/>
+        <source></source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -57283,7 +57284,7 @@ End the expression with: ")</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="195"/>
-        <source>Error: Can't dial out without a modem attached.</source>
+        <source>Error: Can&apos;t dial out without a modem attached.</source>
         <translation>错误：未连接调制解调器时无法拨出电话。</translation>
     </message>
 </context>
@@ -57484,13 +57485,13 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="345"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="354"/>
-        <source>Enter a valid Number for Remote Port. Valid range is 1 to 65535. Keyword "any" is supported.</source>
+        <source>Enter a valid Number for Remote Port. Valid range is 1 to 65535. Keyword &quot;any&quot; is supported.</source>
         <translation>请输入一个有效的远程端口号。有效范围是 1 到 65535。支持使用关键字 “any”。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="366"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="375"/>
-        <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword "any" is supported.</source>
+        <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword &quot;any&quot; is supported.</source>
         <translation>请输入一个有效的本地端口号。有效范围是 1 到 65535。支持使用关键字 “any”。</translation>
     </message>
     <message>
@@ -57533,8 +57534,8 @@ Port</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIPSettings.cpp" line="620"/>
-        <source/>
-        <translation/>
+        <source></source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -57560,7 +57561,7 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="105"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="109"/>
@@ -57644,7 +57645,7 @@ Port</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="757"/>
-        <source>Binary file can't be edited</source>
+        <source>Binary file can&apos;t be edited</source>
         <translation>二进制文件无法被编辑。</translation>
     </message>
 </context>
@@ -57735,13 +57736,13 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="345"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="354"/>
-        <source>Enter a valid Number for Remote Port. Valid range is 1 to 65535. Keyword "any" is supported.</source>
+        <source>Enter a valid Number for Remote Port. Valid range is 1 to 65535. Keyword &quot;any&quot; is supported.</source>
         <translation>请输入一个有效的远程端口号。有效范围是 1 到 65535。支持使用关键字 “any”。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="366"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="375"/>
-        <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword "any" is supported.</source>
+        <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword &quot;any&quot; is supported.</source>
         <translation>请输入一个有效的本地端口号。有效范围是 1 到 65535。支持使用关键字 “any”。</translation>
     </message>
     <message>
@@ -57833,7 +57834,7 @@ Port</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="115"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="117"/>
         <source>Value</source>
-        <translation>价值；重要性</translation>
+        <translation type="unfinished">值</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="147"/>
@@ -58060,12 +58061,12 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="80"/>
         <source>Value</source>
-        <translation>价值；重要性</translation>
+        <translation type="unfinished">值</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="80"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="111"/>
@@ -58278,7 +58279,7 @@ Flow information:
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="70"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="73"/>
         <source>Terminal</source>
-        <translation>终端；终点站；终点</translation>
+        <translation type="unfinished">终端</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="110"/>
@@ -58406,12 +58407,12 @@ Flow information:
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="225"/>
         <source>SSH</source>
-        <translation>SSH（安全外壳协议，Secure Shell Protocol）是一种用于远程登录和管理服务器的安全协议。它允许用户在本地计算机上通过加密通信连接到远程计算机，并执行各种命令和操作，如文件传输、程序执行等。SSH通过加密数据来保护用户的身份和隐私，确保通信的安全性。</translation>
+        <translation type="unfinished">SSH</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="230"/>
         <source>Telnet</source>
-        <translation>Telnet（远程登录协议）</translation>
+        <translation type="unfinished">Telnet</translation>
     </message>
 </context>
 <context>
@@ -58459,7 +58460,7 @@ Flow information:
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientBase.ui" line="70"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientBase.ui" line="73"/>
         <source>Terminal</source>
-        <translation>终端；终点站；终端设备</translation>
+        <translation type="unfinished">终端</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientBase.ui" line="107"/>
@@ -58710,7 +58711,7 @@ Flow information:
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTextEditor.cpp" line="80"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTextEditor.cpp" line="83"/>
@@ -58846,7 +58847,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpn.ui" line="105"/>
         <source>VPN</source>
-        <translation>虚拟专用网络（Virtual Private Network）</translation>
+        <translation type="unfinished">VPN</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpn.ui" line="111"/>
@@ -58981,13 +58982,13 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="893"/>
-        <source>&lt;font face='sans-serif'&gt;&lt;h3&gt;Incorrect password&lt;/h3&gt;You've entered incorrect login credentials. The default login is the serial number (e.g. Qxxx-xxxx-xxxx), with no password. The serial number is on the bottom or back of the device. For </source>
-        <translation>&lt;font face='sans-serif'&gt;&lt;h3&gt;密码错误&lt;/h3&gt;您输入的登录凭据不正确。默认的登录方式是使用序列号（例如：Qxxx-xxxx-xxxx），无需密码。序列号位于设备的底部或背面。</translation>
+        <source>&lt;font face=&apos;sans-serif&apos;&gt;&lt;h3&gt;Incorrect password&lt;/h3&gt;You&apos;ve entered incorrect login credentials. The default login is the serial number (e.g. Qxxx-xxxx-xxxx), with no password. The serial number is on the bottom or back of the device. For </source>
+        <translation>&lt;font face=&apos;sans-serif&apos;&gt;&lt;h3&gt;密码错误&lt;/h3&gt;您输入的登录凭据不正确。默认的登录方式是使用序列号（例如：Qxxx-xxxx-xxxx），无需密码。序列号位于设备的底部或背面。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="893"/>
-        <source>, the serial number is displayed under the config tab.&lt;br&gt;&lt;br&gt;&lt;a href='http://setup.meraki.com/'&gt;Try again&lt;/a&gt;&lt;/font&gt;</source>
-        <translation>序列号显示在“配置”选项卡下方。&lt;br&gt;&lt;br&gt;&lt;a href='http://setup.meraki.com/'&gt;请重试&lt;/a&gt;&lt;/font&gt;</translation>
+        <source>, the serial number is displayed under the config tab.&lt;br&gt;&lt;br&gt;&lt;a href=&apos;http://setup.meraki.com/&apos;&gt;Try again&lt;/a&gt;&lt;/font&gt;</source>
+        <translation>序列号显示在“配置”选项卡下方。&lt;br&gt;&lt;br&gt;&lt;a href=&apos;http://setup.meraki.com/&apos;&gt;请重试&lt;/a&gt;&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="896"/>
@@ -59122,7 +59123,7 @@ and all previous settings will be erased.</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="294"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="297"/>
         <source>Stop</source>
-        <translation>停下来</translation>
+        <translation type="unfinished">停止</translation>
     </message>
 </context>
 <context>
@@ -59386,7 +59387,7 @@ You can select multiple tags by selecting/unselecting individual table cells.</s
         <location filename="../gui/DesignerFiles/CommonCartridgeExporter/CommonCartridgeExporter.ui" line="418"/>
         <location filename="../gui/DesignerFiles/CommonCartridgeExporter/CommonCartridgeExporter.ui" line="421"/>
         <source>Export</source>
-        <translation>出口；输出</translation>
+        <translation type="unfinished">导出</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/CommonCartridgeExporter/CommonCartridgeExporter.ui" line="447"/>
@@ -59541,7 +59542,7 @@ You can select multiple tags by selecting/unselecting individual table cells.</s
     <name>DialogManager</name>
     <message>
         <location filename="../gui/DeviceConfig/DialogManager.cpp" line="193"/>
-        <source>All usable tabs are hidden or locked away by design in this device's power state. Dialog will remain closed. There may be tabs hidden away by preference, click the Preferences button to unhide tabs.</source>
+        <source>All usable tabs are hidden or locked away by design in this device&apos;s power state. Dialog will remain closed. There may be tabs hidden away by preference, click the Preferences button to unhide tabs.</source>
         <translation>在该设备的电源状态下，所有可用的标签页都被设计为隐藏或锁定状态。对话框将保持关闭状态。部分标签页可能是根据用户设置被隐藏的，点击“偏好设置”按钮即可取消隐藏这些标签页。</translation>
     </message>
     <message>
@@ -59700,12 +59701,12 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../engine/IPC/CIpcManager.cpp" line="206"/>
-        <source>Cannot launch the %1 ExApp because it has changed. Please reinstall the ExApp or contact the ExApp's author.</source>
+        <source>Cannot launch the %1 ExApp because it has changed. Please reinstall the ExApp or contact the ExApp&apos;s author.</source>
         <translation>无法启动 %1 ExApp，因为它已经发生了更改。请重新安装该 ExApp 或联系其开发者。</translation>
     </message>
     <message>
         <location filename="../engine/IPC/CIpcManager.cpp" line="225"/>
-        <source>Cannot launch the %1 ExApp because the effective dates of its certificate are invalid or the certificate is blocked. Please contact the ExApp's author.</source>
+        <source>Cannot launch the %1 ExApp because the effective dates of its certificate are invalid or the certificate is blocked. Please contact the ExApp&apos;s author.</source>
         <translation>无法启动 %1 ExApp，因为其证书的有效日期无效或该证书已被阻止使用。请联系 ExApp 的开发者。</translation>
     </message>
     <message>
@@ -59746,9 +59747,9 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="104"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1"&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
 </source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1"&gt;Cisco Packet Tracer&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="135"/>
@@ -59759,8 +59760,8 @@ Do you want to save your changes?</source>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="141"/>
         <source>
 
-&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1"&gt;Sign in using one of the following options:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1"&gt;使用以下选项之一登录：&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Sign in using one of the following options:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;使用以下选项之一登录：&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="204"/>
@@ -59774,8 +59775,8 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="245"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style=" font-size:10pt;"&gt;Learn more about &lt;/span&gt;&lt;a href="marketing_uri"&gt;&lt;span class="login-sel-color2" style=" font-size:11pt; text-decoration: underline;"&gt;Networking Academy&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style="font-size:10pt;"&gt;了解更多关于&lt;/span&gt;&lt;a href="marketing_uri"&gt;&lt;span class="login-sel-color2" style="font-size:11pt; text-decoration: underline;"&gt;网络学院&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot; font-size:10pt;&quot;&gt;Learn more about &lt;/span&gt;&lt;a href=&quot;marketing_uri&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; text-decoration: underline;&quot;&gt;Networking Academy&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:10pt;&quot;&gt;了解更多关于&lt;/span&gt;&lt;a href=&quot;marketing_uri&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot;font-size:11pt; text-decoration: underline;&quot;&gt;网络学院&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="316"/>
@@ -59789,13 +59790,13 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="357"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style=" font-size:10pt; "&gt;Learn more about &lt;/span&gt;&lt;a href="marketing_uri"&gt;&lt;span class="login-sel-color2" style=" font-size:11pt; text-decoration: underline; "&gt;Skills for All&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style="font-size:10pt;"&gt;了解更多关于&lt;/span&gt;&lt;a href="marketing_uri"&gt;&lt;span class="login-sel-color2" style="font-size:11pt; text-decoration: underline;"&gt;“技能普及”（Skills for All）的信息&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot; font-size:10pt; &quot;&gt;Learn more about &lt;/span&gt;&lt;a href=&quot;marketing_uri&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; text-decoration: underline; &quot;&gt;Skills for All&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:10pt;&quot;&gt;了解更多关于&lt;/span&gt;&lt;a href=&quot;marketing_uri&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot;font-size:11pt; text-decoration: underline;&quot;&gt;“技能普及”（Skills for All）的信息&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="499"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style=" font-size:18pt;"&gt;Keep me logged in &lt;/span&gt;&lt;span class="login-sel-color3" style=" font-size:18pt;"&gt;(for 3 months)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style="font-size:18pt;"&gt;保持登录状态&lt;/span&gt;&lt;span class="login-sel-color3" style="font-size:18pt;"&gt;（有效期为3个月）&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot; font-size:18pt;&quot;&gt;Keep me logged in &lt;/span&gt;&lt;span class=&quot;login-sel-color3&quot; style=&quot; font-size:18pt;&quot;&gt;(for 3 months)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:18pt;&quot;&gt;保持登录状态&lt;/span&gt;&lt;span class=&quot;login-sel-color3&quot; style=&quot;font-size:18pt;&quot;&gt;（有效期为3个月）&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="527"/>
@@ -59804,20 +59805,20 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="530"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color4" style=""&gt;Not recommended for public or shared computers
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color4&quot; style=&quot;&quot;&gt;Not recommended for public or shared computers
  &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
 </source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color4" style=""&gt;不建议在公共或共享电脑上使用&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color4&quot; style=&quot;&quot;&gt;不建议在公共或共享电脑上使用&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="583"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:11pt;"&gt;By using Cisco Packet Tracer you accept the Terms Of Service (&lt;/span&gt;&lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span class="login-sel-color2" style=" font-size:11pt; font-weight:600; text-decoration: underline;"&gt;EULA&lt;/span&gt;&lt;/a&gt;&lt;span style=" font-size:11pt;"&gt; &amp;amp; &lt;/span&gt;&lt;a href="https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span class="login-sel-color2" style=" font-size:11pt; font-weight:600; text-decoration: underline;"&gt;SEULA&lt;/span&gt;&lt;/a&gt;&lt;span style=" font-size:11pt;"&gt;) and &lt;/span&gt;&lt;a href="https://www.cisco.com/c/en/us/about/legal/privacy.html"&gt;&lt;span class="login-sel-color2" style=" font-size:11pt; font-weight:600; text-decoration: underline;"&gt;The Privacy Statement&lt;/span&gt;&lt;/a&gt;&lt;span style=" font-size:11pt;"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style="font-size:11pt;"&gt;通过使用 Cisco Packet Tracer，您即表示同意以下条款：&lt;/span&gt;&lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span class="login-sel-color2" style="font-size:11pt; font-weight:600; text-decoration: underline;"&gt;最终用户许可协议（EULA）&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:11pt;"&gt;和&lt;/span&gt;&lt;a href="https://www.cisco.com/c/dam/en_us/about/doing-business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span class="login-sel-color2" style="font-size:11pt; font-weight:600; text-decoration: underline;"&gt;软件使用许可协议（SEULA）&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:11pt;"&gt;以及&lt;/span&gt;&lt;a href="https://www.cisco.com/c/en/us/about/legal/privacy.html"&gt;&lt;span class="login-sel-color2" style="font-size:11pt; font-weight:600; text-decoration: underline；"&gt;隐私政策&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;By using Cisco Packet Tracer you accept the Terms Of Service (&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;EULA&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; &amp;amp; &lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;SEULA&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;) and &lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/privacy.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;The Privacy Statement&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;通过使用 Cisco Packet Tracer，您即表示同意以下条款：&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot;font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;最终用户许可协议（EULA）&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;和&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing-business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot;font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;软件使用许可协议（SEULA）&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;以及&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/privacy.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot;font-size:11pt; font-weight:600; text-decoration: underline；&quot;&gt;隐私政策&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="604"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;a href="#"&gt;&lt;span class="login-sel-color2" style=" font-size:11pt; font-weight:600; text-decoration: underline;"&gt;Proxy Settings&lt;/span&gt;&lt;/a&gt;&lt;span style=" font-size:11pt;"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;a href="#"&gt;&lt;span class="login-sel-color2" style="font-size:11pt; font-weight:600; text-decoration: underline;"&gt;代理设置&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:11pt;"&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;Proxy Settings&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot;font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;代理设置&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -60030,12 +60031,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="463"/>
         <source>Zoom Out</source>
-        <translation>放大（图片或视图）</translation>
+        <translation type="unfinished">缩小</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="472"/>
         <source>Zoom In</source>
-        <translation>放大；详细查看</translation>
+        <translation type="unfinished">放大</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="477"/>
@@ -60376,8 +60377,8 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="862"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:14pt;"&gt;Checking this will skip prompting for login for the next 3 months. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=" font-size:14pt;"&gt;If you want to log out, use File -&amp;gt; Exit and Logout&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style="font-size:14pt;"&gt;勾选此选项后，在接下来的3个月内将无需再次输入登录信息。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:14pt"&gt;如果您想登出，请使用“文件”-&gt;“退出并登出”。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Checking this will skip prompting for login for the next 3 months. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;If you want to log out, use File -&amp;gt; Exit and Logout&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt;&quot;&gt;勾选此选项后，在接下来的3个月内将无需再次输入登录信息。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt&quot;&gt;如果您想登出，请使用“文件”-&gt;“退出并登出”。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="865"/>
@@ -60393,13 +60394,13 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="884"/>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="887"/>
-        <source>A Cisco Netacad.com account is required to use the full features of Packet Tracer. Please sign in with your Netacad.com Credentials. If you do not have a Netacad.com account, please click "Guest Login" button to proceed. Proxy can be set in the Preferences.</source>
+        <source>A Cisco Netacad.com account is required to use the full features of Packet Tracer. Please sign in with your Netacad.com Credentials. If you do not have a Netacad.com account, please click &quot;Guest Login&quot; button to proceed. Proxy can be set in the Preferences.</source>
         <translation>要使用Packet Tracer的所有功能，您需要拥有一个Cisco Netacad.com账户。请使用您的Netacad.com凭据登录。如果您没有Netacad.com账户，请点击“访客登录”按钮继续操作。代理设置可以在“偏好设置”中完成。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="893"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DOWNLOADING, INSTALLING, OR USING THE CISCO PACKET TRACER SOFTWARE CONSTITUTES ACCEPTANCE OF THE CISCO END USER LICENSE AGREEMENT (“EULA” &lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;) AND THE SUPPLEMENTAL END USER LICENSE AGREEMENT FOR CISCO PACKET TRACER (“SEULA” &lt;a href="https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THE EULA AND SEULA, THEN CISCO SYSTEMS, INC. (“CISCO”) IS UNWILLING TO LICENSE THE SOFTWARE TO YOU AND YOU ARE NOT AUTHORIZED TO DOWNLOAD, INSTALL OR USE THE SOFTWARE.​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;下载、安装或使用 Cisco Packet Tracer 软件即表示您同意《Cisco 最终用户许可协议》（“EULA”：&lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span style="font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;）以及《Cisco Packet Tracer 额外最终用户许可协议》（“SEULA”：&lt;a href="https://www.cisco.com/c/dam/en_us/about/doing-business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span style="font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/dam/en_us/about/doing-business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;）。如果您不同意 EULA 和 SEULA 的所有条款，那么 Cisco Systems, Inc.（“CISCO”）将不会向您授权使用该软件，您也无权下载、安装或使用该软件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DOWNLOADING, INSTALLING, OR USING THE CISCO PACKET TRACER SOFTWARE CONSTITUTES ACCEPTANCE OF THE CISCO END USER LICENSE AGREEMENT (“EULA” &lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span style=&quot; font-family:&apos;Calibri&apos;,&apos;sans-serif&apos;; text-decoration: underline; color:#0563c1;&quot;&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;) AND THE SUPPLEMENTAL END USER LICENSE AGREEMENT FOR CISCO PACKET TRACER (“SEULA” &lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span style=&quot; font-family:&apos;Calibri&apos;,&apos;sans-serif&apos;; text-decoration: underline; color:#0563c1;&quot;&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THE EULA AND SEULA, THEN CISCO SYSTEMS, INC. (“CISCO”) IS UNWILLING TO LICENSE THE SOFTWARE TO YOU AND YOU ARE NOT AUTHORIZED TO DOWNLOAD, INSTALL OR USE THE SOFTWARE.​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;下载、安装或使用 Cisco Packet Tracer 软件即表示您同意《Cisco 最终用户许可协议》（“EULA”：&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span style=&quot;font-family:&apos;Calibri&apos;,&apos;sans-serif&apos;; text-decoration: underline; color:#0563c1;&quot;&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;）以及《Cisco Packet Tracer 额外最终用户许可协议》（“SEULA”：&lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing-business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span style=&quot;font-family:&apos;Calibri&apos;,&apos;sans-serif&apos;; text-decoration: underline; color:#0563c1;&quot;&gt;https://www.cisco.com/c/dam/en_us/about/doing-business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;）。如果您不同意 EULA 和 SEULA 的所有条款，那么 Cisco Systems, Inc.（“CISCO”）将不会向您授权使用该软件，您也无权下载、安装或使用该软件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -60498,7 +60499,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/pixmapviewer.ui" line="77"/>
         <source>Type</source>
-        <translation>类型；种类</translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/pixmapviewer.ui" line="82"/>
@@ -60661,7 +60662,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="58"/>
         <source>Device</source>
-        <translation>设备；器械</translation>
+        <translation type="unfinished">设备</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="63"/>
@@ -60676,7 +60677,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="91"/>
         <source>Export</source>
-        <translation>出口；输出</translation>
+        <translation type="unfinished">导出</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="98"/>
@@ -60688,7 +60689,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="114"/>
         <source>Global</source>
-        <translation>全球的；总体的</translation>
+        <translation type="unfinished">全局的</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="120"/>
@@ -61170,7 +61171,7 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptEditor.ui" line="175"/>
         <source>Export</source>
-        <translation>出口；输出</translation>
+        <translation type="unfinished">导出</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptEditor.ui" line="198"/>
@@ -61202,7 +61203,7 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="14"/>
         <source>Scripting</source>
-        <translation>脚本编写；脚本化</translation>
+        <translation type="unfinished">脚本编写</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="24"/>
@@ -61250,7 +61251,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="131"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="134"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="137"/>
-        <source>Set this script module's general info such as name, description, author info, password, startup option, and security privileges.</source>
+        <source>Set this script module&apos;s general info such as name, description, author info, password, startup option, and security privileges.</source>
         <translation>设置此脚本模块的通用信息，如名称、描述、作者信息、密码、启动选项以及安全权限。</translation>
     </message>
     <message>
@@ -61263,7 +61264,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="300"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="303"/>
         <source>Go To</source>
-        <translation>前往；去</translation>
+        <translation type="unfinished">前往</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="160"/>
@@ -61286,7 +61287,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="247"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="250"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="253"/>
-        <source>Add and edit custom interface files with HTML, CSS, JavaScript, and images. Custom interface files are rendered in each device's Custom Interface tab as well as any web view launched by the script module. Custom interface states, including JavaScript, are erased once the rendering web view is closed or changed to another custom interface file.</source>
+        <source>Add and edit custom interface files with HTML, CSS, JavaScript, and images. Custom interface files are rendered in each device&apos;s Custom Interface tab as well as any web view launched by the script module. Custom interface states, including JavaScript, are erased once the rendering web view is closed or changed to another custom interface file.</source>
         <translation>您可以添加和编辑包含 HTML、CSS、JavaScript 以及图片的自定义界面文件。这些自定义界面文件会在每个设备的“自定义界面”选项卡中显示，同时也会在由脚本模块启动的任何网页视图中显示。一旦网页视图关闭或切换到另一个自定义界面文件，包括 JavaScript 代码在内的所有自定义界面设置都会被清除。</translation>
     </message>
     <message>
@@ -61323,7 +61324,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="357"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="360"/>
         <source>Export</source>
-        <translation>出口；输出</translation>
+        <translation type="unfinished">导出</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="373"/>
@@ -61379,7 +61380,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="508"/>
         <source>General</source>
-        <translation>将军；一般的；普通的</translation>
+        <translation type="unfinished">普通</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="535"/>
@@ -61544,7 +61545,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="926"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="929"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="932"/>
-        <source>Setting a password prevents unauthorized changes or viewing of this file's scripts and custom interfaces. When a user is running this file, the Scripting interface cannot be accessed unless the correct password is entered.  If the file is an activity file, the password used to access the Scripting interface is the Activity Wizard password.</source>
+        <source>Setting a password prevents unauthorized changes or viewing of this file&apos;s scripts and custom interfaces. When a user is running this file, the Scripting interface cannot be accessed unless the correct password is entered.  If the file is an activity file, the password used to access the Scripting interface is the Activity Wizard password.</source>
         <translation>设置密码可以防止未经授权的人员更改或查看该文件的脚本及自定义界面。当用户运行此文件时，除非输入正确的密码，否则无法访问脚本界面。如果该文件是一个活动文件（activity file），用于访问脚本界面的密码就是“活动向导密码”（Activity Wizard password）。</translation>
     </message>
     <message>
@@ -61679,7 +61680,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1285"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1288"/>
         <source>Simulation</source>
-        <translation>仿真；模拟</translation>
+        <translation type="unfinished">模拟</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1295"/>
@@ -61808,20 +61809,20 @@ The typical sequence in creating a script module is as follows:</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="110"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1"&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1"&gt;Cisco Packet Tracer&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt; &lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="139"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style="font-size:x-large"&gt;
-&lt;strong&gt;Login is in progress:&lt;/strong&gt; a new window has been opened in your browser. &lt;/span&gt;&lt;span class="login-sel-color1"&gt;&lt;br/&gt;&lt;/span&gt;&lt;span class="login-sel-color1" style="font-size:x-large"&gt;&lt;em&gt;Please sign in using your Skills For All Credentials.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style="font-size:x-large"&gt;
-&lt;strong&gt;登录正在进行中：&lt;/strong&gt;您的浏览器中已打开一个新窗口。&lt;/span&gt;&lt;span class="login-sel-color1"&gt;&lt;br&gt;&lt;/span&gt;&lt;span class="login-sel-color1" style="font-size:x-large"&gt;&lt;em&gt;请使用您的“Skills For All”凭证进行登录。&lt;/em&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;
+&lt;strong&gt;Login is in progress:&lt;/strong&gt; a new window has been opened in your browser. &lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;&lt;em&gt;Please sign in using your Skills For All Credentials.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;
+&lt;strong&gt;登录正在进行中：&lt;/strong&gt;您的浏览器中已打开一个新窗口。&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;&lt;em&gt;请使用您的“Skills For All”凭证进行登录。&lt;/em&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="166"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style="font-size:x-large"&gt;If you click &amp;quot;Back&amp;quot;, you will return to the previous screen and need to restart the login process.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class="login-sel-color1" style="font-size:x-large"&gt;如果您点击“返回”，您将回到上一个页面，需要重新开始登录流程。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;If you click &amp;quot;Back&amp;quot;, you will return to the previous screen and need to restart the login process.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;如果您点击“返回”，您将回到上一个页面，需要重新开始登录流程。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="203"/>
@@ -61830,8 +61831,8 @@ The typical sequence in creating a script module is as follows:</source>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="270"/>
-        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:11pt;"&gt;By using Cisco Packet Tracer you accept the Terms Of Service (&lt;/span&gt;&lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span class="login-sel-color2" style=" font-size:11pt; font-weight:600; text-decoration: underline;"&gt;EULA&lt;/span&gt;&lt;/a&gt;&lt;span style=" font-size:11pt;"&gt; &amp;amp; &lt;/span&gt;&lt;a href="https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span class="login-sel-color2" style=" font-size:11pt; font-weight:600; text-decoration: underline;"&gt;SEULA&lt;/span&gt;&lt;/a&gt;&lt;span style=" font-size:11pt;"&gt;) and &lt;/span&gt;&lt;a href="https://www.cisco.com/c/en/us/about/legal/privacy.html"&gt;&lt;span class="login-sel-color2" style=" font-size:11pt; font-weight:600; text-decoration: underline;"&gt;The Privacy Statement&lt;/span&gt;&lt;/a&gt;&lt;span style=" font-size:11pt;"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style="font-size:11pt;"&gt;通过使用 Cisco Packet Tracer，您即表示同意以下条款：&lt;/span&gt;&lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span class="login-sel-color2" style="font-size:11pt; font-weight:600; text-decoration: underline;"&gt;最终用户许可协议（EULA）&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:11pt;"&gt;以及&lt;/span&gt;&lt;a href="https://www.cisco.com/c/dam/en_us/about/doing-business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span class="login-sel-color2" style="font-size:11pt; font-weight:600; text-decoration: underline;"&gt;软件使用许可协议（SEULA）&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:11pt;"&gt;；同时，您也同意&lt;/span&gt;&lt;a href="https://www.cisco.com/c/en/us/about/legal/privacy.html"&gt;&lt;span class="login-sel-color2" style="font-size:11pt; font-weight:600; text-decoration: underline;"&gt;隐私政策&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:11pt;"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;By using Cisco Packet Tracer you accept the Terms Of Service (&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;EULA&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; &amp;amp; &lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;SEULA&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;) and &lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/privacy.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;The Privacy Statement&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;通过使用 Cisco Packet Tracer，您即表示同意以下条款：&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot;font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;最终用户许可协议（EULA）&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;以及&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing-business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot;font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;软件使用许可协议（SEULA）&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;；同时，您也同意&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/privacy.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot;font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;隐私政策&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:11pt;&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -62181,7 +62182,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="180"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="187"/>
@@ -62334,7 +62335,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="423"/>
         <location filename="../gui/DesignerFiles/WlcWlans.ui" line="464"/>
         <source>New</source>
-        <translation>新的</translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="430"/>
@@ -62739,7 +62740,7 @@ The typical sequence in creating a script module is as follows:</source>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="893"/>
-        <source>'s installed folder.
+        <source>&apos;s installed folder.
 </source>
         <translation>已安装文件的文件夹。</translation>
     </message>
