@@ -4085,10 +4085,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="234" />
       <source>&amp;Instructions</source>
-      <translation>上下文: Activity_Wizard
-位置: ../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui:234
-文本:
-&amp;说明</translation>
+      <translation>&amp;说明</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="237" />
@@ -4128,10 +4125,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="361" />
       <source>&amp;Password</source>
-      <translation>上下文: Activity_Wizard
-位置: ../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui:361
-文本:
-&amp;密码</translation>
+      <translation>&amp;密码</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="364" />
@@ -6682,10 +6676,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="195" />
       <source>Invalid Bookmark -- %1</source>
-      <translation>上下文: CASAUserManager
-位置: ../gui/DeviceConfig/ASA/ASAUserManager.cpp:195
-文本:
-无效的书签 -- %1</translation>
+      <translation>无效的书签 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="202" />
@@ -6746,10 +6737,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DeviceConfig/Router/AccessRestrictions.cpp" line="248" />
       <source>The value is out of range [A-Z, a-z, 0-9, -, _]</source>
-      <translation>上下文: CAccessRestrictions
-位置: ../gui/DeviceConfig/Router/AccessRestrictions.cpp:248
-文本:
-值超出范围 [A-Z, a-z, 0-9, -, _]</translation>
+      <translation>值超出范围 [A-Z, a-z, 0-9, -, _]</translation>
     </message>
   </context>
   <context>
@@ -6799,9 +6787,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1304" />
       <source>Import Instruction Page</source>
-      <translation>Context: CActivityWizard  
-Loc: ../gui/activity/Wizard/ActivityWizard.cpp:1304  
-Text:  
+      <translation> 
 导入说明页面</translation>
     </message>
     <message>
@@ -6833,9 +6819,7 @@ Text:
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1412" />
       <source>The password entered does not match.</source>
-      <translation>Context: CActivityWizard  
-Loc: ../gui/activity/Wizard/ActivityWizard.cpp:1412  
-Text:  
+      <translation> 
 输入的密码不匹配。</translation>
     </message>
     <message>
@@ -6851,9 +6835,7 @@ Text:
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1664" />
       <source>Import File</source>
-      <translation>Context: CActivityWizard  
-Loc: ../gui/activity/Wizard/ActivityWizard.cpp:1664  
-Text:  
+      <translation> 
 导入文件</translation>
     </message>
     <message>
@@ -6905,17 +6887,13 @@ Replace the Initial Network?</source>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1834" />
       <source>&amp;Yes</source>
-      <translation>Context: CActivityWizard  
-Loc: ../gui/activity/Wizard/ActivityWizard.cpp:1834  
-Text:  
+      <translation> 
 &amp;是</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1834" />
       <source>&amp;No</source>
-      <translation>Context: CActivityWizard  
-Loc: ../gui/activity/Wizard/ActivityWizard.cpp:1834  
-Text:  
+      <translation> 
 &amp;不</translation>
     </message>
     <message>
@@ -6957,9 +6935,7 @@ Text:
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="498" />
       <source>Save File</source>
-      <translation>Context: CActivityWizard  
-Loc: ../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp:498  
-Text:  
+      <translation> 
 保存文件</translation>
     </message>
     <message>
@@ -7427,10 +7403,7 @@ Text:
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1503" />
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1506" />
       <source>Upnp:</source>
-      <translation>上下文: CAdminManagementBase
-位置: ../gui/DesignerFiles/Routing/BaseAdminManagement.ui:1500 | ../gui/DesignerFiles/Routing/BaseAdminManagement.ui:1503 | ../gui/DesignerFiles/Routing/BaseAdminManagement.ui:1506
-文本:
-UPnP:</translation>
+      <translation>UPnP:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1585" />
@@ -12950,9 +12923,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="407" />
       <source>To: </source>
-      <translation>Context: CAnalogPhoneGUI  
-Loc: ../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp:407  
-Text:  
+      <translation> 
 To:</translation>
     </message>
     <message>
@@ -14663,10 +14634,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1183" />
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1186" />
       <source>Times:</source>
-      <translation>上下文: CBaseAccessRestrictions
-位置: ../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui:1180 | ../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui:1183 | ../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui:1186
-文本:
-次数:</translation>
+      <translation>次数:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1322" />
@@ -16023,10 +15991,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="552" />
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="555" />
       <source>(Default: Disabled)</source>
-      <translation>上下文: CBaseAdvWirelessSecurity
-位置: ../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui:481 | ../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui:484 | ../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui:487 | (+3 more)
-文本:
-(默认: 禁用)</translation>
+      <translation>(默认: 禁用)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="501" />
@@ -16090,10 +16055,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="857" />
       <source>(Default: 100, Milliseconds,
  Range: 1-65535)</source>
-      <translation>上下文: CBaseAdvWirelessSecurity
-位置: ../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui:857
-文本:
-(默认: 100, 毫秒,
+      <translation>(默认: 100, 毫秒,
  范围: 1-65535)</translation>
     </message>
     <message>
@@ -19248,9 +19210,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1116" />
       <source>Your Current Options</source>
-      <translation>Context: CBaseIPPhoneGUI  
-Loc: ../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui:1116  
-Text:  
+      <translation> 
 您的当前选项</translation>
     </message>
     <message>
@@ -19324,9 +19284,7 @@ Text:
     <message>
       <location filename="../gui/DesignerFiles/Common/BaseInfoDialog.ui" line="14" />
       <source>CBaseInfoDialog</source>
-      <translation>Context: CBaseInfoDialog  
-Loc: ../gui/DesignerFiles/Common/BaseInfoDialog.ui:14  
-Text:  
+      <translation> 
 CBaseInfoDialog</translation>
     </message>
     <message>
@@ -20451,10 +20409,7 @@ Destination:</source>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="600" />
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="603" />
       <source>up arrow</source>
-      <translation>上下文: CBasePDUInfoClass
-位置: ../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui:597 | ../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui:600 | ../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui:603
-文本:
-上箭头</translation>
+      <translation>上箭头</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="744" />
@@ -20488,10 +20443,7 @@ Destination:</source>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="929" />
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="932" />
       <source>Transfer</source>
-      <translation>上下文: CBasePDUInfoClass
-位置: ../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui:926 | ../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui:929 | ../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui:932
-文本:
-传输</translation>
+      <translation>传输</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="948" />
@@ -21424,10 +21376,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="558" />
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="561" />
       <source>Scale:</source>
-      <translation>上下文: CBaseSetBGImageDlgClass
-位置: ../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui:555 | ../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui:558 | ../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui:561
-文本:
-缩放:</translation>
+      <translation>缩放:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="513" />
@@ -25236,10 +25185,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="698" />
       <source>IP Configuration</source>
-      <translation>上下文: CBaseWorkstationBluetooth
-位置: ../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui:698
-文本:
-IP 配置</translation>
+      <translation>IP 配置</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="715" />
@@ -25805,9 +25751,7 @@ This ExApp is mandatory and may not be removed or disabled.</source>
     <message>
       <location filename="../gui/activity/CheckAnswerPage.cpp" line="328" />
       <source>Score</source>
-      <translation>Context: CCheckAnswerPage  
-Loc: ../gui/activity/CheckAnswerPage.cpp:328  
-Text:  
+      <translation> 
 得分</translation>
     </message>
     <message>
@@ -26311,10 +26255,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/DeviceConfig/CommandLine.cpp" line="291" />
       <source>The equivalent IOS Commands are </source>
-      <translation>上下文: CCommandLine
-位置: ../gui/DeviceConfig/CommandLine.cpp:291
-文本:
-等效的 IOS 命令是</translation>
+      <translation>等效的 IOS 命令是</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CommandLine.cpp" line="822" />
@@ -26489,10 +26430,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/scripting/CConfigScriptModules.cpp" line="185" />
       <source> - Cannot Start Script Module</source>
-      <translation>上下文: CConfigScriptModules
-位置: ../gui/scripting/CConfigScriptModules.cpp:185
-文本:
- - 无法启动脚本模块</translation>
+      <translation> - 无法启动脚本模块</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CConfigScriptModules.cpp" line="190" />
@@ -26565,9 +26503,7 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/scripting/CConfigScriptModules.cpp" line="347" />
       <source>The script module file is invalid.</source>
-      <translation>Context: CConfigScriptModules  
-Loc: ../gui/scripting/CConfigScriptModules.cpp:347  
-Text:  
+      <translation> 
 脚本模块文件无效。</translation>
     </message>
     <message>
@@ -26578,10 +26514,7 @@ Text:
     <message>
       <location filename="../gui/scripting/CConfigScriptModules.cpp" line="447" />
       <source>The password you entered is incorrect!</source>
-      <translation>上下文: CConfigScriptModules
-位置: ../gui/scripting/CConfigScriptModules.cpp:447
-文本:
-您输入的密码不正确！</translation>
+      <translation>您输入的密码不正确！</translation>
     </message>
   </context>
   <context>
@@ -26600,10 +26533,7 @@ Text:
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="619" />
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1393" />
       <source>The minimum value for the time is 0 and the maximum is 1000000.</source>
-      <translation>上下文: CCreateCustomPDU
-位置: ../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp:619 | ../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp:1393
-文本:
-时间的最小值为 0，最大值为 1000000。</translation>
+      <translation>时间的最小值为 0，最大值为 1000000。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="619" />
@@ -26616,19 +26546,13 @@ Text:
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="630" />
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1402" />
       <source>The minimum value for the interval is 0.001 and the maximum is 1000000 seconds.</source>
-      <translation>上下文: CCreateCustomPDU
-位置: ../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp:630 | ../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp:1402
-文本:
-间隔的最小值为 0.001 秒，最大值为 1000000 秒。</translation>
+      <translation>间隔的最小值为 0.001 秒，最大值为 1000000 秒。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="630" />
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1402" />
       <source>Incorrect Interval -- %1</source>
-      <translation>上下文: CCreateCustomPDU
-位置: ../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp:630 | ../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp:1402
-文本:
-错误的间隔 -- %1</translation>
+      <translation>错误的间隔 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1256" />
@@ -26658,10 +26582,7 @@ Text:
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1297" />
       <source>Invalid Sequence Number Entered.</source>
-      <translation>上下文: CCreateCustomPDU
-位置: ../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp:1297
-文本:
-输入的序列号无效。</translation>
+      <translation>输入的序列号无效。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1309" />
@@ -26696,10 +26617,7 @@ Text:
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1380" />
       <source>Incorrect TOS -- %1</source>
-      <translation>上下文: CCreateCustomPDU
-位置: ../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp:1380
-文本:
-错误的 TOS -- %1</translation>
+      <translation>错误的 TOS -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1317" />
@@ -26734,10 +26652,7 @@ Text:
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1371" />
       <source>Destination Port out of range [1 - 65536].</source>
-      <translation>上下文: CCreateCustomPDU
-位置: ../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp:1371
-文本:
-目标端口超出范围 [1 - 65536]。</translation>
+      <translation>目标端口超出范围 [1 - 65536]。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1380" />
@@ -26770,9 +26685,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Templates/CustomImage.cpp" line="163" />
       <source>Images (*.png *.xpm *.jpg *.bmp *.tiff *.gif)</source>
-      <translation>Context: CCustomImage  
-Loc: ../gui/DeviceConfig/Templates/CustomImage.cpp:163  
-Text:  
+      <translation> 
 图像 (*.png *.xpm *.jpg *.bmp *.tiff *.gif)</translation>
     </message>
   </context>
@@ -27117,9 +27030,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2718" />
       <source>Tx Ring Limit out of range [1 - 32767]</source>
-      <translation>Context: CDeviceDialog  
-Loc: ../gui/DeviceConfig/Templates/CDeviceDialog.cpp:2718  
-Text:  
+      <translation> 
 Tx Ring Limit 超出范围 [1 - 32767]</translation>
     </message>
     <message>
@@ -27470,9 +27381,7 @@ Hop IP</source>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="339" />
       <source>IPv6 Routing Table for </source>
-      <translation>Context: CDeviceTable  
-Loc: ../gui/DeviceTable/DeviceTableImpl.cpp:339  
-Text:  
+      <translation> 
 IPv6 路由表 为</translation>
     </message>
     <message>
@@ -27488,9 +27397,7 @@ IPv6 路由表 为</translation>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="354" />
       <source>Hold (sec)</source>
-      <translation>Context: CDeviceTable  
-Loc: ../gui/DeviceTable/DeviceTableImpl.cpp:354  
-Text:  
+      <translation> 
 保持（秒）</translation>
     </message>
     <message>
@@ -27551,9 +27458,7 @@ ID</translation>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="391" />
       <source>ADV
 Router</source>
-      <translation>Context: CDeviceTable  
-Loc: ../gui/DeviceTable/DeviceTableImpl.cpp:391  
-Text:  
+      <translation> 
 ADV  
 路由器</translation>
     </message>
@@ -27891,10 +27796,7 @@ Address</source>
     <message>
       <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="139" />
       <source>Add</source>
-      <translation>上下文: CDhcpReservation
-位置: ../gui/DeviceConfig/Router/DhcpReservation.cpp:139
-文本:
-添加</translation>
+      <translation>添加</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="164" />
@@ -27912,10 +27814,7 @@ Address</source>
     <message>
       <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="179" />
       <source>IP Address</source>
-      <translation>上下文: CDhcpReservation
-位置: ../gui/DeviceConfig/Router/DhcpReservation.cpp:179
-文本:
-IP 地址</translation>
+      <translation>IP 地址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="179" />
@@ -28199,9 +28098,7 @@ IP 地址</translation>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="302" />
       <source>CO</source>
-      <translation>Context: CEnvironment  
-Loc: ../gui/Workspace/Physical/Environment.cpp:302  
-Text:  
+      <translation> 
 CO</translation>
     </message>
     <message>
@@ -28222,9 +28119,7 @@ CO</translation>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="306" />
       <source>Argon</source>
-      <translation>Context: CEnvironment  
-Loc: ../gui/Workspace/Physical/Environment.cpp:306  
-Text:  
+      <translation> 
 氩气</translation>
     </message>
     <message>
@@ -28467,11 +28362,7 @@ and all previous settings will be erased.</source>
     <message>
       <location filename="../gui/FileTreeView.cpp" line="45" />
       <source>Please Select Backup File </source>
-      <translation>请翻译成简体中文，保持占位符、标签和前后空白。
-
-Context: CFileTreeView  
-Loc: ../gui/FileTreeView.cpp:45  
-Text:  
+      <translation> 
 请选择备份文件</translation>
     </message>
     <message>
@@ -28654,10 +28545,7 @@ Text:
       <location filename="../gui/Workspace/Logical/GenerateLogicalMenus.cpp" line="686" />
       <location filename="../gui/Workspace/Logical/GenerateLogicalMenus.cpp" line="701" />
       <source>The cable cannot be connected to that port.</source>
-      <translation>上下文: CGenerateLogicalMenus
-位置: ../gui/Workspace/Logical/GenerateLogicalMenus.cpp:686 | ../gui/Workspace/Logical/GenerateLogicalMenus.cpp:701
-文本:
-该电缆无法连接到该端口。</translation>
+      <translation>该电缆无法连接到该端口。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/GenerateLogicalMenus.cpp" line="686" />
@@ -28802,10 +28690,7 @@ Text:
     <message>
       <location filename="../gui/UserCreatedPDU/GenericL3Config.cpp" line="113" />
       <source>The source port is out of range. It must be between 1 and 65536.</source>
-      <translation>上下文: CGenericL3Config
-位置: ../gui/UserCreatedPDU/GenericL3Config.cpp:113
-文本:
-源端口超出范围。它必须在 1 到 65536 之间。</translation>
+      <translation>源端口超出范围。它必须在 1 到 65536 之间。</translation>
     </message>
     <message>
       <location filename="../gui/UserCreatedPDU/GenericL3Config.cpp" line="118" />
@@ -28982,9 +28867,7 @@ Text:
     <message>
       <location filename="../gui/Workspace/Physical/GeoView.cpp" line="4707" />
       <source>Multiuser connections can't be recabled.  You must delete and recreate.</source>
-      <translation>Context: CGeoView  
-Loc: ../gui/Workspace/Physical/GeoView.cpp:4707  
-Text:  
+      <translation> 
 多用户连接不能重新布线。您必须先删除再重新创建。</translation>
     </message>
     <message>
@@ -29000,9 +28883,7 @@ Text:
     <message>
       <location filename="../gui/Workspace/Physical/GeoView.cpp" line="690" />
       <source>Color Cable</source>
-      <translation>Context: CGeoView  
-Loc: ../gui/Workspace/Physical/GeoView.cpp:690  
-Text:  
+      <translation> 
 颜色电缆</translation>
     </message>
     <message>
@@ -29016,9 +28897,7 @@ Text:
     <message>
       <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5499" />
       <source>&amp;Uncluster</source>
-      <translation>Context: CGeoView  
-Loc: ../gui/Workspace/Physical/GeoView.cpp:5499  
-Text:  
+      <translation> 
 &amp;取消群集</translation>
     </message>
     <message>
@@ -29037,9 +28916,7 @@ Text:
     <message>
       <location filename="../gui/Workspace/Physical/GeoView.cpp" line="408" />
       <source>Inspect Rear</source>
-      <translation>Context: CGeoView  
-Loc: ../gui/Workspace/Physical/GeoView.cpp:408  
-Text:  
+      <translation> 
 检查背面</translation>
     </message>
     <message>
@@ -29087,9 +28964,7 @@ Text:
     <message>
       <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6502" />
       <source>The cable cannot be connected to another Multiuser.</source>
-      <translation>Context: CGeoView  
-Loc: ../gui/Workspace/Physical/GeoView.cpp:6502  
-Text:  
+      <translation> 
 电缆不能连接到另一个 Multiuser。</translation>
     </message>
     <message>
@@ -29142,19 +29017,13 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicator.cpp" line="210" />
       <source>Ctrl+F4</source>
-      <translation>请翻译成简体中文，保持占位符、标签和前后空白。
-
-Context: CIPCommunicator  
-Loc: ../gui/DeviceConfig/Workstation/IPCommunicator.cpp:210  
-Text:  
+      <translation> 
 Ctrl+F4</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicator.cpp" line="433" />
       <source>The line is disconnected</source>
-      <translation>Context: CIPCommunicator  
-Loc: ../gui/DeviceConfig/Workstation/IPCommunicator.cpp:433  
-Text:  
+      <translation> 
 线路已断开</translation>
     </message>
     <message>
@@ -29165,25 +29034,19 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicator.cpp" line="484" />
       <source>Playing 'Do'...</source>
-      <translation>Context: CIPCommunicator  
-Loc: ../gui/DeviceConfig/Workstation/IPCommunicator.cpp:484  
-Text:  
+      <translation> 
 播放 'Do'...</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicator.cpp" line="491" />
       <source>Playing 'Re'...</source>
-      <translation>Context: CIPCommunicator  
-Loc: ../gui/DeviceConfig/Workstation/IPCommunicator.cpp:491  
-Text:  
+      <translation> 
 播放 'Re'...</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicator.cpp" line="498" />
       <source>Playing 'Mi'...</source>
-      <translation>Context: CIPCommunicator  
-Loc: ../gui/DeviceConfig/Workstation/IPCommunicator.cpp:498  
-Text:  
+      <translation> 
 播放 'Mi'...</translation>
     </message>
   </context>
@@ -29475,10 +29338,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorBusyScreen.cpp" line="118" />
       <source>Skins</source>
-      <translation>上下文: CIPCommunicatorBusyScreen
-位置: ../gui/DeviceConfig/Workstation/IPCommunicatorBusyScreen.cpp:118
-文本:
-皮肤</translation>
+      <translation>皮肤</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorBusyScreen.cpp" line="120" />
@@ -29587,10 +29447,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorDialScreen.cpp" line="214" />
       <source>Skins</source>
-      <translation>上下文: CIPCommunicatorDialScreen
-位置: ../gui/DeviceConfig/Workstation/IPCommunicatorDialScreen.cpp:214
-文本:
-皮肤</translation>
+      <translation>皮肤</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorDialScreen.cpp" line="216" />
@@ -30764,9 +30621,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorRingOut.cpp" line="54" />
       <source>0</source>
-      <translation>Context: CIPCommunicatorRingOut  
-Loc: ../gui/DeviceConfig/Workstation/IPCommunicatorRingOut.cpp:54  
-Text:  
+      <translation> 
 0</translation>
     </message>
     <message>
@@ -30787,9 +30642,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorRingOut.cpp" line="58" />
       <source>4</source>
-      <translation>Context: CIPCommunicatorRingOut  
-Loc: ../gui/DeviceConfig/Workstation/IPCommunicatorRingOut.cpp:58  
-Text:  
+      <translation> 
 4</translation>
     </message>
     <message>
@@ -30820,10 +30673,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorRingOut.cpp" line="121" />
       <source>Skins</source>
-      <translation>上下文: CIPCommunicatorRingOut
-位置: ../gui/DeviceConfig/Workstation/IPCommunicatorRingOut.cpp:121
-文本:
-皮肤</translation>
+      <translation>皮肤</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorRingOut.cpp" line="123" />
@@ -30989,10 +30839,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="407" />
       <source>The line is disconnected</source>
-      <translation>上下文: CIPPhoneGUI
-位置: ../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp:407
-文本:
-线路已断开</translation>
+      <translation>线路已断开</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="432" />
@@ -31161,9 +31008,7 @@ Text:
     <message>
       <location filename="../gui/activity/InstructionDialog.cpp" line="393" />
       <source>PT Activity</source>
-      <translation>Context: CInstructionDialog  
-Loc: ../gui/activity/InstructionDialog.cpp:393  
-Text:  
+      <translation> 
 PT 活动</translation>
     </message>
     <message>
@@ -31207,9 +31052,7 @@ PT 活动</translation>
     <message>
       <location filename="../gui/activity/InstructionDialog.cpp" line="433" />
       <source>This is your last opportunity to save this file in the current state. You may continue to view your work after saving your file. </source>
-      <translation>Context: CInstructionDialog  
-Loc: ../gui/activity/InstructionDialog.cpp:433  
-Text:  
+      <translation> 
 这是您最后一次机会将文件保存为当前状态。保存文件后，您可以继续查看您的工作。</translation>
     </message>
     <message>
@@ -31242,9 +31085,7 @@ Text:
     <message>
       <location filename="../gui/activity/InstructionDialog.cpp" line="463" />
       <source>Viewing of the results is locked and saving is disallowed.</source>
-      <translation>Context: CInstructionDialog  
-Loc: ../gui/activity/InstructionDialog.cpp:463  
-Text:  
+      <translation> 
 查看结果已被锁定，且不允许保存。</translation>
     </message>
     <message>
@@ -31267,9 +31108,7 @@ Text:
       <location filename="../gui/activity/InstructionDialog.cpp" line="832" />
       <source>All unsaved changes will be lost,
 reset activity?</source>
-      <translation>Context: CInstructionDialog  
-Loc: ../gui/activity/InstructionDialog.cpp:832  
-Text:  
+      <translation> 
 所有未保存的更改将会丢失，  
 重置活动？</translation>
     </message>
@@ -31404,10 +31243,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="958" />
       <source>Invalid DNS Server IP.</source>
-      <translation>上下文: CLinkSysBasicSetup
-位置: ../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp:958
-文本:
-无效的 DNS 服务器 IP。</translation>
+      <translation>无效的 DNS 服务器 IP。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1012" />
@@ -31698,17 +31534,13 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Router/LocalNetworkStatus.cpp" line="91" />
       <source>Enabled</source>
-      <translation>Context: CLocalNetworkStatus  
-Loc: ../gui/DeviceConfig/Router/LocalNetworkStatus.cpp:91  
-Text:  
+      <translation> 
 启用</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/LocalNetworkStatus.cpp" line="93" />
       <source>Disabled</source>
-      <translation>Context: CLocalNetworkStatus  
-Loc: ../gui/DeviceConfig/Router/LocalNetworkStatus.cpp:93  
-Text:  
+      <translation> 
 已禁用</translation>
     </message>
   </context>
@@ -32002,10 +31834,7 @@ Text:
       <location filename="../gui/activity/LockingTree.cpp" line="447" />
       <location filename="../gui/activity/LockingTree.cpp" line="498" />
       <source>Existing Scenarios</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:447 | ../gui/activity/LockingTree.cpp:498
-文本:
-现有场景</translation>
+      <translation>现有场景</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="511" />
@@ -32072,10 +31901,7 @@ Text:
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="304" />
       <source>Locking / Starting</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:304
-文本:
-锁定 / 启动</translation>
+      <translation>锁定 / 启动</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="318" />
@@ -32170,26 +31996,17 @@ Text:
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="338" />
       <source>Preferences (Deprecated)</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:338
-文本:
-偏好设置（已弃用）</translation>
+      <translation>偏好设置（已弃用）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="339" />
       <source>Toggling Animation (Deprecated)</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:339
-文本:
-切换动画（已弃用）</translation>
+      <translation>切换动画（已弃用）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="340" />
       <source>Toggling Auto Dock Popup Window (Deprecated)</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:340
-文本:
-切换自动停靠弹出窗口（已弃用）</translation>
+      <translation>切换自动停靠弹出窗口（已弃用）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="341" />
@@ -32199,18 +32016,12 @@ Text:
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="342" />
       <source>Toggling Telephony Sound (Deprecated)</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:342
-文本:
-切换电话声音（已弃用）</translation>
+      <translation>切换电话声音（已弃用）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="343" />
       <source>Toggling Show Port Information (Deprecated)</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:343
-文本:
-切换显示端口信息（已弃用）</translation>
+      <translation>切换显示端口信息（已弃用）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="344" />
@@ -32235,18 +32046,12 @@ Text:
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="348" />
       <source>Lock Hide Tab (Deprecated)</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:348
-文本:
-锁定并隐藏选项卡（已弃用）</translation>
+      <translation>锁定并隐藏选项卡（已弃用）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="349" />
       <source>Lock Custom Interfaces Tab (Deprecated)</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:349
-文本:
-锁定自定义接口选项卡（已弃用）</translation>
+      <translation>锁定自定义接口选项卡（已弃用）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="353" />
@@ -32571,17 +32376,12 @@ Text:
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="732" />
       <source>Lock IPv6 Firewall</source>
-      <translation>上下文: CLockingTree
-位置: ../gui/activity/LockingTree.cpp:732
-文本:
-锁定 IPv6 防火墙</translation>
+      <translation>锁定 IPv6 防火墙</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="733" />
       <source>Netflow Collector Read Only</source>
-      <translation>Context: CLockingTree  
-Loc: ../gui/activity/LockingTree.cpp:733  
-Text:  
+      <translation> 
 Netflow Collector 仅读取</translation>
     </message>
     <message>
@@ -32747,10 +32547,7 @@ Netflow Collector 仅读取</translation>
     <message>
       <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="56" />
       <source>Name</source>
-      <translation>上下文: CLogicalClustersListView
-位置: ../gui/Workspace/LogicalClustersListView.cpp:56
-文本:
-名称</translation>
+      <translation>名称</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="56" />
@@ -33454,9 +33251,7 @@ Netflow Collector 仅读取</translation>
     <message>
       <location filename="../gui/MainWindow/netspaceLogin.cpp" line="430" />
       <source>Login Timeout</source>
-      <translation>Context: CNetspaceLogin  
-Loc: ../gui/MainWindow/netspaceLogin.cpp:430  
-Text:  
+      <translation> 
 登录超时</translation>
     </message>
     <message>
@@ -33719,9 +33514,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessConnectionInfoBase.ui" line="232" />
       <source>4</source>
-      <translation>Context: CPCBaseWirelessConnectionInfo  
-Loc: ../gui/DesignerFiles/Workstation/PCWirelessConnectionInfoBase.ui:232  
-Text:  
+      <translation> 
 4</translation>
     </message>
     <message>
@@ -34022,10 +33815,7 @@ Text:
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1227" />
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1250" />
       <source>Login Name</source>
-      <translation>上下文: CPCWirelessClientCfg
-位置: ../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp:1227 | ../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp:1250
-文本:
-登录名</translation>
+      <translation>登录名</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1228" />
@@ -34204,9 +33994,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1598" />
       <source>WPA2 Enterprise</source>
-      <translation>Context: CPCWirelessClientCfg  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp:1598  
-Text:  
+      <translation> 
 WPA2 企业版</translation>
     </message>
     <message>
@@ -34217,9 +34005,7 @@ WPA2 企业版</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1731" />
       <source>WPA2 Personal</source>
-      <translation>Context: CPCWirelessClientCfg  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp:1731  
-Text:  
+      <translation> 
 WPA2 个人版</translation>
     </message>
     <message>
@@ -34384,9 +34170,7 @@ WPA2 个人版</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="131" />
       <source>CH column</source>
-      <translation>Context: CPCWirelessConnectionInfo  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp:131  
-Text:  
+      <translation> 
 CH 列</translation>
     </message>
     <message>
@@ -34402,9 +34186,7 @@ CH 列</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="134" />
       <source>Connect</source>
-      <translation>Context: CPCWirelessConnectionInfo  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp:134  
-Text:  
+      <translation> 
 连接</translation>
     </message>
     <message>
@@ -34415,25 +34197,19 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="178" />
       <source>Infrastructure</source>
-      <translation>Context: CPCWirelessConnectionInfo  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp:178  
-Text:  
+      <translation> 
 基础设施</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="181" />
       <source>Mixed B/G/N</source>
-      <translation>Context: CPCWirelessConnectionInfo  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp:181  
-Text:  
+      <translation> 
 混合 B/G/N</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="183" />
       <source>Wireless-N</source>
-      <translation>Context: CPCWirelessConnectionInfo  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp:183  
-Text:  
+      <translation> 
 Wireless-N</translation>
     </message>
     <message>
@@ -34454,9 +34230,7 @@ Wireless-N</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="191" />
       <source>Mixed B/G</source>
-      <translation>Context: CPCWirelessConnectionInfo  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp:191  
-Text:  
+      <translation> 
 混合 B/G</translation>
     </message>
     <message>
@@ -34593,10 +34367,7 @@ Text:
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp" line="91" />
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp" line="161" />
       <source>Bytes Transmitted</source>
-      <translation>上下文: CPCWirelessNetworkStats
-位置: ../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp:91 | ../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp:161
-文本:
-已传输字节数</translation>
+      <translation>已传输字节数</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp" line="92" />
@@ -34876,9 +34647,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="205" />
       <source>Mixed B/G/N</source>
-      <translation>Context: CPCWirelessNetworkStatus  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp:205  
-Text:  
+      <translation> 
 混合 B/G/N</translation>
     </message>
     <message>
@@ -34930,9 +34699,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfileEdit.cpp" line="114" />
       <source>Connect</source>
-      <translation>Context: CPCWirelessProfileEdit  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessProfileEdit.cpp:114  
-Text:  
+      <translation> 
 连接</translation>
     </message>
     <message>
@@ -34953,9 +34720,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfileEdit.cpp" line="118" />
       <source>CH button</source>
-      <translation>Context: CPCWirelessProfileEdit  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessProfileEdit.cpp:118  
-Text:  
+      <translation> 
 CH 按钮</translation>
     </message>
     <message>
@@ -35012,18 +34777,13 @@ CH 按钮</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="124" />
       <source>New</source>
-      <translation>Context: CPCWirelessProfiles  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp:124  
-Text:  
+      <translation> 
 新建</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="125" />
       <source>Edit</source>
-      <translation>上下文: CPCWirelessProfiles
-位置: ../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp:125
-文本:
-编辑</translation>
+      <translation>编辑</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="126" />
@@ -35073,9 +34833,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="134" />
       <source>Profiles</source>
-      <translation>Context: CPCWirelessProfiles  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp:134  
-Text:  
+      <translation> 
 配置文件</translation>
     </message>
     <message>
@@ -35108,9 +34866,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="216" />
       <source>WPA-Enterprise</source>
-      <translation>Context: CPCWirelessProfiles  
-Loc: ../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp:216  
-Text:  
+      <translation> 
 WPA-Enterprise</translation>
     </message>
     <message>
@@ -35533,9 +35289,7 @@ Destination: %3</source>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="971" />
       <source>RSTP BPDU</source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:971  
-Text:  
+      <translation> 
 RSTP BPDU</translation>
     </message>
     <message>
@@ -35591,9 +35345,7 @@ RSTP BPDU</translation>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1144" />
       <source>OSPF HELLO</source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:1144  
-Text:  
+      <translation> 
 OSPF HELLO</translation>
     </message>
     <message>
@@ -35604,17 +35356,13 @@ OSPF HELLO</translation>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1170" />
       <source>OSPF LINKSTATE</source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:1170  
-Text:  
+      <translation> 
 OSPF 链路状态</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1185" />
       <source>OSPF LINK STATE UPDATE</source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:1185  
-Text:  
+      <translation> 
 OSPF 链路状态更新</translation>
     </message>
     <message>
@@ -35649,9 +35397,7 @@ OSPF 链路状态更新</translation>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1282" />
       <source>IPv6 Header</source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:1282  
-Text:  
+      <translation> 
 IPv6 报头</translation>
     </message>
     <message>
@@ -35847,9 +35593,7 @@ IPv6 报头</translation>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2645" />
       <source>Layer 4: 
 </source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:2645  
-Text:  
+      <translation> 
 Layer 4:  
 第 4 层：</translation>
     </message>
@@ -35863,18 +35607,14 @@ Layer 4:
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2661" />
       <source>Layer 6: 
 </source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:2661  
-Text:  
+      <translation> 
 Layer 6:</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2669" />
       <source>Layer 7: 
 </source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:2669  
-Text:  
+      <translation> 
 Layer 7:</translation>
     </message>
     <message>
@@ -35942,9 +35682,7 @@ What is the device decision in this layer?</source>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1628" />
       <source>POP3</source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:1628  
-Text:  
+      <translation> 
 POP3</translation>
     </message>
     <message>
@@ -35968,9 +35706,7 @@ POP3</translation>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1696" />
       <source>RTP</source>
-      <translation>Context: CPDUInfo  
-Loc: ../gui/PDUInfo/PDUInfo.cpp:1696  
-Text:  
+      <translation> 
 RTP</translation>
     </message>
     <message>
@@ -36835,10 +36571,7 @@ Contact: %4
 Language: %5
 Desktop GUI: %6
 Command Prompt Commands: %7</source>
-      <translation>上下文: CProjectMonitor
-位置: ../gui/IoE/CProjectMonitor.cpp:345
-文本:
-%1
+      <translation>%1
 
 版本: %2
 作者: %3
@@ -36994,10 +36727,7 @@ Command Prompt Commands: %7</source>
     <message>
       <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="106" />
       <source>MAC Address</source>
-      <translation>上下文: CQuickDeviceInfo
-位置: ../gui/Workspace/QuickDeviceInfo.cpp:106
-文本:
-MAC 地址</translation>
+      <translation>MAC 地址</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="107" />
@@ -37232,11 +36962,7 @@ Bluetooth Tether AP: %1
     <message>
       <location filename="../gui/Workspace/Physical/RackView/RackView.cpp" line="131" />
       <source>Inspect</source>
-      <translation>请翻译成简体中文，保持占位符、标签和前后空白。
-
-Context: CRackView  
-Loc: ../gui/Workspace/Physical/RackView/RackView.cpp:131  
-Text:  
+      <translation> 
 检查</translation>
     </message>
     <message>
@@ -37534,9 +37260,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="616" />
       <source>Please use CLI to configure.</source>
-      <translation>Context: CRouterDialog  
-Loc: ../gui/DeviceConfig/Router/RouterDialog.cpp:616  
-Text:  
+      <translation> 
 请使用 CLI 进行配置。</translation>
     </message>
     <message>
@@ -37705,10 +37429,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="183" />
       <source>Invalid IP address entered.</source>
-      <translation>上下文: CRouterRipCfg
-位置: ../gui/DeviceConfig/Router/RouterRipCfg.cpp:183
-文本:
-输入的 IP 地址无效。</translation>
+      <translation>输入的 IP 地址无效。</translation>
     </message>
   </context>
   <context>
@@ -37716,10 +37437,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterServerDhcp.cpp" line="143" />
       <source>Invalid IP or Mask Address.</source>
-      <translation>上下文: CRouterServerDhcp
-文件位置: ../gui/DeviceConfig/Router/RouterServerDhcp.cpp:143
-文本:
-无效的 IP 或掩码地址。</translation>
+      <translation>无效的 IP 或掩码地址。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterServerDhcp.cpp" line="156" />
@@ -38053,9 +37771,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/scripting/CScriptEditor.cpp" line="564" />
       <source>Stop</source>
-      <translation>Context: CScriptEditor  
-Loc: ../gui/scripting/CScriptEditor.cpp:564  
-Text:  
+      <translation> 
 停止</translation>
     </message>
     <message>
@@ -38071,9 +37787,7 @@ Text:
     <message>
       <location filename="../gui/scripting/CScriptEditor.cpp" line="579" />
       <source>Yes</source>
-      <translation>Context: CScriptEditor  
-Loc: ../gui/scripting/CScriptEditor.cpp:579  
-Text:  
+      <translation> 
 是</translation>
     </message>
     <message>
@@ -38109,9 +37823,7 @@ Do you want to allow it?</source>
     <message>
       <location filename="../engine/scripting/CScriptHttpServerReply.cpp" line="83" />
       <source>The requested URL %1 was not found on this server.</source>
-      <translation>Context: CScriptHttpServerReply  
-Loc: ../engine/scripting/CScriptHttpServerReply.cpp:83  
-Text:  
+      <translation> 
 请求的 URL %1 在此服务器上未找到。</translation>
     </message>
   </context>
@@ -38306,10 +38018,7 @@ Do you want to allow it?</source>
       <source>Do you want to allow this file to access the following external network resource?
 
 %1</source>
-      <translation>上下文: CScriptNetAccess
-文件位置: ../engine/scripting/CScriptNetAccess.cpp:381
-文本:
-您是否允许此文件访问以下外部网络资源？
+      <translation>您是否允许此文件访问以下外部网络资源？
 
 %1</translation>
     </message>
@@ -38341,10 +38050,7 @@ Do you want to allow it?</source>
       <source>Do you want to allow %1 to access the following external network resource?
 
 %2</source>
-      <translation>上下文: CScriptNetAccess
-位置: ../engine/scripting/CScriptNetAccess.cpp:436
-文本:
-您是否允许 %1 访问以下外部网络资源？
+      <translation>您是否允许 %1 访问以下外部网络资源？
 
 %2</translation>
     </message>
@@ -38361,9 +38067,7 @@ Do you want to allow it?</source>
     <message>
       <location filename="../engine/scripting/CScriptNetAccess.cpp" line="516" />
       <source>Always</source>
-      <translation>Context: CScriptNetAccess  
-Loc: ../engine/scripting/CScriptNetAccess.cpp:516  
-Text:  
+      <translation> 
 始终</translation>
     </message>
     <message>
@@ -38973,9 +38677,7 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerDialog.cpp" line="232" />
       <source>AAA</source>
-      <translation>Context: CServerDialog  
-Loc: ../gui/DeviceConfig/Server/ServerDialog.cpp:232  
-Text:  
+      <translation> 
 AAA</translation>
     </message>
     <message>
@@ -39380,10 +39082,7 @@ Supported file extensions: .html .htm . php .css .js</source>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerNtp.cpp" line="72" />
       <source>Invalid Year -- %1</source>
-      <translation>上下文: CServerNtp
-位置: ../gui/DeviceConfig/Server/ServerNtp.cpp:72
-文本:
-无效的年份 -- %1</translation>
+      <translation>无效的年份 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerNtp.cpp" line="236" />
@@ -40601,10 +40300,7 @@ Supported file extensions: .html .htm . php .css .js</source>
       <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="131" />
       <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="134" />
       <source>On</source>
-      <translation>上下文: CServerServiceIoe
-位置: ../gui/DesignerFiles/Server/ServiceIoe.ui:128 | ../gui/DesignerFiles/Server/ServiceIoe.ui:131 | ../gui/DesignerFiles/Server/ServiceIoe.ui:134
-文本:
-开</translation>
+      <translation>开</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="154" />
@@ -40641,10 +40337,7 @@ Supported file extensions: .html .htm . php .css .js</source>
       <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="61" />
       <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="63" />
       <source>On</source>
-      <translation>上下文: CServerServiceIox
-位置: ../gui/DesignerFiles/Server/ServiceIox.ui:61 | ../gui/DesignerFiles/Server/ServiceIox.ui:63
-文本:
-开启</translation>
+      <translation>开启</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="81" />
@@ -41780,26 +41473,17 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="567" />
       <source>The time entered is invalid.</source>
-      <translation>上下文: CTrafficGenerator
-位置: ../gui/DeviceConfig/Workstation/TrafficGenerator.cpp:567
-文本:
-输入的时间无效。</translation>
+      <translation>输入的时间无效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="560" />
       <source>The minimum value for the interval is 0.001 and the maximum is 1000000 seconds.</source>
-      <translation>上下文: CTrafficGenerator
-位置: ../gui/DeviceConfig/Workstation/TrafficGenerator.cpp:560
-文本:
-间隔的最小值为 0.001 秒，最大值为 1000000 秒。</translation>
+      <translation>间隔的最小值为 0.001 秒，最大值为 1000000 秒。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="560" />
       <source>Incorrect Interval -- %1</source>
-      <translation>上下文: CTrafficGenerator
-位置: ../gui/DeviceConfig/Workstation/TrafficGenerator.cpp:560
-文本:
-错误的间隔 -- %1</translation>
+      <translation>错误的间隔 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="567" />
@@ -41887,9 +41571,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="84" />
       <source>The [[MODULE_NAME]] provides 16 switching ports.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:84  
-Text:  
+      <translation> 
 [[MODULE_NAME]] 提供了 16 个交换端口。</translation>
     </message>
     <message>
@@ -41951,9 +41633,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="141" />
       <source>Overwrite File?</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:141  
-Text:  
+      <translation> 
 覆盖文件？</translation>
     </message>
     <message>
@@ -42141,9 +41821,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="228" />
       <source>HTTP Server</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:228  
-Text:  
+      <translation> 
 HTTP 服务器</translation>
     </message>
     <message>
@@ -42477,9 +42155,7 @@ HTTP 服务器</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="370" />
       <source>Source Zone</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:370  
-Text:  
+      <translation> 
 源区域</translation>
     </message>
     <message>
@@ -42766,9 +42442,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="535" />
       <source>Inside Source List</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:535  
-Text:  
+      <translation> 
 内部源列表</translation>
     </message>
     <message>
@@ -42856,9 +42530,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="681" />
       <source>RS232</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:681  
-Text:  
+      <translation> 
 RS232</translation>
     </message>
     <message>
@@ -43291,9 +42963,7 @@ RS232</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="751" />
       <source>Peer Address</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:751  
-Text:  
+      <translation> 
 对端地址</translation>
     </message>
     <message>
@@ -43364,9 +43034,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="789" />
       <source>EIGRPv6 [[ASV6]]</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:789  
-Text:  
+      <translation> 
 EIGRPv6 [[ASV6]]</translation>
     </message>
     <message>
@@ -43878,10 +43546,7 @@ EIGRPv6 [[ASV6]]</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1110" />
       <source>The next-hop IP address is not in the ARP table. The ARP process tries to send an ARP request for that IP address and buffers this packet.</source>
-      <translation>上下文: CTranslationDB
-位置: ../gui/CTranslationDB.cpp:1110
-文本:
-下一跳 IP 地址不在 ARP 表中。ARP 进程会尝试为该 IP 地址发送 ARP 请求，并缓冲此数据包。</translation>
+      <translation>下一跳 IP 地址不在 ARP 表中。ARP 进程会尝试为该 IP 地址发送 ARP 请求，并缓冲此数据包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1111" />
@@ -43901,9 +43566,7 @@ EIGRPv6 [[ASV6]]</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1114" />
       <source>The ARP process updates the ARP table with received information.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1114  
-Text:  
+      <translation> 
 ARP 进程使用接收到的信息更新 ARP 表。</translation>
     </message>
     <message>
@@ -43919,9 +43582,7 @@ ARP 进程使用接收到的信息更新 ARP 表。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1117" />
       <source>The ARP process checks the routing table whether the requested IP address is reachable.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1117  
-Text:  
+      <translation> 
 ARP 进程检查路由表以确定请求的 IP 地址是否可达。</translation>
     </message>
     <message>
@@ -43952,9 +43613,7 @@ ARP 进程检查路由表以确定请求的 IP 地址是否可达。</translatio
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1123" />
       <source>The receiving port does not have an IP address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1123  
-Text:  
+      <translation> 
 接收端口没有 IP 地址。</translation>
     </message>
     <message>
@@ -44005,9 +43664,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1134" />
       <source>The ARP process takes out this packet from the buffer and resends it.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1134  
-Text:  
+      <translation> 
 ARP 进程从缓冲区中取出该数据包并重新发送。</translation>
     </message>
     <message>
@@ -44018,9 +43675,7 @@ ARP 进程从缓冲区中取出该数据包并重新发送。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1136" />
       <source>The requested IP address is reachable on the receiving port.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1136  
-Text:  
+      <translation> 
 请求的 IP 地址在接收端口上可达。</translation>
     </message>
     <message>
@@ -44051,9 +43706,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1142" />
       <source>The requested IP address is in the routing table.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1142  
-Text:  
+      <translation> 
 请求的 IP 地址在路由表中。</translation>
     </message>
     <message>
@@ -44069,9 +43722,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1145" />
       <source>The source IP address is not in the ARP table.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1145  
-Text:  
+      <translation> 
 源 IP 地址不在 ARP 表中。</translation>
     </message>
     <message>
@@ -44082,9 +43733,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1147" />
       <source>The ARP process updates the adjacency table with the received information.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1147  
-Text:  
+      <translation> 
 ARP 进程使用接收到的信息更新邻接表。</translation>
     </message>
     <message>
@@ -44100,33 +43749,25 @@ ARP 进程使用接收到的信息更新邻接表。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1181" />
       <source>The CDP process received a neighbor device ID.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1181  
-Text:  
+      <translation> 
 CDP 进程收到了邻居设备 ID。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1182" />
       <source>The CDP process received a neighbor port ID.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1182  
-Text:  
+      <translation> 
 CDP 进程收到了一个邻居端口 ID。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1183" />
       <source>The CDP process received neighbor capabilities.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1183  
-Text:  
+      <translation> 
 CDP 进程收到了邻居功能。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1184" />
       <source>The CDP process received a neighbor version.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1184  
-Text:  
+      <translation> 
 CDP 进程收到了邻居版本。</translation>
     </message>
     <message>
@@ -44137,17 +43778,13 @@ CDP 进程收到了邻居版本。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1186" />
       <source>The CDP process received a neighbor native VLAN.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1186  
-Text:  
+      <translation> 
 CDP 进程收到了邻居的本地 VLAN。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1187" />
       <source>The CDP process received an address TLV.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1187  
-Text:  
+      <translation> 
 CDP 进程收到了一个地址 TLV。</translation>
     </message>
     <message>
@@ -44514,9 +44151,7 @@ CDP 进程收到了一个地址 TLV。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1300" />
       <source>If the frame received is an LMI frame, check the device types and LMI types</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1300  
-Text:  
+      <translation> 
 如果接收到的帧是 LMI 帧，请检查设备类型和 LMI 类型</translation>
     </message>
     <message>
@@ -44642,9 +44277,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1371" />
       <source>The device does not have a service that accepts this protocol. It drops the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1371  
-Text:  
+      <translation> 
 该设备没有接受此协议的服务。它丢弃了数据包。</translation>
     </message>
     <message>
@@ -44655,9 +44288,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1373" />
       <source>The port does not have an IP address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1373  
-Text:  
+      <translation> 
 该端口没有 IP 地址。</translation>
     </message>
     <message>
@@ -44688,9 +44319,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1382" />
       <source>The destination IP address is in the same subnet. The device sets the next-hop to destination.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1382  
-Text:  
+      <translation> 
 目的 IP 地址在同一个子网中。设备将下一跳设置为目的地址。</translation>
     </message>
     <message>
@@ -44701,9 +44330,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1384" />
       <source>The destination IP address matches the port's IP address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1384  
-Text:  
+      <translation> 
 目标 IP 地址与端口的 IP 地址匹配。</translation>
     </message>
     <message>
@@ -44745,17 +44372,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1415" />
       <source>The NAT table has a matched entry for this packet. It replaces the source and destination addresses with the ones in the matched entry.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1415  
-Text:  
+      <translation> 
 NAT 表中有与此数据包匹配的条目。它将源地址和目的地址替换为匹配条目中的地址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1418" />
       <source>The NAT table has a matched static entry for the source global address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1418  
-Text:  
+      <translation> 
 NAT 表中有一个与源全局地址匹配的静态条目。</translation>
     </message>
     <message>
@@ -44766,9 +44389,7 @@ NAT 表中有一个与源全局地址匹配的静态条目。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1420" />
       <source>The NAT table has a matched static entry for the destination global address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1420  
-Text:  
+      <translation> 
 NAT 表中有一个与目标全局地址匹配的静态条目。</translation>
     </message>
     <message>
@@ -44795,9 +44416,7 @@ NAT 表中有一个与目标全局地址匹配的静态条目。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1429" />
       <source>The NAT table has a matched static entry for the source local address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1429  
-Text:  
+      <translation> 
 NAT 表中有一个与源本地地址匹配的静态条目。</translation>
     </message>
     <message>
@@ -44808,9 +44427,7 @@ NAT 表中有一个与源本地地址匹配的静态条目。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1431" />
       <source>The NAT table has a matched static entry for the destination local address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1431  
-Text:  
+      <translation> 
 NAT 表中有一个与目标本地地址匹配的静态条目。</translation>
     </message>
     <message>
@@ -44836,25 +44453,19 @@ NAT 表中有一个与目标本地地址匹配的静态条目。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1437" />
       <source>The NAT table has a matched entry for this packet. It replaces the outside global address and port with the local ones.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1437  
-Text:  
+      <translation> 
 NAT 表中有与此数据包匹配的条目。它将外部全局地址和端口替换为本地地址和端口。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1438" />
       <source>The NAT table has a matched entry for this packet. It replaces the inside local address and port with the global ones.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1438  
-Text:  
+      <translation> 
 NAT 表中有一个与此数据包匹配的条目。它将内部本地地址和端口替换为全局地址和端口。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1439" />
       <source>The NAT table has a matched entry for this packet. It replaces the outside local address and port with the global ones.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1439  
-Text:  
+      <translation> 
 NAT 表中有一个与此数据包匹配的条目。它将外部本地地址和端口替换为全局地址和端口。</translation>
     </message>
     <message>
@@ -44935,9 +44546,7 @@ NAT 表中有一个与此数据包匹配的条目。它将外部本地地址和�
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1481" />
       <source>The device encapsulates the packet into a PPP frame.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1481  
-Text:  
+      <translation> 
 设备将数据包封装成 PPP 帧。</translation>
     </message>
     <message>
@@ -45013,10 +44622,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1581" />
       <source>The routing table finds a routing entry to the destination IP address.</source>
-      <translation>上下文: CTranslationDB
-位置: ../gui/CTranslationDB.cpp:1581
-文本:
-路由表找到通往目标 IP 地址的路由条目。</translation>
+      <translation>路由表找到通往目标 IP 地址的路由条目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1584" />
@@ -45026,17 +44632,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1595" />
       <source>The source IP address of the packet matches one of this device's IP addresses. This device drops the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1595  
-Text:  
+      <translation> 
 该数据包的源 IP 地址与该设备的某个 IP 地址匹配。该设备丢弃该数据包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1597" />
       <source>The CEF table has an entry for the destination IP address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1597  
-Text:  
+      <translation> 
 CEF 表中有一个条目对应目标 IP 地址。</translation>
     </message>
     <message>
@@ -45099,9 +44701,7 @@ CEF 表中有一个条目对应目标 IP 地址。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="150" />
       <source>Would you allow external network access to Network Controller devices in current network?</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:150  
-Text:  
+      <translation> 
 您是否允许外部网络访问当前网络中的网络控制器设备？</translation>
     </message>
     <message>
@@ -45114,9 +44714,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="187" />
       <source>Embedded Server</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:187  
-Text:  
+      <translation> 
 嵌入式服务器</translation>
     </message>
     <message>
@@ -45861,9 +45459,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1262" />
       <source>Src-Mac</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1262  
-Text:  
+      <translation> 
 源 MAC</translation>
     </message>
     <message>
@@ -45906,9 +45502,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1379" />
       <source>The destination IP address [[IP]] is not in the same subnet and is not the broadcast address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1379  
-Text:  
+      <translation> 
 目标 IP 地址 [[IP]] 不在同一个子网内，也不是广播地址。</translation>
     </message>
     <message>
@@ -45919,9 +45513,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1397" />
       <source>The destination address matches the link local address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1397  
-Text:  
+      <translation> 
 目标地址与链路本地地址匹配。</translation>
     </message>
     <message>
@@ -45952,9 +45544,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1404" />
       <source>The Layer2 NAT table has a matched static entry for the encapsulated packet's source local address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1404  
-Text:  
+      <translation> 
 Layer2 NAT 表中有一个与封装数据包的源本地地址匹配的静态条目。</translation>
     </message>
     <message>
@@ -45970,9 +45560,7 @@ Layer2 NAT 表中有一个与封装数据包的源本地地址匹配的静态条
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1407" />
       <source>The Layer 2 NAT table does not have a matched entry for this frame. It drops the frame.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1407  
-Text:  
+      <translation> 
 Layer 2 NAT 表中没有与此帧匹配的条目。它将丢弃此帧。</translation>
     </message>
     <message>
@@ -45983,9 +45571,7 @@ Layer 2 NAT 表中没有与此帧匹配的条目。它将丢弃此帧。</transl
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1417" />
       <source>The packet is destined to the local (untranslated) address in a NAT statement. The NAT RPF drops the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1417  
-Text:  
+      <translation> 
 该数据包的目的地址是 NAT 语句中的本地（未转换）地址。NAT RPF 丢弃该数据包。</translation>
     </message>
     <message>
@@ -46076,9 +45662,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1487" />
       <source>The device receives the configuration request.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1487  
-Text:  
+      <translation> 
 设备接收到配置请求。</translation>
     </message>
     <message>
@@ -46089,9 +45673,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1489" />
       <source>The device receives a Configuration Ack.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1489  
-Text:  
+      <translation> 
 设备接收到一个配置确认。</translation>
     </message>
     <message>
@@ -46182,9 +45764,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1510" />
       <source>The device receives an IPCP Configuration Request and examines the request.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1510  
-Text:  
+      <translation> 
 设备接收到 IPCP 配置请求并检查该请求。</translation>
     </message>
     <message>
@@ -46245,17 +45825,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1524" />
       <source>The PTP process received the Announce packet and compare the advertised clock with it's current master clock.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1524  
-Text:  
+      <translation> 
 PTP 进程接收到 Announce 数据包，并将其通告的时钟与当前主时钟进行比较。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1525" />
       <source>The master sends a Sync message to the slave and notes the time (t1) at which it was sent.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1525  
-Text:  
+      <translation> 
 主设备向从设备发送一个 Sync 消息，并记录发送时间 (t1)。</translation>
     </message>
     <message>
@@ -46266,9 +45842,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1527" />
       <source>The master conveys to the slave the timestamp t1 by embedding the timestamp t1 in a Follow_Up message.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1527  
-Text:  
+      <translation> 
 主设备通过将时间戳 t1 嵌入 Follow_Up 消息中，将时间戳 t1 传递给从设备。</translation>
     </message>
     <message>
@@ -46294,9 +45868,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1532" />
       <source>The slave receives the delay-response message. It uses the recorded timestamps to adjust it's clock to the time of it's master</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1532  
-Text:  
+      <translation> 
 从节点接收延迟响应消息。它使用记录的时间戳来调整其时钟，以与主节点的时间同步。</translation>
     </message>
     <message>
@@ -46322,9 +45894,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1537" />
       <source>The receiving Announce has Step Removed value &gt; 255. The process disqualifies this announce.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1537  
-Text:  
+      <translation> 
 接收到的 Announce 中 Step Removed 值大于 255。此过程将该通告视为不合格。</translation>
     </message>
     <message>
@@ -46335,9 +45905,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1539" />
       <source>The receiving Announce is not the most recent . The process disqualifies this announce.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1539  
-Text:  
+      <translation> 
 接收到的 Announce 不是最新的。此过程将取消该 Announce 的资格。</translation>
     </message>
     <message>
@@ -46414,25 +45982,19 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1608" />
       <source>The interface does not have nameif configured.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1608  
-Text:  
+      <translation> 
 接口未配置 nameif。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1614" />
       <source>The acknowledgment removes the first packet in the neighbor's output queue.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1614  
-Text:  
+      <translation> 
 确认会移除邻居输出队列中的第一个数据包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1625" />
       <source>The updates its topology table with TLVs in the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1625  
-Text:  
+      <translation> 
 它使用数据包中的 TLV 更新其拓扑表。</translation>
     </message>
     <message>
@@ -46473,9 +46035,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1667" />
       <source>The Reply packet is the last expected reply.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1667  
-Text:  
+      <translation> 
 回复数据包是预期的最后一个回复。</translation>
     </message>
     <message>
@@ -46491,9 +46051,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1694" />
       <source>The OSPF packet is a Database Description packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1694  
-Text:  
+      <translation> 
 OSPF 数据包是一个数据库描述数据包。</translation>
     </message>
     <message>
@@ -46509,9 +46067,7 @@ OSPF 数据包是一个数据库描述数据包。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1704" />
       <source>The OSPF packet received does not have a matching instance ID.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1704  
-Text:  
+      <translation> 
 收到的 OSPF 数据包没有匹配的实例 ID。</translation>
     </message>
     <message>
@@ -46522,9 +46078,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1738" />
       <source>The update packet does not contain any route.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1738  
-Text:  
+      <translation> 
 更新包不包含任何路由。</translation>
     </message>
     <message>
@@ -46550,9 +46104,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1749" />
       <source>The [[DEVICE_TYPE]] drops the invalid frame.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1749  
-Text:  
+      <translation> 
 [[DEVICE_TYPE]] 丢弃了无效帧。</translation>
     </message>
     <message>
@@ -46638,9 +46190,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1767" />
       <source>The old entry in the MAC table is on a different port than the receiving port. The [[DEVICE_TYPE]] removes the old entry and adds a new one reflecting the change.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1767  
-Text:  
+      <translation> 
 MAC 表中的旧条目与接收端口不同。[[DEVICE_TYPE]] 删除旧条目并添加一个反映更改的新条目。</translation>
     </message>
     <message>
@@ -46666,9 +46216,7 @@ MAC 表中的旧条目与接收端口不同。[[DEVICE_TYPE]] 删除旧条目并
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1773" />
       <source>The PDU is dropped because the port is in unauthorized state.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1773  
-Text:  
+      <translation> 
 PDU 被丢弃，因为端口处于未授权状态。</translation>
     </message>
     <message>
@@ -46679,9 +46227,7 @@ PDU 被丢弃，因为端口处于未授权状态。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1776" />
       <source>The destination IP address is not valid. The connection failed.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1776  
-Text:  
+      <translation> 
 目标 IP 地址无效。连接失败。</translation>
     </message>
     <message>
@@ -46717,9 +46263,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1784" />
       <source>The TCP buffers the new data.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1784  
-Text:  
+      <translation> 
 TCP 缓冲新数据。</translation>
     </message>
     <message>
@@ -46750,9 +46294,7 @@ TCP 缓冲新数据。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1790" />
       <source>The TCP connection was reset.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1790  
-Text:  
+      <translation> 
 TCP 连接已被重置。</translation>
     </message>
     <message>
@@ -46763,9 +46305,7 @@ TCP 连接已被重置。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1792" />
       <source>The TCP connection was disconnected.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1792  
-Text:  
+      <translation> 
 TCP 连接已断开。</translation>
     </message>
     <message>
@@ -46786,9 +46326,7 @@ TCP 连接已断开。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1796" />
       <source>The TCP segment has the expected peer sequence number.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1796  
-Text:  
+      <translation> 
 TCP 段具有预期的对端序列号。</translation>
     </message>
     <message>
@@ -46939,9 +46477,7 @@ TCP 段具有预期的对端序列号。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1829" />
       <source>The access point drops the collided frame.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1829  
-Text:  
+      <translation> 
 接入点丢弃了发生冲突的数据帧。</translation>
     </message>
     <message>
@@ -46952,9 +46488,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1831" />
       <source>The access point forwards the frame to the wireless port.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1831  
-Text:  
+      <translation> 
 接入点将帧转发到无线端口。</translation>
     </message>
     <message>
@@ -46985,9 +46519,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1839" />
       <source>[[PORT_NAME]] sends out the frame.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1839  
-Text:  
+      <translation> 
 [[PORT_NAME]] 发送该帧。</translation>
     </message>
     <message>
@@ -46998,9 +46530,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1841" />
       <source>This frame collided with another frame at the device.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1841  
-Text:  
+      <translation> 
 该帧在设备上与其他帧发生了碰撞。</translation>
     </message>
     <message>
@@ -47057,17 +46587,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1853" />
       <source>The Trace route process starts next trace.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1853  
-Text:  
+      <translation> 
 追踪路由过程开始下一次追踪。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1854" />
       <source>The Subset Advertisement is added to the buffer of expected received Subset Advertisements.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1854  
-Text:  
+      <translation> 
 子集通告已添加到预期接收的子集通告缓冲区中。</translation>
     </message>
     <message>
@@ -47078,25 +46604,19 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1856" />
       <source>The VTP process detects VTP configuration.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1856  
-Text:  
+      <translation> 
 VTP 进程检测 VTP 配置。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1857" />
       <source>The config revision in the Summary Advertisement is equal to the local config revision.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1857  
-Text:  
+      <translation> 
 Summary Advertisement 中的配置修订版本等于本地配置修订版本。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1858" />
       <source>The config revision in the Summary Advertisement is greater than the local config revision.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1858  
-Text:  
+      <translation> 
 Summary Advertisement 中的配置修订版本大于本地配置修订版本。</translation>
     </message>
     <message>
@@ -47192,17 +46712,13 @@ Summary Advertisement 中的配置修订版本大于本地配置修订版本。<
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1877" />
       <source>The VTP process sends out a Subset Advertisement.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1877  
-Text:  
+      <translation> 
 VTP 进程发送了一个子集通告。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1878" />
       <source>The VTP process sends out a Summary Advertisement.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1878  
-Text:  
+      <translation> 
 VTP 进程发送 Summary Advertisement。</translation>
     </message>
     <message>
@@ -47213,9 +46729,7 @@ VTP 进程发送 Summary Advertisement。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1880" />
       <source>The VTP process changes the domain name back to NULL.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1880  
-Text:  
+      <translation> 
 VTP 进程将域名改回 NULL。</translation>
     </message>
     <message>
@@ -47261,9 +46775,7 @@ VTP 进程将域名改回 NULL。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1890" />
       <source>The LLDP process sends a LLDP Advertisement packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1890  
-Text:  
+      <translation> 
 LLDP 进程发送一个 LLDP 广告数据包。</translation>
     </message>
     <message>
@@ -47279,17 +46791,13 @@ LLDP 进程发送一个 LLDP 广告数据包。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1893" />
       <source>The LLDP process receives a LLDP Advertisement packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1893  
-Text:  
+      <translation> 
 LLDP 进程接收到了一个 LLDP 广告包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1894" />
       <source>The LLDP process processes the received LLDP Advertisement packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1894  
-Text:  
+      <translation> 
 LLDP 进程处理接收到的 LLDP 广告包。</translation>
     </message>
     <message>
@@ -47305,9 +46813,7 @@ LLDP 进程处理接收到的 LLDP 广告包。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1898" />
       <source>The REP port sends out a LSL Hello Message.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1898  
-Text:  
+      <translation> 
 REP 端口发送 LSL Hello 消息。</translation>
     </message>
     <message>
@@ -47323,9 +46829,7 @@ REP 端口发送 LSL Hello 消息。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1901" />
       <source>The REP port sends out a HFL Topology Changed Message.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1901  
-Text:  
+      <translation> 
 REP 端口发送 HFL 拓扑变更消息。</translation>
     </message>
     <message>
@@ -47341,9 +46845,7 @@ REP 端口发送 HFL 拓扑变更消息。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1905" />
       <source>The REP message is dropped because the REP process is not running on this port.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1905  
-Text:  
+      <translation> 
 REP 消息被丢弃，因为此端口上未运行 REP 进程。</translation>
     </message>
     <message>
@@ -47354,9 +46856,7 @@ REP 消息被丢弃，因为此端口上未运行 REP 进程。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1907" />
       <source>The REP process receives a LSL message with a wrong sequence number.  The REP process drops the message.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1907  
-Text:  
+      <translation> 
 REP 进程接收到一个序列号错误的 LSL 消息。REP 进程丢弃该消息。</translation>
     </message>
     <message>
@@ -47367,9 +46867,7 @@ REP 进程接收到一个序列号错误的 LSL 消息。REP 进程丢弃该消�
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1909" />
       <source>The REP process receives a HFL Topology Change message.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1909  
-Text:  
+      <translation> 
 REP 进程接收到一个 HFL 拓扑变更消息。</translation>
     </message>
     <message>
@@ -47405,9 +46903,7 @@ REP 进程接收到一个 HFL 拓扑变更消息。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1917" />
       <source>The received BPDU contains superior information.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1917  
-Text:  
+      <translation> 
 收到的 BPDU 包含更优的信息。</translation>
     </message>
     <message>
@@ -47454,9 +46950,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1931" />
       <source>The BPDU version is higher than the supported version on this device.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1931  
-Text:  
+      <translation> 
 BPDU 版本高于此设备支持的版本。</translation>
     </message>
     <message>
@@ -47572,10 +47066,7 @@ BPDU 版本高于此设备支持的版本。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1973" />
       <source>The SSH server does not recognize the connection.  The server drops the packet.</source>
-      <translation>上下文: CTranslationDB
-位置: ../gui/CTranslationDB.cpp:1973
-文本:
-SSH 服务器不识别该连接。服务器丢弃该数据包。</translation>
+      <translation>SSH 服务器不识别该连接。服务器丢弃该数据包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1974" />
@@ -47800,9 +47291,7 @@ SSH 服务器不识别该连接。服务器丢弃该数据包。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2692" />
       <source>AP Register</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2692  
-Text:  
+      <translation> 
 AP 寄存器</translation>
     </message>
     <message>
@@ -48101,17 +47590,13 @@ AP 寄存器</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3508" />
       <source>This file requires more addressable RAM than a 32bit process is allowed to use. Please use the 64bit version of Cisco Packet Tracer to open this file.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3508  
-Text:  
+      <translation> 
 此文件需要比 32 位进程允许使用的更多可寻址 RAM。请使用 64 位版本的 Cisco Packet Tracer 打开此文件。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3509" />
       <source>Not able to obtain enough RAM.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3509  
-Text:  
+      <translation> 
 无法获得足够的 RAM。</translation>
     </message>
     <message>
@@ -48157,9 +47642,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2008" />
       <source>The ND packet is a Neighbor Solicitation.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2008  
-Text:  
+      <translation> 
 ND 数据包是一个邻居请求。</translation>
     </message>
     <message>
@@ -48170,9 +47653,7 @@ ND 数据包是一个邻居请求。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2012" />
       <source>The sending port is down or it does not have an IPv6 address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2012  
-Text:  
+      <translation> 
 发送端口已关闭或没有 IPv6 地址。</translation>
     </message>
     <message>
@@ -48438,9 +47919,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2173" />
       <source>The Bluetooth frame's destination service UUID is found on this device. It sends the frame to the higher process.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2173  
-Text:  
+      <translation> 
 该蓝牙帧的目标服务 UUID 在此设备上找到。它将帧发送到更高层的进程。</translation>
     </message>
     <message>
@@ -48537,17 +48016,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2373" />
       <source>Client sends Acknowledgment to the server.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2373  
-Text:  
+      <translation> 
 客户端向服务器发送确认。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2374" />
       <source>Server received acknowledgment from the client.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2374  
-Text:  
+      <translation> 
 服务器从客户端收到了确认。</translation>
     </message>
     <message>
@@ -48588,9 +48063,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2408" />
       <source>The IoT client sends a DISCOVERY message to the multicast address.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2408  
-Text:  
+      <translation> 
 IoT 客户端向多播地址发送一条 DISCOVERY 消息。</translation>
     </message>
     <message>
@@ -48616,9 +48089,7 @@ IoT 客户端向多播地址发送一条 DISCOVERY 消息。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2418" />
       <source>The device sends a USB data frame.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2418  
-Text:  
+      <translation> 
 设备发送一个 USB 数据帧。</translation>
     </message>
     <message>
@@ -48629,9 +48100,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2420" />
       <source>The device sends a USB deploy project frame.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2420  
-Text:  
+      <translation> 
 设备发送一个 USB 部署项目帧。</translation>
     </message>
     <message>
@@ -48682,9 +48151,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2548" />
       <source>The FTP server sends the pwd response to the FTP client.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2548  
-Text:  
+      <translation> 
 FTP 服务器将 pwd 响应发送给 FTP 客户端。</translation>
     </message>
     <message>
@@ -48870,9 +48337,7 @@ FTP 服务器将 pwd 响应发送给 FTP 客户端。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2047" />
       <source>The DHCPv6 Client process receives a DHCP Reply message.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2047  
-Text:  
+      <translation> 
 DHCPv6 客户端进程接收到一个 DHCP 回复消息。</translation>
     </message>
     <message>
@@ -48893,9 +48358,7 @@ DHCPv6 客户端进程接收到一个 DHCP 回复消息。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2060" />
       <source>The DHCPv6 Server process receives a DHCP Solicit message.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2060  
-Text:  
+      <translation> 
 DHCPv6 服务器进程接收到一个 DHCP Solicit 消息。</translation>
     </message>
     <message>
@@ -48926,9 +48389,7 @@ DHCPv6 服务器进程接收到一个 DHCP Solicit 消息。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2065" />
       <source>The DHCPv6 Server process receives a DHCP Confirm message.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2065  
-Text:  
+      <translation> 
 DHCPv6 服务器进程接收到一个 DHCP 确认消息。</translation>
     </message>
     <message>
@@ -49179,9 +48640,7 @@ DHCPv6 服务器进程接收到一个 DHCP 确认消息。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2270" />
       <source>This MAC address is not already in the MAC table. This frame passes port security.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2270  
-Text:  
+      <translation> 
 此 MAC 地址尚未在 MAC 表中。此帧通过端口安全检查。</translation>
     </message>
     <message>
@@ -49192,9 +48651,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2273" />
       <source>This port already has a MAC entry for this MAC address. The frame passes port security.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2273  
-Text:  
+      <translation> 
 此端口已为此 MAC 地址存在一个 MAC 条目。该帧通过了端口安全检查。</translation>
     </message>
     <message>
@@ -49255,9 +48712,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2290" />
       <source>The packet received is encapsulated in GRE.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2290  
-Text:  
+      <translation> 
 收到的数据包封装在 GRE 中。</translation>
     </message>
     <message>
@@ -49288,9 +48743,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2300" />
       <source>ESP does not find matching SPI and drops the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2300  
-Text:  
+      <translation> 
 ESP 未找到匹配的 SPI 并丢弃了数据包。</translation>
     </message>
     <message>
@@ -49346,9 +48799,7 @@ ESP 未找到匹配的 SPI 并丢弃了数据包。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2316" />
       <source>Server refused the connection.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2316  
-Text:  
+      <translation> 
 服务器拒绝了连接。</translation>
     </message>
     <message>
@@ -49374,9 +48825,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2329" />
       <source>The responder does not have a policy matching initiator's policies.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2329  
-Text:  
+      <translation> 
 响应者没有与发起者的策略相匹配的策略。</translation>
     </message>
     <message>
@@ -49407,9 +48856,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2336" />
       <source>The initiator sends ID payload to the responder.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2336  
-Text:  
+      <translation> 
 发起者向响应者发送 ID 有效载荷。</translation>
     </message>
     <message>
@@ -49435,17 +48882,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2341" />
       <source>The responder sends second message and accepts the policy.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2341  
-Text:  
+      <translation> 
 响应者发送第二条消息并接受策略。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2342" />
       <source>The initiator sends first message with its configured policies.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2342  
-Text:  
+      <translation> 
 发起者发送带有其配置策略的第一条消息。</translation>
     </message>
     <message>
@@ -49516,9 +48959,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2360" />
       <source>Client sends configuration request PDU.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2360  
-Text:  
+      <translation> 
 客户端发送配置请求 PDU。</translation>
     </message>
     <message>
@@ -49544,17 +48985,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2365" />
       <source>Client process receives username and password query by server.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2365  
-Text:  
+      <translation> 
 客户端进程接收来自服务器的用户名和密码查询。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2366" />
       <source>Client process sends username and password response packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2366  
-Text:  
+      <translation> 
 客户端进程发送包含用户名和密码的响应数据包。</translation>
     </message>
     <message>
@@ -49595,9 +49032,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2378" />
       <source>Client Receives phase II mode message from server.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2378  
-Text:  
+      <translation> 
 客户端从服务器接收阶段二模式消息。</translation>
     </message>
     <message>
@@ -49624,9 +49059,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2384" />
       <source>The server receives a HTTP request.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2384  
-Text:  
+      <translation> 
 服务器接收到一个 HTTP 请求。</translation>
     </message>
     <message>
@@ -49637,9 +49070,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2388" />
       <source>The HTTP client makes a connection to the server.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2388  
-Text:  
+      <translation> 
 HTTP 客户端与服务器建立连接。</translation>
     </message>
     <message>
@@ -49660,17 +49091,13 @@ HTTP 客户端与服务器建立连接。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2394" />
       <source>The username and password in the HTTPS request is not correct. The server sends back an unauthorized error message to the client.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2394  
-Text:  
+      <translation> 
 HTTPS 请求中的用户名和密码不正确。服务器向客户端发送了一个未授权的错误消息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2395" />
       <source>The server receives a HTTPS request.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2395  
-Text:  
+      <translation> 
 服务器接收到一个 HTTPS 请求。</translation>
     </message>
     <message>
@@ -49681,9 +49108,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2398" />
       <source>The HTTPS client makes a connection to the server.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2398  
-Text:  
+      <translation> 
 HTTPS 客户端与服务器建立连接。</translation>
     </message>
     <message>
@@ -49729,9 +49154,7 @@ HTTPS 客户端与服务器建立连接。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2438" />
       <source>The received UDP segment is not a valid DNS response. The device drops the segment.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2438  
-Text:  
+      <translation> 
 收到的 UDP 数据段不是有效的 DNS 响应。设备丢弃该数据段。</translation>
     </message>
     <message>
@@ -49752,9 +49175,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2448" />
       <source>The TFTP server receives a TFTP read request from the TFTP client.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2448  
-Text:  
+      <translation> 
 TFTP 服务器从 TFTP 客户端接收一个 TFTP 读取请求。</translation>
     </message>
     <message>
@@ -49887,10 +49308,7 @@ TFTP 服务器从 TFTP 客户端接收一个 TFTP 读取请求。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2562" />
       <source>Reassembling fragments are successful.  IP passes the datagram to the upper process.</source>
-      <translation>上下文: CTranslationDB
-位置: ../gui/CTranslationDB.cpp:2562
-文本:
-重组分片成功。IP将数据报传递给上层进程。</translation>
+      <translation>重组分片成功。IP将数据报传递给上层进程。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2564" />
@@ -50062,9 +49480,7 @@ TFTP 服务器从 TFTP 客户端接收一个 TFTP 读取请求。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2664" />
       <source>Algorithm Settings</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2664  
-Text:  
+      <translation> 
 算法设置</translation>
     </message>
     <message>
@@ -50208,9 +49624,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2749" />
       <source>Timeout</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2749  
-Text:  
+      <translation> 
 超时</translation>
     </message>
     <message>
@@ -50413,9 +49827,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2870" />
       <source>Views</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2870  
-Text:  
+      <translation> 
 视图</translation>
     </message>
     <message>
@@ -51054,9 +50466,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="524" />
       <source>End IP address</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:524  
-Text:  
+      <translation> 
 结束 IP 地址</translation>
     </message>
     <message>
@@ -51319,9 +50729,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1100" />
       <source>The access-list with an ID of [[ACL_ID]] is not found or empty. The device permits the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1100  
-Text:  
+      <translation> 
 ID 为 [[ACL_ID]] 的访问控制列表未找到或为空。设备允许该数据包通过。</translation>
     </message>
     <message>
@@ -51554,9 +50962,7 @@ ID 为 [[ACL_ID]] 的访问控制列表未找到或为空。设备允许该数�
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1394" />
       <source>The packet received has been decapsulated.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1394  
-Text:  
+      <translation> 
 收到的数据包已被解封装。</translation>
     </message>
     <message>
@@ -51656,9 +51062,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1588" />
       <source>IPv6 unicast routing is disabled. The router drops the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1588  
-Text:  
+      <translation> 
 IPv6 单播路由已禁用。路由器丢弃该数据包。</translation>
     </message>
     <message>
@@ -51696,17 +51100,13 @@ IPv6 单播路由已禁用。路由器丢弃该数据包。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="115" />
       <source>The IoT power adapter.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:115  
-Text:  
+      <translation> 
 物联网电源适配器。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="121" />
       <source>The 1000BASE-LX/LH SFP operates in Gigabit Ethernet ports of Cisco Industrial Ethernet and SmartGrid switches and routers</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:121  
-Text:  
+      <translation> 
 1000BASE-LX/LH SFP 适用于 Cisco 工业以太网和 SmartGrid 交换机及路由器的千兆以太网端口</translation>
     </message>
     <message>
@@ -51812,17 +51212,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1615" />
       <source>The device adds the packet to the neighbor's output queue.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1615  
-Text:  
+      <translation> 
 设备将数据包添加到邻居的输出队列中。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1616" />
       <source>The device piggybacks the last-heard sequence number from the neighbor on the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1616  
-Text:  
+      <translation> 
 设备在数据包上附加上从邻居那里听到的最后一个序列号。</translation>
     </message>
     <message>
@@ -51865,17 +51261,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1624" />
       <source>The device sends a full update of its topology table to the new neighbor.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1624  
-Text:  
+      <translation> 
 设备将其拓扑表的完整更新发送给新邻居。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1626" />
       <source>The Query packet has more than one query entry. The device drops the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1626  
-Text:  
+      <translation> 
 查询数据包包含多个查询条目。设备将丢弃该数据包。</translation>
     </message>
     <message>
@@ -51941,9 +51333,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1642" />
       <source>There are outstanding packets in the neighbor's output queue. The device piggybacks an acknowledgment in the next packet to the neighbor.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1642  
-Text:  
+      <translation> 
 邻居的输出队列中有未处理的数据包。设备会在发送给邻居的下一个数据包中捎带确认信息。</translation>
     </message>
     <message>
@@ -51959,9 +51349,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1648" />
       <source>The device builds a full update packet to send to neighbor [[NEIGHBOR_IP]].</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1648  
-Text:  
+      <translation> 
 设备构建一个完整的更新数据包发送给邻居 [[NEIGHBOR_IP]]。</translation>
     </message>
     <message>
@@ -51992,9 +51380,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1654" />
       <source>The reply table has a best route. The device removes it.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1654  
-Text:  
+      <translation> 
 回复表中有最佳路由。设备将其移除。</translation>
     </message>
     <message>
@@ -52005,9 +51391,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1656" />
       <source>The device has no other neighbors. It stops the multicast.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1656  
-Text:  
+      <translation> 
 该设备没有其他邻居。它停止了组播。</translation>
     </message>
     <message>
@@ -52018,9 +51402,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1659" />
       <source>The reply table does not have a best route. The device uses infinity for the best route.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1659  
-Text:  
+      <translation> 
 回复表中没有最佳路由。设备将最佳路由设为无穷大。</translation>
     </message>
     <message>
@@ -52064,9 +51446,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1672" />
       <source>The device sends a Reply packet back to the neighbors that have queried for this route.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1672  
-Text:  
+      <translation> 
 该设备向查询此路由的邻居发送 Reply 数据包。</translation>
     </message>
     <message>
@@ -52107,17 +51487,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1680" />
       <source>The device does not have any neighbors. It stops the update.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1680  
-Text:  
+      <translation> 
 该设备没有任何邻居。它停止了更新。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1681" />
       <source>The device updates the received route with local information.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1681  
-Text:  
+      <translation> 
 设备使用本地信息更新收到的路由。</translation>
     </message>
     <message>
@@ -52128,9 +51504,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1683" />
       <source>The device tries to multicast the packet to all EIGRP interfaces.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1683  
-Text:  
+      <translation> 
 设备尝试将数据包多播到所有 EIGRP 接口。</translation>
     </message>
     <message>
@@ -52161,9 +51535,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1689" />
       <source>The device receives an authentication MD5 that is not matched with configuration. The device ignores the packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1689  
-Text:  
+      <translation> 
 设备接收到的 MD5 认证与配置不匹配。设备将忽略该数据包。</translation>
     </message>
     <message>
@@ -52189,9 +51561,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1698" />
       <source>The device receives an OSPF packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1698  
-Text:  
+      <translation> 
 设备接收到一个 OSPF 数据包。</translation>
     </message>
     <message>
@@ -52247,17 +51617,13 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1715" />
       <source>The device sends out an OSPF Database Description packet to form an adjacency.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1715  
-Text:  
+      <translation> 
 设备发送 OSPF 数据库描述数据包以形成邻接关系。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1716" />
       <source>The device sends out an OSPF Link State Request packet to request the neighbor's LSAs.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1716  
-Text:  
+      <translation> 
 设备发送 OSPF 链路状态请求数据包以请求邻居的 LSA。</translation>
     </message>
     <message>
@@ -52303,9 +51669,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1725" />
       <source>The device examines all of the routes in the received RIP RESPONSE.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1725  
-Text:  
+      <translation> 
 设备会检查收到的 RIP 响应中的所有路由。</translation>
     </message>
     <message>
@@ -52346,9 +51710,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1733" />
       <source>The device creates a RIP RESPONSE packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1733  
-Text:  
+      <translation> 
 设备创建一个 RIP 响应数据包。</translation>
     </message>
     <message>
@@ -52419,9 +51781,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1918" />
       <source>The received BPDU does not have superior information.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1918  
-Text:  
+      <translation> 
 收到的 BPDU 没有更优的信息。</translation>
     </message>
     <message>
@@ -52438,9 +51798,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1934" />
       <source>The device sets the Agreement bit on the BPDU.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1934  
-Text:  
+      <translation> 
 设备在 BPDU 上设置了 Agreement 位。</translation>
     </message>
     <message>
@@ -52456,9 +51814,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1990" />
       <source>The next-hop IP address is unicast address. The ND Process looks it up in the neighbor table.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1990  
-Text:  
+      <translation> 
 下一跳 IP 地址是单播地址。ND 进程会在邻居表中查找它。</translation>
     </message>
     <message>
@@ -52469,10 +51825,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1992" />
       <source>The next-hop IP address is not in the neighbor table. The NDP process sends a neighbor solicitation for that IP address and buffers this packet.</source>
-      <translation>上下文: CTranslationDB
-位置: ../gui/CTranslationDB.cpp:1992
-文本:
-下一跳 IP 地址不在邻居表中。NDP 进程会为该 IP 地址发送邻居请求并缓冲此数据包。</translation>
+      <translation>下一跳 IP 地址不在邻居表中。NDP 进程会为该 IP 地址发送邻居请求并缓冲此数据包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1993" />
@@ -52482,10 +51835,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1994" />
       <source>The next-hop IP address is in the adjacency table. The ND Process sets the frame's destination MAC address to the one found in the table.</source>
-      <translation>上下文: CTranslationDB
-位置: ../gui/CTranslationDB.cpp:1994
-文本:
-下一跳 IP 地址在邻接表中。ND 进程将帧的目标 MAC 地址设置为在表中找到的地址。</translation>
+      <translation>下一跳 IP 地址在邻接表中。ND 进程将帧的目标 MAC 地址设置为在表中找到的地址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1997" />
@@ -52495,9 +51845,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1998" />
       <source>The device updates the neighbor table with received information.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1998  
-Text:  
+      <translation> 
 设备使用接收到的信息更新邻居表。</translation>
     </message>
     <message>
@@ -52538,10 +51886,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2017" />
       <source>The Neighbor Solicitation times out. The device drops this buffered packet.</source>
-      <translation>上下文: CTranslationDB
-位置: ../gui/CTranslationDB.cpp:2017
-文本:
-邻居请求超时。设备丢弃此缓冲的数据包。</translation>
+      <translation>邻居请求超时。设备丢弃此缓冲的数据包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2018" />
@@ -53030,9 +52375,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3044" />
       <source>Receiving on the port channel [[PORT]].</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3044  
-Text:  
+      <translation> 
 在端口通道 [[PORT]] 上接收。</translation>
     </message>
     <message>
@@ -53123,9 +52466,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3127" />
       <source>TACACS SERVER: Receive the username to tacacs server </source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3127  
-Text:  
+      <translation> 
 TACACS SERVER: 将用户名发送到 TACACS 服务器</translation>
     </message>
     <message>
@@ -53171,17 +52512,13 @@ TACACS SERVER: 将用户名发送到 TACACS 服务器</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3136" />
       <source>TACACS SERVER: Send accounting response to the client</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3136  
-Text:  
+      <translation> 
 TACACS 服务器：向客户端发送计费响应</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3139" />
       <source>RADIUS CLIENT: Receive access reject</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3139  
-Text:  
+      <translation> 
 RADIUS CLIENT: 收到访问拒绝</translation>
     </message>
     <message>
@@ -53192,25 +52529,19 @@ RADIUS CLIENT: 收到访问拒绝</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3142" />
       <source>RADIUS CLIENT: Send accounting request</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3142  
-Text:  
+      <translation> 
 RADIUS 客户端: 发送计费请求</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3146" />
       <source>RADIUS SERVER: Receive access request</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3146  
-Text:  
+      <translation> 
 RADIUS SERVER: 收到访问请求</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3148" />
       <source>RADIUS SERVER: Send access accept</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3148  
-Text:  
+      <translation> 
 RADIUS SERVER: 发送访问接受</translation>
     </message>
     <message>
@@ -53221,9 +52552,7 @@ RADIUS SERVER: 发送访问接受</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3150" />
       <source>RADIUS SERVER: Send accounting response to the client</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3150  
-Text:  
+      <translation> 
 RADIUS 服务器：向客户端发送计费响应</translation>
     </message>
     <message>
@@ -53319,9 +52648,7 @@ RADIUS 服务器：向客户端发送计费响应</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3175" />
       <source>The total number of octets received on the interface, including framing characters.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3175  
-Text:  
+      <translation> 
 接口上接收到的总字节数，包括帧字符。</translation>
     </message>
     <message>
@@ -53402,33 +52729,25 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3401" />
       <source>Received a higher priority message with Active state</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3401  
-Text:  
+      <translation> 
 收到一个具有活动状态的更高优先级消息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3402" />
       <source>Received a lower priority message with Active state</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3402  
-Text:  
+      <translation> 
 收到一条处于活动状态但优先级较低的消息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3403" />
       <source>Received a higher priority message with Standby state</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3403  
-Text:  
+      <translation> 
 收到一个优先级更高的 Standby 状态消息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3404" />
       <source>Received a lower priority message with Standby state</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3404  
-Text:  
+      <translation> 
 收到一条优先级较低且处于备用状态的消息</translation>
     </message>
     <message>
@@ -53439,9 +52758,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3408" />
       <source>Sending a resign hello message</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3408  
-Text:  
+      <translation> 
 发送辞职 hello 消息</translation>
     </message>
     <message>
@@ -53593,9 +52910,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3088" />
       <source>This indicates a client (mode 3) unicast packet matching no association(mode 0). The server constructs a server(mode 4) packet and returns it to the client without retaining state. </source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3088  
-Text:  
+      <translation> 
 这表示一个客户端（模式 3）单播数据包没有匹配到任何关联（模式 0）。服务器构造一个服务器（模式 4）数据包并将其返回给客户端，而不保留状态。</translation>
     </message>
     <message>
@@ -53686,9 +53001,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3193" />
       <source>This entity's IP Routing table.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3193  
-Text:  
+      <translation> 
 此实体的 IP 路由表。</translation>
     </message>
     <message>
@@ -53704,9 +53017,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3197" />
       <source>The table containing per-interface IPv4-specific information.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3197  
-Text:  
+      <translation> 
 包含每个接口的 IPv4 特定信息的表。</translation>
     </message>
     <message>
@@ -53717,9 +53028,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3199" />
       <source>The table containing per-interface IPv6-specific information.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3199  
-Text:  
+      <translation> 
 包含每个接口的 IPv6 特定信息的表。</translation>
     </message>
     <message>
@@ -53745,9 +53054,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3208" />
       <source>The IP address of the next hop of this route. (In the case of a route bound to an interface which is realized via a broadcast media, the value of this field is the agent's IP address on that interface.)</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3208  
-Text:  
+      <translation> 
 此路由的下一跳 IP 地址。（在通过广播媒体实现的接口绑定的路由情况下，该字段的值是代理在该接口上的 IP 地址。）</translation>
     </message>
     <message>
@@ -53778,9 +53085,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3213" />
       <source>A reference to MIB definitions specific to the particular routing protocol which is responsible for this route, as determined by the value specified in the route's ipRouteProto value. If this information is not present, its value should be set to the OBJECT IDENTIFIER { 0 0 }, which is a syntactically valid object identifier, and any conformant implementation of ASN.1 and BER must be able to generate and recognize this value.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3213  
-Text:  
+      <translation> 
 特定于负责此路由的特定路由协议的 MIB 定义的引用，由路由的 ipRouteProto 值确定。如果此信息不存在，其值应设置为 OBJECT IDENTIFIER { 0 0 }，这是一个语法有效的对象标识符，并且任何符合 ASN.1 和 BER 的实现都必须能够生成和识别此值。</translation>
     </message>
     <message>
@@ -53827,9 +53132,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3228" />
       <source>The time a neighbor is considered reachable after receiving a reachability confirmation.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3228  
-Text:  
+      <translation> 
 在接收到可达性确认后，邻居被认为可达的时间。</translation>
     </message>
     <message>
@@ -53840,9 +53143,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3246" />
       <source>A list of RIP Peers.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3246  
-Text:  
+      <translation> 
 RIP 对等体列表。</translation>
     </message>
     <message>
@@ -53933,9 +53234,7 @@ RIP 对等体列表。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3282" />
       <source>The number of times that the intra-area route table has been calculated using this area's link-state database. This is typically done using Dijkstra's algorithm.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3282  
-Text:  
+      <translation> 
 区域内路由表使用该区域的链路状态数据库进行计算的次数。这通常是通过 Dijkstra 算法完成的。</translation>
     </message>
     <message>
@@ -53946,9 +53245,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3285" />
       <source>The OSPF Process's Links State Database.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3285  
-Text:  
+      <translation> 
 OSPF 进程的链路状态数据库。</translation>
     </message>
     <message>
@@ -53989,9 +53286,7 @@ OSPF 进程的链路状态数据库。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3294" />
       <source>A table of non-virtual neighbor information.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3294  
-Text:  
+      <translation> 
 非虚拟邻居信息表。</translation>
     </message>
     <message>
@@ -54002,9 +53297,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3296" />
       <source>The IP address of this neighbor.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3296  
-Text:  
+      <translation> 
 此邻居的 IP 地址。</translation>
     </message>
     <message>
@@ -54015,9 +53308,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3300" />
       <source>The State of the relationship with this Neighbor.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3300  
-Text:  
+      <translation> 
 与此邻居的关系状态。</translation>
     </message>
     <message>
@@ -54071,9 +53362,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3313" />
       <source>Placing packet in [[CLASS_NAME]] queue.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3313  
-Text:  
+      <translation> 
 将数据包放入 [[CLASS_NAME]] 队列。</translation>
     </message>
     <message>
@@ -54163,9 +53452,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="202" />
       <source>Tablet PC</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:202  
-Text:  
+      <translation> 
 平板电脑</translation>
     </message>
     <message>
@@ -54293,9 +53580,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1024" />
       <source>EPhones</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1024  
-Text:  
+      <translation> 
 EPhones</translation>
     </message>
     <message>
@@ -54321,9 +53606,7 @@ EPhones</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1030" />
       <source>Max Directory Number</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1030  
-Text:  
+      <translation> 
 最大目录号码</translation>
     </message>
     <message>
@@ -54467,9 +53750,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1157" />
       <source>The BGP UPDATE message contains routes for updating.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:1157  
-Text:  
+      <translation> 
 BGP UPDATE 消息包含用于更新的路由。</translation>
     </message>
     <message>
@@ -54600,9 +53881,7 @@ BGP UPDATE 消息包含用于更新的路由。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2242" />
       <source>POP3</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2242  
-Text:  
+      <translation> 
 POP3</translation>
     </message>
     <message>
@@ -54660,9 +53939,7 @@ POP3</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2473" />
       <source>The device sends an FTP command packet.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2473  
-Text:  
+      <translation> 
 设备发送一个 FTP 命令数据包。</translation>
     </message>
     <message>
@@ -54848,9 +54125,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2521" />
       <source>The FTP server receives the store file command from the FTP client.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2521  
-Text:  
+      <translation> 
 FTP 服务器从 FTP 客户端接收存储文件命令。</translation>
     </message>
     <message>
@@ -54948,9 +54223,7 @@ FTP 服务器检查文件是否存在，并等待来自 FTP 客户端的相应 R
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2547" />
       <source>The FTP server sends response that the data transfer went successfully</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:2547  
-Text:  
+      <translation> 
 FTP 服务器发送响应，表明数据传输成功</translation>
     </message>
     <message>
@@ -55177,9 +54450,7 @@ FTP 服务器发送响应，表明数据传输成功</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3194" />
       <source>The indication of whether this entity is acting as an IPv6 Router on any interface in respect to the forwarding of datagrams received by, but not addressed to, this entity. IPv6 Routers forward datagrams. IPv6 hosts do not (except those source-routed via the host).</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3194  
-Text:  
+      <translation> 
 此实体在任何接口上是否作为 IPv6 路由器运行，以转发收到但并非发给此实体的数据报的指示。IPv6 路由器会转发数据报。IPv6 主机则不会（通过主机源路由的情况除外）。</translation>
     </message>
     <message>
@@ -55205,9 +54476,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3235" />
       <source>The maximum time allowed between sending unsolicited Router advertisements from this interface</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3235  
-Text:  
+      <translation> 
 此接口发送非请求路由器通告的最大允许时间</translation>
     </message>
     <message>
@@ -55388,9 +54657,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3364" />
       <source>SCCP client is sending keepalive message</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3364  
-Text:  
+      <translation> 
 SCCP 客户端正在发送保活消息</translation>
     </message>
     <message>
@@ -55461,9 +54728,7 @@ SCCP 客户端正在发送保活消息</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3381" />
       <source>H323 client send H323 connect message </source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3381  
-Text:  
+      <translation> 
 H323 客户端发送 H323 连接消息</translation>
     </message>
     <message>
@@ -55484,9 +54749,7 @@ H323 客户端发送 H323 连接消息</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3386" />
       <source>H323 server received set up</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3386  
-Text:  
+      <translation> 
 H323 服务器收到设置请求</translation>
     </message>
     <message>
@@ -55497,9 +54760,7 @@ H323 服务器收到设置请求</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3389" />
       <source>Phone media process received voice</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:3389  
-Text:  
+      <translation> 
 电话媒体进程接收到语音</translation>
     </message>
     <message>
@@ -55540,9 +54801,7 @@ Text:
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="107" />
       <source>The USB hard drive adds extra external storage to the computer.</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:107  
-Text:  
+      <translation> 
 USB 硬盘为计算机增加了额外的外部存储空间。</translation>
     </message>
     <message>
@@ -55583,9 +54842,7 @@ USB 硬盘为计算机增加了额外的外部存储空间。</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="692" />
       <source>C Directory</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:692  
-Text:  
+      <translation> 
 C 目录</translation>
     </message>
     <message>
@@ -55671,9 +54928,7 @@ C 目录</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="739" />
       <source>DCE Port Name</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:739  
-Text:  
+      <translation> 
 DCE 端口名称</translation>
     </message>
     <message>
@@ -55774,9 +55029,7 @@ DCE 端口名称</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="843" />
       <source>IP MTU</source>
-      <translation>Context: CTranslationDB  
-Loc: ../gui/CTranslationDB.cpp:843  
-Text:  
+      <translation> 
 IP MTU</translation>
     </message>
     <message>
@@ -56502,9 +55755,7 @@ Cable Type: %6</source>
     <message>
       <location filename="../gui/scripting/CUserAppResourceReply.cpp" line="97" />
       <source>Resource not found</source>
-      <translation>Context: CUserAppResourceReply  
-Loc: ../gui/scripting/CUserAppResourceReply.cpp:97  
-Text:  
+      <translation> 
 资源未找到</translation>
     </message>
   </context>
@@ -56533,10 +55784,7 @@ Text:
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="266" />
       <source>Toggle PDU List Window (Ctrl+Shift+O)</source>
-      <translation>上下文: CUserCreatedPDU
-位置: ../gui/UserCreatedPDU/UserCreatedPDU.cpp:266
-文本:
-切换 PDU 列表窗口 (Ctrl+Shift+O)</translation>
+      <translation>切换 PDU 列表窗口 (Ctrl+Shift+O)</translation>
     </message>
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="267" />
@@ -56551,10 +55799,7 @@ Text:
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="271" />
       <source>Toggle PDU List Window (Cmd+Shift+O)</source>
-      <translation>上下文: CUserCreatedPDU
-位置: ../gui/UserCreatedPDU/UserCreatedPDU.cpp:271
-文本:
-切换 PDU 列表窗口 (Cmd+Shift+O)</translation>
+      <translation>切换 PDU 列表窗口 (Cmd+Shift+O)</translation>
     </message>
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="272" />
@@ -56569,10 +55814,7 @@ Text:
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285" />
       <source>Last Status</source>
-      <translation>上下文: CUserCreatedPDU
-位置: ../gui/UserCreatedPDU/UserCreatedPDU.cpp:285
-文本:
-最后状态</translation>
+      <translation>最后状态</translation>
     </message>
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285" />
@@ -56587,10 +55829,7 @@ Text:
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285" />
       <source>Type</source>
-      <translation>上下文: CUserCreatedPDU
-位置: ../gui/UserCreatedPDU/UserCreatedPDU.cpp:285
-文本:
-类型</translation>
+      <translation>类型</translation>
     </message>
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285" />
@@ -56665,10 +55904,7 @@ Text:
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="1146" />
       <source>Incompatible Device -- %1</source>
-      <translation>上下文: CUserCreatedPDU
-位置: ../gui/UserCreatedPDU/UserCreatedPDU.cpp:1146
-文本:
-不兼容的设备 -- %1</translation>
+      <translation>不兼容的设备 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="1176" />
@@ -56873,9 +56109,7 @@ Text:
     <message>
       <location filename="../gui/scripting/WebView.cpp" line="151" />
       <source>Feature Permission Request</source>
-      <translation>Context: CWebView  
-Loc: ../gui/scripting/WebView.cpp:151  
-Text:  
+      <translation> 
 功能权限请求</translation>
     </message>
     <message>
@@ -56891,9 +56125,7 @@ Text:
     <message>
       <location filename="../gui/scripting/WebView.cpp" line="541" />
       <source>Custom Interface (%1) not found in file script module.</source>
-      <translation>Context: CWebView  
-Loc: ../gui/scripting/WebView.cpp:541  
-Text:  
+      <translation> 
 自定义接口 (%1) 在脚本模块文件中未找到。</translation>
     </message>
     <message>
@@ -56904,17 +56136,13 @@ Text:
     <message>
       <location filename="../gui/scripting/WebView.cpp" line="556" />
       <source>Script module (%1) is disabled.</source>
-      <translation>Context: CWebView  
-Loc: ../gui/scripting/WebView.cpp:556  
-Text:  
+      <translation> 
 脚本模块 (%1) 已禁用。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/WebView.cpp" line="564" />
       <source>Error starting script module (%1).</source>
-      <translation>Context: CWebView  
-Loc: ../gui/scripting/WebView.cpp:564  
-Text:  
+      <translation> 
 启动脚本模块 (%1) 时出错。</translation>
     </message>
     <message>
@@ -57109,10 +56337,7 @@ this network in the future. Scripts in question belong to a script module with I
       <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="348" />
       <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="353" />
       <source>The MAC Address length is not correct!!</source>
-      <translation>上下文: CWirelessMACFilter
-位置: ../gui/DeviceConfig/Router/WirelessMACFilter.cpp:340 | ../gui/DeviceConfig/Router/WirelessMACFilter.cpp:348 | ../gui/DeviceConfig/Router/WirelessMACFilter.cpp:353
-文本:
-MAC 地址长度不正确!!</translation>
+      <translation>MAC 地址长度不正确!!</translation>
     </message>
   </context>
   <context>
@@ -57200,10 +56425,7 @@ MAC 地址长度不正确!!</translation>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="536" />
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="545" />
       <source>Shared Key should consist of alpha-numeric characters</source>
-      <translation>上下文: CWirelessSecurity
-位置: ../gui/DeviceConfig/Router/WirelessSecurity.cpp:536 | ../gui/DeviceConfig/Router/WirelessSecurity.cpp:545
-文本:
-共享密钥应由字母数字字符组成</translation>
+      <translation>共享密钥应由字母数字字符组成</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="736" />
@@ -57213,10 +56435,7 @@ MAC 地址长度不正确!!</translation>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="747" />
       <source>Value is out of range [1-255]</source>
-      <translation>上下文: CWirelessSecurity
-位置: ../gui/DeviceConfig/Router/WirelessSecurity.cpp:747
-文本:
-值超出范围 [1-255]</translation>
+      <translation>值超出范围 [1-255]</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="757" />
@@ -57537,9 +56756,7 @@ End the expression with: ")</source>
     <message>
       <location filename="../gui/Workspace/Workspace.cpp" line="136" />
       <source>Corporate Office</source>
-      <translation>Context: CWorkspace  
-Loc: ../gui/Workspace/Workspace.cpp:136  
-Text:  
+      <translation> 
 公司办公室</translation>
     </message>
     <message>
@@ -57618,9 +56835,7 @@ Text:
     <message>
       <location filename="../gui/Workspace/Workspace.cpp" line="4195" />
       <source>The cable cannot be connected to that port.</source>
-      <translation>Context: CWorkspace  
-Loc: ../gui/Workspace/Workspace.cpp:4195  
-Text:  
+      <translation> 
 该电缆无法连接到该端口。</translation>
     </message>
     <message>
@@ -58033,10 +57248,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="302" />
       <source>The UUID is not valid.</source>
-      <translation>上下文: CWorkstationBluetooth
-位置: ../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp:302
-文本:
-UUID 无效。</translation>
+      <translation>UUID 无效。</translation>
     </message>
   </context>
   <context>
@@ -58189,9 +57401,7 @@ UUID 无效。</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="1569" />
       <source>Requesting IP Address</source>
-      <translation>Context: CWorkstationDialog  
-Loc: ../gui/DeviceConfig/Workstation/WorkstationDialog.cpp:1569  
-Text:  
+      <translation> 
 请求 IP 地址</translation>
     </message>
     <message>
@@ -58424,10 +57634,7 @@ Text:
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="330" />
       <source>&amp;Dial</source>
-      <translation>上下文: CWorkstationDialupBase
-位置: ../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui:330
-文本:
-&amp;拨号</translation>
+      <translation>&amp;拨号</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="324" />
@@ -58546,10 +57753,7 @@ Port</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="318" />
       <source>The IP address is invalid.</source>
-      <translation>上下文: CWorkstationFirewall
-位置: ../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp:318
-文本:
-IP 地址无效。</translation>
+      <translation>IP 地址无效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="325" />
@@ -59153,18 +58357,12 @@ Port</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="114" />
       <source>Syntax :</source>
-      <translation>上下文: CWorkstationMibBrowser
-位置: ../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp:114
-文本:
-语法 :</translation>
+      <translation>语法 :</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="117" />
       <source>Access :</source>
-      <translation>上下文: CWorkstationMibBrowser
-位置: ../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp:117
-文本:
-访问 :</translation>
+      <translation>访问 :</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="120" />
@@ -59294,10 +58492,7 @@ Flow information:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="154" />
       <source>Error</source>
-      <translation>上下文: CWorkstationPCDialer
-位置: ../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp:154
-文本:
-错误</translation>
+      <translation>错误</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="154" />
@@ -60048,10 +59243,7 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkStationVpn.cpp" line="106" />
       <source>The fields are empty.</source>
-      <translation>上下文: CWorkstationVpn
-位置: ../gui/DeviceConfig/Workstation/WorkStationVpn.cpp:106
-文本:
-字段为空。</translation>
+      <translation>字段为空。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkStationVpn.cpp" line="160" />
@@ -60136,9 +59328,7 @@ and all previous settings will be erased.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="1976" />
       <source>OK</source>
-      <translation>Context: CWorkstationWebBrowser  
-Loc: ../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp:1976  
-Text:  
+      <translation> 
 OK</translation>
     </message>
     <message>
@@ -60149,9 +59339,7 @@ OK</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="2015" />
       <source>Connect</source>
-      <translation>Context: CWorkstationWebBrowser  
-Loc: ../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp:2015  
-Text:  
+      <translation> 
 连接</translation>
     </message>
     <message>
@@ -60167,9 +59355,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="2325" />
       <source>IoT Monitor</source>
-      <translation>Context: CWorkstationWebBrowser  
-Loc: ../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp:2325  
-Text:  
+      <translation> 
 IoT 监控器</translation>
     </message>
   </context>
@@ -60231,33 +59417,24 @@ IoT 监控器</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp" line="107" />
       <source>Authentication Required</source>
-      <translation>Context: CWorkstationWebViewNetworkReply  
-Loc: ../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp:107  
-Text:  
+      <translation> 
 需要身份验证</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp" line="111" />
       <source>Not Found</source>
-      <translation>Context: CWorkstationWebViewNetworkReply  
-Loc: ../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp:111  
-Text:  
+      <translation> 
 未找到</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp" line="119" />
       <source>Timeout</source>
-      <translation>上下文: CWorkstationWebViewNetworkReply  
-位置: ../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp:119  
-文本:
-超时</translation>
+      <translation>超时</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp" line="125" />
       <source>Protocol Error</source>
-      <translation>Context: CWorkstationWebViewNetworkReply  
-Loc: ../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp:125  
-Text:  
+      <translation> 
 协议错误</translation>
     </message>
   </context>
@@ -60453,10 +59630,7 @@ Text:
     <message>
       <location filename="../gui/DesignerFiles/CommonCartridgeExporter/CommonCartridgeExporter.ui" line="275" />
       <source>Detailed description of the PT file being exported.</source>
-      <translation>上下文: CommonCartridgeExporterClass
-位置: ../gui/DesignerFiles/CommonCartridgeExporter/CommonCartridgeExporter.ui:275
-文本:
-正在导出的 PT 文件的详细描述。</translation>
+      <translation>正在导出的 PT 文件的详细描述。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/CommonCartridgeExporter/CommonCartridgeExporter.ui" line="289" />
@@ -60713,9 +59887,7 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/Common/htmleditor.cpp" line="560" />
       <source>Save as...</source>
-      <translation>Context: HtmlEditor  
-Loc: ../gui/Common/htmleditor.cpp:560  
-Text:  
+      <translation> 
 另存为...</translation>
     </message>
     <message>
@@ -60848,18 +60020,12 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/LWAPPConfig.cpp" line="88" />
       <source>Incorrect Format</source>
-      <translation>上下文: LWAPPConfig
-位置: ../gui/DeviceConfig/CiscoWireless/LWAPPConfig.cpp:88
-文本:
-格式不正确</translation>
+      <translation>格式不正确</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/LWAPPConfig.cpp" line="88" />
       <source>The entered text is not a valid IP Address.</source>
-      <translation>上下文: LWAPPConfig
-文件位置: ../gui/DeviceConfig/CiscoWireless/LWAPPConfig.cpp:88
-文本:
-输入的文本不是有效的 IP 地址。</translation>
+      <translation>输入的文本不是有效的 IP 地址。</translation>
     </message>
   </context>
   <context>
@@ -61894,18 +61060,12 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="246" />
       <source>Value is out of range [0-255]</source>
-      <translation>上下文: QObject
-位置: ../gui/DeviceConfig/Router/AppAndGaming.cpp:246
-文本:
-值超出范围 [0-255]</translation>
+      <translation>值超出范围 [0-255]</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="220" />
       <source>Value is out of range [0-65535]</source>
-      <translation>上下文: QObject
-位置: ../gui/DeviceConfig/Router/AppAndGaming.cpp:220
-文本:
-值超出范围 [0-65535]</translation>
+      <translation>值超出范围 [0-65535]</translation>
     </message>
     <message>
       <location filename="../gui/TranslatorInfo.cpp" line="7" />
@@ -61950,9 +61110,7 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="1304" />
       <source>File saving finished.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:1304  
-Text:  
+      <translation> 
 文件保存完成。</translation>
     </message>
     <message>
@@ -61970,25 +61128,19 @@ Text:
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="1798" />
       <source>Saving Initial Network.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:1798  
-Text:  
+      <translation> 
 保存初始网络。</translation>
     </message>
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="1800" />
       <source>Saving Answer Network.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:1800  
-Text:  
+      <translation> 
 保存答案网络。</translation>
     </message>
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="1802" />
       <source>Saving Comparator tree.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:1802  
-Text:  
+      <translation> 
 保存 Comparator 树。</translation>
     </message>
     <message>
@@ -62014,17 +61166,13 @@ Text:
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="1950" />
       <source>Saving Locations</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:1950  
-Text:  
+      <translation> 
 保存位置</translation>
     </message>
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="2178" />
       <source>Loading physical workspace.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:2178  
-Text:  
+      <translation> 
 加载物理工作区。</translation>
     </message>
     <message>
@@ -62035,65 +61183,49 @@ Text:
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="2326" />
       <source>Loading User Network.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:2326  
-Text:  
+      <translation> 
 加载用户网络。</translation>
     </message>
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="2344" />
       <source>Loading Initial Network.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:2344  
-Text:  
+      <translation> 
 加载初始网络。</translation>
     </message>
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="2396" />
       <source>Loading Assessment Item tree</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:2396  
-Text:  
+      <translation> 
 加载评估项目树</translation>
     </message>
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="2503" />
       <source>Loading Locking Tree</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:2503  
-Text:  
+      <translation> 
 加载锁定树</translation>
     </message>
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="2666" />
       <source>Loading Script Module</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:2666  
-Text:  
+      <translation> 
 加载脚本模块</translation>
     </message>
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="2754" />
       <source>Creating Answer Database.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:2754  
-Text:  
+      <translation> 
 创建答案数据库。</translation>
     </message>
     <message>
       <location filename="../gui/File/ActivityFile.cpp" line="2756" />
       <source>Creating Scoring Database.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/ActivityFile.cpp:2756  
-Text:  
+      <translation> 
 创建评分数据库。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4066" />
       <source>File saved successfully.</source>
-      <translation>Context: QObject  
-Loc: ../gui/AppWindow.cpp:4066  
-Text:  
+      <translation> 
 文件保存成功。</translation>
     </message>
     <message>
@@ -62182,25 +61314,19 @@ Text:
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1408" />
       <source>Saving Senarios.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1408  
-Text:  
+      <translation> 
 保存场景。</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1412" />
       <source>Saving workspace.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1412  
-Text:  
+      <translation> 
 保存工作区。</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1417" />
       <source>Saving clusters.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1417  
-Text:  
+      <translation> 
 保存集群。</translation>
     </message>
     <message>
@@ -62211,73 +61337,55 @@ Text:
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1434" />
       <source>Saving script module</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1434  
-Text:  
+      <translation> 
 保存脚本模块</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1646" />
       <source>Loading images.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1646  
-Text:  
+      <translation> 
 加载图片。</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1729" />
       <source>Loading devices and drawings on workspace.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1729  
-Text:  
+      <translation> 
 正在工作区加载设备和绘图。</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1755" />
       <source>Loading physical workspace</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1755  
-Text:  
+      <translation> 
 加载物理工作区</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1773" />
       <source>Loading network devices.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1773  
-Text:  
+      <translation> 
 加载网络设备。</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1796" />
       <source>Loading scenarios.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1796  
-Text:  
+      <translation> 
 加载场景。</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1815" />
       <source>Loading description.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1815  
-Text:  
+      <translation> 
 加载描述。</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1830" />
       <source>Loading Script Modules.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1830  
-Text:  
+      <translation> 
 加载脚本模块。</translation>
     </message>
     <message>
       <location filename="../gui/File/NetworkFile.cpp" line="1889" />
       <source>Loading Code Testing.</source>
-      <translation>Context: QObject  
-Loc: ../gui/File/NetworkFile.cpp:1889  
-Text:  
+      <translation> 
 加载代码测试。</translation>
     </message>
   </context>
@@ -62431,10 +61539,7 @@ Text:
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="51" />
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="54" />
       <source>The Scripting Interface allows users to create script modules for adding new functionalities to Packet Tracer. Unlike ExApps, script modules are developed directly in Packet Tracer with no external development environment needed. Each pka/pkt file has its own file script module. The file script module is stopped once the file is closed. PT script modules are running as long as Packet Tracer is running and can be started and stopped manually. Please refer to the Scripting Interface help files for more detailed information.The typical sequence in creating a script module is as follows:</source>
-      <translation>上下文: ScriptingInterface
-位置: ../gui/DesignerFiles/scripting/ScriptingInterface.ui:51 | ../gui/DesignerFiles/scripting/ScriptingInterface.ui:54
-文本:
-脚本接口允许用户创建脚本模块，以向 Packet Tracer 添加新功能。与 ExApps 不同，脚本模块直接在 Packet Tracer 中开发，无需外部开发环境。每个 pka/pkt 文件都有自己的文件脚本模块。文件关闭后，文件脚本模块将停止。只要 Packet Tracer 在运行，PT 脚本模块就会一直运行，并且可以手动启动和停止。有关详细信息，请参阅脚本接口帮助文件。创建脚本模块的典型步骤如下：</translation>
+      <translation>脚本接口允许用户创建脚本模块，以向 Packet Tracer 添加新功能。与 ExApps 不同，脚本模块直接在 Packet Tracer 中开发，无需外部开发环境。每个 pka/pkt 文件都有自己的文件脚本模块。文件关闭后，文件脚本模块将停止。只要 Packet Tracer 在运行，PT 脚本模块就会一直运行，并且可以手动启动和停止。有关详细信息，请参阅脚本接口帮助文件。创建脚本模块的典型步骤如下：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="57" />
@@ -62496,10 +61601,7 @@ The typical sequence in creating a script module is as follows:</source>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="181" />
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="184" />
       <source>Add and edit script engine files with ECMAScript language (JavaScript). Script module logics should be coded in the script engine. The script engine is persistent as long as the script module is running.</source>
-      <translation>上下文: ScriptingInterface
-位置: ../gui/DesignerFiles/scripting/ScriptingInterface.ui:178 | ../gui/DesignerFiles/scripting/ScriptingInterface.ui:181 | ../gui/DesignerFiles/scripting/ScriptingInterface.ui:184
-文本:
-使用 ECMAScript 语言（JavaScript）添加和编辑脚本引擎文件。脚本模块的逻辑应在脚本引擎中编码。只要脚本模块在运行，脚本引擎就会持续存在。</translation>
+      <translation>使用 ECMAScript 语言（JavaScript）添加和编辑脚本引擎文件。脚本模块的逻辑应在脚本引擎中编码。只要脚本模块在运行，脚本引擎就会持续存在。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="213" />
@@ -62523,10 +61625,7 @@ The typical sequence in creating a script module is as follows:</source>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="287" />
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="290" />
       <source>Add and edit data files with xml, csv, or any plain text data. They can be treated as files or as a hash table. Data can also be dynamically added or removed in code during runtime, and they are saved with the Packet Tracer options file for persistence. Saving or exporting the script module also saves the data.</source>
-      <translation>上下文: ScriptingInterface
-位置: ../gui/DesignerFiles/scripting/ScriptingInterface.ui:284 | ../gui/DesignerFiles/scripting/ScriptingInterface.ui:287 | ../gui/DesignerFiles/scripting/ScriptingInterface.ui:290
-文本:
-添加和编辑 XML、CSV 或任何纯文本数据文件。它们可以作为文件处理，也可以作为哈希表处理。数据也可以在运行时通过代码动态添加或删除，并且这些数据会随 Packet Tracer 选项文件一起保存以保持持久性。保存或导出脚本模块时也会保存这些数据。</translation>
+      <translation>添加和编辑 XML、CSV 或任何纯文本数据文件。它们可以作为文件处理，也可以作为哈希表处理。数据也可以在运行时通过代码动态添加或删除，并且这些数据会随 Packet Tracer 选项文件一起保存以保持持久性。保存或导出脚本模块时也会保存这些数据。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="313" />
@@ -63257,33 +62356,22 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="110" />
       <source>An existing WLAN has the same name.</source>
-      <translation>上下文: WirelessWlans
-位置: ../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp:110
-文本:
-已存在同名的 WLAN。</translation>
+      <translation>已存在同名的 WLAN。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="117" />
       <source>Duplicate SSID</source>
-      <translation>上下文: WirelessWlans
-位置: ../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp:117
-文本:
-重复的 SSID</translation>
+      <translation>重复的 SSID</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="117" />
       <source>An existing WLAN named %1 has the same SSID.</source>
-      <translation>上下文: WirelessWlans
-文件位置: ../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp:117
-文本:
-已存在一个名为 %1 的 WLAN，其 SSID 相同。</translation>
+      <translation>已存在一个名为 %1 的 WLAN，其 SSID 相同。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="123" />
       <source>Invalid VLAN</source>
-      <translation>Context: WirelessWlans  
-Loc: ../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp:123  
-Text:  
+      <translation> 
 无效的 VLAN</translation>
     </message>
     <message>
@@ -63306,9 +62394,7 @@ Text:
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="139" />
       <source>RADIUS shared secret value must contain alphanumeric characters only.</source>
-      <translation>Context: WirelessWlans  
-Loc: ../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp:139  
-Text:  
+      <translation> 
 RADIUS 共享密钥值只能包含字母数字字符。</translation>
     </message>
     <message>
@@ -63336,10 +62422,7 @@ RADIUS 共享密钥值只能包含字母数字字符。</translation>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="172" />
       <source>Key should consist of HEX digits only.</source>
-      <translation>上下文: WirelessWlans
-位置: ../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp:172
-文本:
-密钥应仅由十六进制数字组成。</translation>
+      <translation>密钥应仅由十六进制数字组成。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="182" />
@@ -63350,10 +62433,7 @@ RADIUS 共享密钥值只能包含字母数字字符。</translation>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="182" />
       <source>Pass phrase should be minimum 8 and maximum 63 ascii chars long.</source>
-      <translation>上下文: WirelessWlans
-位置: ../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp:182
-文本:
-密码短语应至少为8个字符，最多为63个ASCII字符。</translation>
+      <translation>密码短语应至少为8个字符，最多为63个ASCII字符。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="190" />

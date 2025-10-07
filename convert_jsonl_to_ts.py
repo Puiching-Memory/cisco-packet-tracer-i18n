@@ -56,7 +56,7 @@ def parse_arguments() -> argparse.Namespace:
 
 
 def extract_translated_text(content: str) -> str:
-    markers = ["Text:\r\n", "Text:\n"]
+    markers = ["Text:\r\n", "Text:\n", "文本:\n", "Text: "]
     for marker in markers:
         if marker in content:
             return content.split(marker, 1)[1]

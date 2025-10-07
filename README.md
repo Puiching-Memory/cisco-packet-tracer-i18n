@@ -66,7 +66,7 @@ python convert_ts_to_jsonl.py template_9.0.0.0700.ts requests.jsonl \
 批量翻译完成后，将返回的 `_success.jsonl` 读取并写回 `.ts` 模板。
 
 ```bash
-python convert_jsonl_to_ts.py template_9.0.0.0700.ts xxx_success.jsonl zh_cn_Qwen-Max_9.0.0.0700.ts \
+python convert_jsonl_to_ts.py template_8.2.2.0400.ts xxx_success.jsonl zh_cn_Qwen-Max_8.2.2.0400.ts \
 	--start-index 1 \
 	--deduplicate \
 	--include-finished \
